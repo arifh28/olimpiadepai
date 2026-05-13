@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "question": "Secara bahasa, kata \"Iman\" berasal dari bahasa Arab yang berarti...",
+    "options": ["Mengingkari", "Mengetahui", "Percaya", "Ragu"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Tingkatan iman yang paling tinggi adalah ketika seseorang beribadah seolah-olah melihat Allah, atau merasa diawasi oleh-Nya. Istilah ini disebut...",
+    "options": ["Islam", "Ihsan", "Iman", "Taqwa"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Mengimani adanya Allah SWT merupakan rukun iman yang ke-...",
+    "options": ["1", "2", "3", "4"],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "Syahadat pertama (Syahadat Tauhid) berisi tentang...",
+    "options": ["Pengakuan Nabi Muhammad sebagai utusan", "Kewajiban menunaikan shalat", "Pengakuan bahwa hanya Allah satu-satunya Tuhan yang wajib disembah", "Perintah berbuat baik kepada sesama"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "Mempercayai adanya Allah melalui ciptaan-Nya disebut menggunakan dalil...",
+    "options": ["Naqli", "Lisan", "Qalbu", "Aqli"],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "Sifat yang pasti dimiliki oleh Allah SWT sebagai kesempurnaan bagi-Nya disebut...",
+    "options": ["Sifat Jaiz", "Sifat Wajib", "Sifat Mustahil", "Sifat Sunnah"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Allah SWT itu ada dan tidak mungkin tidak ada. Sifat wajib Allah ini adalah...",
+    "options": ["Baqa'", "Wujud", "Qidam", "Kalam"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Allah itu terdahulu dan tidak ada permulaannya. Ini adalah arti dari sifat...",
+    "options": ["Qidam", "Baqa'", "Hayat", "Wujud"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Sifat Mukhalafatu lil hawaditsi berarti...",
+    "options": ["Allah Maha Melihat", "Allah berdiri sendiri", "Allah berbeda dengan Makhluk/Ciptaan-Nya", "Allah Maha Mendengar"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Allah itu Esa, tidak terbagi-bagi dan tidak ada sekutu bagi-Nya. Sifat ini disebut...",
+    "options": ["Wahdaniyah", "Qudrat", "Iradat", "Sama'"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Kebalikan dari sifat Qudrat (Kuasa) adalah sifat mustahil...",
+    "options": ["Mautun (Mati)", "Jahlun (Bodoh)", "Karahah (Terpaksa)", "Ajzun (Lemah)"],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "Sifat yang menyatakan bahwa Allah boleh menciptakan sesuatu atau tidak menciptakan sesuatu disebut...",
+    "options": ["Sifat Mustahil", "Sifat Jaiz", "Sifat Wajib", "Sifat Fitrah"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Jumlah nama-nama Allah yang baik (Asmaul Husna) yang disebutkan dalam hadits adalah...",
+    "options": ["25", "99", "100", "114"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Nama Allah Al-Bashir memiliki arti...",
+    "options": ["Maha Mengetahui", "Maha Melihat", "Maha Mendengar", "Maha Kuasa"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Jika kita ingin memohon ampunan atas dosa-dosa kita, kita sebaiknya memanggil Allah dengan asma...",
+    "options": ["Al-Ghaffar", "Al-Adl", "Al-Kabir", "Al-Jabbar"],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "Allah Maha Berdiri Sendiri dan tidak membutuhkan bantuan makhluk-Nya. Asma yang sesuai adalah...",
+    "options": ["Al-Khaliq", "Al-Ahad", "Al-Qayyum", "Al-Malik"],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "Seorang siswa belajar dengan tekun karena yakin Allah Maha Mengetahui segala usahanya. Siswa tersebut mengamalkan asma...",
+    "options": ["Al-Hakam", "Al-Alim", "Al-Hakim", "Al-Khabir"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Manakah perilaku di bawah ini yang menunjukkan iman kepada Allah melalui sifat Al-Khabir (Maha Waspada/Mengetahui rahasia)?",
+    "options": ["Bersedekah secara terang-terangan", "Tidur saat waktunya shalat", "Berbicara jujur meskipun tidak ada orang yang mendengar", "Membicarakan aib teman"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Seseorang yang merasa bahwa keberhasilan bisnisnya 100% karena otaknya sendiri tanpa campur tangan Allah, telah melakukan...",
+    "options": ["Syirik Jali", "Nifaq", "Syirik Khafi (Tersembunyi) dan Kufur Nikmat", "Bid'ah"],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "Hikmah utama mengimani bahwa Allah Maha Adil (Al-Adl) adalah...",
+    "options": ["Merasa diri selalu benar", "Membuat kita takut berbuat dosa karena pasti dibalas", "Menjadi pesimis dalam hidup", "Merendahkan orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Mengimani sifat Hayat Allah membuat seorang Muslim...",
+    "options": ["Menghindari kematian", "Mengisi waktu dengan hal tidak bermanfaat", "Menghargai waktu dan kehidupan sebagai pemberian Allah", "Merasa tidak perlu berusaha"],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "question": "Dalil Naqli tentang keesaan Allah terdapat dalam...",
+    "options": ["Surah Al-Baqarah ayat 1", "Surah An-Nas ayat 1", "Surah Al-Fatihah ayat 1", "Surah Al-Ikhlas ayat 1"],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "question": "Perhatikan keteraturan orbit planet di tata surya. Secara logika Aqli, fenomena ini membuktikan bahwa...",
+    "options": ["Alam semesta terjadi secara kebetulan", "Ada kekuatan luar biasa yang tidak terbatas yang mengatur segalanya", "Planet memiliki gravitasinya sendiri tanpa pengatur", "Bintang-bintang mengatur tata surya"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Seorang ilmuwan menemukan bahwa DNA manusia memiliki kode instruksi yang sangat kompleks. Hal ini sejalan dengan sifat Allah...",
+    "options": ["Al-Khaliq dan Al-Alim", "Ar-Rahman dan Ar-Rahim", "Al-Qawiy dan Al-Matin", "Al-Ghafur dan Al-Afuww"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Jika ada dua tuhan yang menguasai alam semesta, maka akan terjadi perselisihan. Logika surah Al-Anbiya ayat 22 ini menekankan pada sifat...",
+    "options": ["Qudrat", "Wahdaniyah", "Iradat", "Qiyamuhu binafsihi"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Allah memiliki sifat Qiyamuhu binafsihi. Jika seorang Muslim merasa bahwa Allah membutuhkan shalatnya, pemahaman itu salah karena...",
+    "options": ["Manusia tidak diwajibkan shalat", "Shalat hanya menguntungkan malaikat", "Kemuliaan Allah bersifat mutlak dan tidak bergantung pada amal makhluk-Nya", "Allah hanya butuh zakat"],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "question": "Sifat Baqa' berarti Allah Kekal. Apa dampak psikologis bagi Mukmin yang memahami sifat ini saat kehilangan orang yang dicintainya?",
+    "options": ["Menyalahkan takdir", "Depresi berkepanjangan", "Menyadari bahwa hanya Allah sandaran yang abadi, sehingga ia tidak larut dalam kesedihan", "Berhenti beribadah karena kecewa"],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "Allah bersifat Kalam. Namun, Kalam Allah tidak berupa suara dan huruf seperti manusia. Hal ini membuktikan bahwa Allah memiliki sifat...",
+    "options": ["Mukhalafatu lil hawaditsi", "Sama'", "Bashar", "Qiyamuhu binafsihi"],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Seseorang selalu berbuat curang saat ujian karena merasa tidak ada pengawas. Orang tersebut sebenarnya krisis iman terhadap Asmaul Husna...",
+    "options": ["Al-Qayyum dan Al-Majid", "Ar-Rahman dan Ar-Rahim", "Al-Bashir dan Ar-Raqib", "Al-Ghaffar dan At-Tawwab"],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "question": "Ketika dihina, seseorang memilih memaafkan karena yakin Allah Maha Melihat kebenaran. Sikap ini adalah bentuk implementasi iman kepada...",
+    "options": ["Al-Khaliq dan Al-Bari'", "Al-Adl dan Al-Hakam", "Al-Wadud dan Al-Majid", "Al-Ahad dan Ash-Shamad"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Konsep Ar-Razzaq sering disalahpahami. Pemahaman yang benar adalah...",
+    "options": ["Rezeki datang tanpa usaha", "Allah menjamin rezeki bagi mereka yang menempuh jalur ikhtiar yang halal", "Hanya orang kaya yang mendapat rezeki", "Keberuntungan menentukan segalanya"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Mengapa Riya' (ingin dipuji) disebut dapat merusak iman kepada Allah?",
+    "options": ["Karena membuang-buang waktu", "Karena memalingkan tujuan ibadah dari Allah kepada penilaian manusia", "Karena membuat orang lain iri", "Karena merugikan secara materi"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Seseorang berdoa kepada Allah namun hatinya masih bergantung pada jimat. Dalam konteks Tauhid, hal ini disebut...",
+    "options": ["Syirik Lafdzi", "Bid'ah", "Syirik Amali", "Syirik Itiqadi (keyakinan)"],
+    "answer": 3
+  },
+  {
+    "id": 34,
+    "question": "Analisislah hubungan antara iman kepada Allah dengan pelestarian lingkungan. Manakah argumen yang paling tepat?",
+    "options": ["Lingkungan dibiarkan saja berkembang sendiri", "Merusak alam berarti menghina karya Allah (Al-Khaliq) dan mengabaikan amanah sebagai khalifah", "Membangun lebih penting daripada alam", "Alam akan selalu pulih dengan sendirinya"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Apa perbedaan mendasar antara \"Tuhan\" sebagai konsep filosofis dan \"Allah\" dalam keimanan Islam?",
+    "options": ["Tuhan adalah konsep umum, sedangkan Allah adalah nama diri (Ism Dzat) yang memiliki sifat sempurna sesuai wahyu", "Kedua konsep tersebut tidak ada bedanya", "Allah hanya Tuhan bagi bangsa Arab", "Tuhan memiliki sifat yang terbatas dibanding Allah"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Manakah tindakan yang mencerminkan tingkat Ihsan paling tinggi?",
+    "options": ["Beribadah hanya di bulan Ramadhan", "Shalat karena takut dimarahi orang tua", "Tetap istiqomah beribadah meski dalam keadaan sendirian dan sulit karena merasa Allah selalu hadir", "Bersedekah agar didokumentasikan"],
+    "answer": 2
+  }
+]

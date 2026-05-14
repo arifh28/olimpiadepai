@@ -214,5 +214,389 @@
     "question": "Manakah tindakan yang mencerminkan tingkat Ihsan paling tinggi?",
     "options": ["Beribadah hanya di bulan Ramadhan", "Shalat karena takut dimarahi orang tua", "Tetap istiqomah beribadah meski dalam keadaan sendirian dan sulit karena merasa Allah selalu hadir", "Bersedekah agar didokumentasikan"],
     "answer": 2
+  },
+  {
+    "id": 37,
+    "question": "Perhatikan pernyataan berikut: \"Alam semesta ini sangat luas dan teratur, mulai dari atom hingga galaksi.\" Jika dikaitkan dengan sifat wajib Allah, fenomena keteraturan ini paling tepat menjadi bukti bagi sifat...",
+    "options": ["Hayat dan Ilmu", "Qudrat (Kuasa) dan Iradat (Berkehendak)", "Sama' dan Bashar", "Kalam dan Wahdaniyah"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Sifat Mukhalafatu lil hawaditsi mengajarkan bahwa Allah berbeda dengan makhluk. Analisislah mengapa visualisasi atau penggambaran zat Allah dalam bentuk materi dilarang dalam Islam?",
+    "options": ["Karena membatasi Zat yang tidak terbatas ke dalam bentuk materi yang terbatas adalah sebuah pelecehan logika ketuhanan", "Karena manusia belum memiliki alat visualisasi yang canggih", "Karena hanya rasul yang boleh menggambarkannya", "Karena akan memicu perdebatan estetika antar umat"],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Seseorang merasa shalatnya sangat bermanfaat bagi Allah sehingga ia merasa Allah berhutang budi padanya. Pemikiran ini bertentangan dengan sifat wajib...",
+    "options": ["Qudrat", "Hayat", "Qiyamuhu binafsihi", "Ilmu"],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Dalam sains terdapat hukum sebab-akibat (kausalitas). Bagi orang yang beriman, hukum kausalitas hanyalah instrumen, sedangkan penentu akhir adalah kehendak Allah. Konsep ini sesuai dengan sifat...",
+    "options": ["Qidam", "Baqa'", "Wahdaniyah", "Iradat"],
+    "answer": 3
+  },
+  {
+    "id": 41,
+    "question": "Seorang pejabat menolak suap meskipun dilakukan di ruang tertutup tanpa kamera pengawas. Tindakan ini merupakan buah dari keimanan terhadap Asmaul Husna...",
+    "options": ["Al-Ghaffar dan Al-Afuww", "Al-Bashir dan Ar-Raqib", "Ar-Rahman dan Ar-Rahim", "Al-Qawiy dan Al-Matin"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Mengimani bahwa Allah adalah Al-Adl (Maha Adil) seharusnya membuat seorang siswa yang gagal dalam ujian bersikap...",
+    "options": ["Menyalahkan guru yang membuat soal terlalu sulit", "Memprotes sekolah karena tidak adil", "Introspeksi diri dan meyakini bahwa hasil tersebut adalah keadilan atas usaha yang ia lakukan", "Menyerah dan berhenti belajar karena merasa tidak dihargai"],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "question": "Jika Allah memiliki sifat Al-Khabir (Maha Waspada/Mengetahui secara detail), maka dampak bagi seorang Muslim dalam menjaga lisannya adalah...",
+    "options": ["Selalu waspada karena setiap getaran hati dan bisikan rahasia diketahui oleh Allah", "Berbicara bebas asalkan tidak terdengar orang lain", "Hanya diam ketika berada di tempat umum", "Berkata kasar hanya kepada orang yang memusuhinya"],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "Asmaul Husna Al-Hayyu (Maha Hidup) memberikan inspirasi bagi manusia untuk...",
+    "options": ["Mencari ramuan keabadian agar tidak mati", "Menghabiskan waktu dengan bersenang-senang selama masih hidup", "Merasa tidak perlu memikirkan kehidupan akhirat", "Menghargai setiap detik kehidupan sebagai amanah untuk beramal saleh"],
+    "answer": 3
+  },
+  {
+    "id": 45,
+    "question": "Mengapa perbuatan Riya' (pamer amal) disebut sebagai Syirik Ashgar (Syirik Kecil)?",
+    "options": ["Karena pelakunya telah menyembah patung", "Karena secara tidak sadar pelakunya telah \"menduakan\" tujuan ibadah antara Allah dan pujian manusia", "Karena Riya' melibatkan ilmu sihir", "Karena dosanya kecil dan mudah diampuni"],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Seseorang yang mengaku beriman kepada Allah namun masih sering pergi ke dukun untuk meminta keberuntungan bisnis, menunjukkan bahwa tauhidnya mengalami masalah pada bagian...",
+    "options": ["Tauhid Uluhiyah (pemurnian ibadah dan ketergantungan)", "Tauhid Asma wa Sifat", "Tauhid Rububiyah", "Tauhid Hakimiyah"],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "question": "Bagaimana kaitan antara iman kepada Allah dengan etika pelestarian lingkungan?",
+    "options": ["Alam tidak memiliki kaitan dengan keimanan", "Melestarikan lingkungan hanya tugas pemerintah", "Karena alam adalah Ayatun Kauniyah (tanda kekuasaan Allah), merusaknya berarti tidak menghargai Sang Pencipta", "Eksploitasi alam dibolehkan tanpa batas bagi manusia"],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Apa perbedaan mendasar antara keyakinan \"Ateis\" dengan \"Mukmin\" dalam melihat bencana alam?",
+    "options": ["Ateis percaya bencana itu azab tuhan lain, sedangkan Mukmin tidak", "Ateis melihatnya murni sebagai proses alam tanpa makna, Mukmin melihatnya sebagai peringatan, ujian, atau ketetapan Allah yang mengandung hikmah", "Ateis dan Mukmin memiliki pandangan yang sama tentang geologi", "Mukmin menyalahkan alam sementara Ateis menyalahkan Tuhan"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Buah dari keimanan kepada Allah yang paling utama dalam membentuk karakter seseorang adalah...",
+    "options": ["Menjadi orang yang paling kaya di lingkungannya", "Mendapat kedudukan yang tinggi dalam masyarakat", "Munculnya sifat Ihsan (merasa selalu diawasi Allah) dalam setiap tindakan", "Kebal terhadap berbagai macam penyakit fisik"],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "question": "Di era media sosial, muncul fenomena \"Flexing\" atau pamer kekayaan untuk mendapatkan pengakuan. Jika ditinjau dari iman kepada Allah, perilaku ini menunjukkan kelemahan dalam memahami bahwa Allah adalah...",
+    "options": ["Al-Ghafur (Maha Pengampun)", "Al-Latif (Maha Lembut)", "Al-Wadud (Maha Mencintai)", "Al-Malik (Pemilik Sejati) dan manusia hanyalah pemegang amanah sementara"],
+    "answer": 3
+  },
+  {
+    "id": 51,
+    "question": "Seseorang merasa sangat depresi karena merasa doa-doanya tidak langsung dikabulkan oleh Allah. Analisis manakah yang paling mencerminkan iman kepada Al-Hakim (Maha Bijaksana)?",
+    "options": ["Allah mungkin lupa dengan doa hamba-Nya yang kecil", "Allah mengetahui waktu dan bentuk terbaik bagi terkabulnya doa yang seringkali tidak disadari oleh manusia", "Allah hanya mengabulkan doa orang kaya", "Doa tersebut tidak akan pernah dikabulkan selamanya"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Bagaimana kaitan antara iman kepada Allah dengan etika profesi (misalnya seorang dokter atau insinyur)?",
+    "options": ["Iman kepada Allah melahirkan integritas untuk bekerja jujur karena merasa selalu dalam pengawasan-Nya (Ar-Raqib)", "Pekerjaan duniawi tidak ada hubungannya dengan keimanan", "Iman membuat seseorang bekerja tanpa mengharap bayaran", "Cukup dengan berdoa tanpa perlu meningkatkan kompetensi profesi"],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Seorang ilmuwan biologi mengagumi sistem pertahanan tubuh (imun) yang sangat cerdas melawan virus. Pengaguman ini merupakan bentuk zikir melalui...",
+    "options": ["Ayatun Qauliyah", "Hadits Qudsi", "Ayatun Kauniyah (Tanda-tanda di alam semesta)", "Ijtihad Ulama"],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "question": "Manakah dari perilaku berikut yang paling menggambarkan konsep \"Tawakal\" setelah memahami sifat Al-Wakil (Maha Pelindung/Mewakili)?",
+    "options": ["Membiarkan pintu rumah terbuka karena yakin Allah akan menjaga", "Mengunci pintu rumah dengan rapat lalu menyerahkan perlindungannya kepada Allah", "Tidak bekerja dan hanya menunggu rezeki dari Allah", "Menyerahkan segala urusan kepada orang pintar (dukun)"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Allah memiliki sifat Al-Latif (Maha Lembut/Halus). Dalam konteks ujian hidup, sifat ini dipahami sebagai...",
+    "options": ["Allah akan selalu memberikan ujian yang sangat berat tanpa henti", "Manusia tidak perlu berusaha karena Allah Maha Lembut", "Cara Allah memberikan pertolongan seringkali melalui jalan yang sangat halus dan tidak terduga", "Ujian hanya diberikan kepada orang yang tidak beriman"],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "Jika seseorang meyakini bahwa \"Keberuntungan\" adalah sebuah kekuatan mandiri yang bisa didapatkan melalui benda keramat, maka ia telah menciderai tauhid pada aspek...",
+    "options": ["Asma wa Sifat", "Mulkiyah", "Hakimiyah", "Rububiyah (Keyakinan bahwa hanya Allah yang mengatur manfaat dan mudarat)"],
+    "answer": 3
+  },
+  {
+    "id": 57,
+    "question": "Mengapa konsep \"Ihsan\" (beribadah seolah melihat Allah) dianggap sebagai puncak dari keimanan?",
+    "options": ["Karena Ihsan hanya bisa dicapai oleh para Nabi", "Karena Ihsan menyatukan keyakinan hati dengan setiap gerak-gerik fisik secara konsisten", "Karena Ihsan membebaskan seseorang dari kewajiban shalat", "Karena Ihsan adalah syarat sah masuk Islam"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "Analisislah mengapa Islam sangat menekankan larangan menyamakan Allah dengan makhluk (Tasybih)?",
+    "options": ["Karena makhluk memiliki kekuatan yang sama dengan Allah", "Agar kemurnian konsep Ketuhanan tetap terjaga dari keterbatasan imajinasi manusia", "Agar manusia tidak takut kepada Allah", "Karena Allah hanya boleh digambarkan oleh Malaikat"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Apa dampak positif iman kepada Allah terhadap kesehatan mental seseorang?",
+    "options": ["Membuat seseorang menjadi apatis terhadap masalah sosial", "Menjamin seseorang tidak akan pernah merasa sedih", "Membuat seseorang merasa lebih baik dari orang lain", "Memberikan ketenangan batin (Thumaninah) karena memiliki sandaran yang Maha Kuasa saat menghadapi tekanan hidup"],
+    "answer": 3
+  },
+  {
+    "id": 60,
+    "question": "Syirik Jali (Nyata) berbeda dengan Syirik Khafi (Tersembunyi). Manakah contoh Syirik Khafi yang sering muncul dalam dunia kerja?",
+    "options": ["Menyembah patung di ruang kerja", "Merasa bahwa promosi jabatan terjadi semata-mata karena \"menjilat\" atasan, bukan karena izin Allah", "Tidak memakan daging babi saat acara kantor", "Memakai seragam kantor sesuai aturan"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "Sifat Allah Al-Ghaffar (Maha Pengampun) seharusnya tidak membuat seseorang menjadi meremehkan dosa. Logika HOTS yang benar adalah...",
+    "options": ["Meremehkan dosa diperbolehkan asal dosanya kecil", "Al-Ghaffar berarti Allah tidak akan menghisab dosa manusia", "Meremehkan dosa adalah bentuk penghinaan terhadap sifat Al-Hakam (Maha Adil) dan mengabaikan konsekuensi perbuatan", "Orang beriman tidak mungkin melakukan dosa"],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "question": "Dalam surah Al-Ikhlas, Allah disebut Ash-Shamad. Apa implikasi praktis dari sifat ini bagi seorang Muslim?",
+    "options": ["Menjadikan Allah sebagai satu-satunya tempat bergantung dan memohon segala hajat", "Meyakini bahwa Allah tidak membutuhkan ibadah kita sehingga tidak perlu ibadah", "Menganggap bahwa manusia juga bisa menjadi Ash-Shamad", "Menyadari bahwa Allah memiliki bentuk fisik"],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "Sifat Wahdaniyah Allah dalam hal perbuatan (Af'al) mengandung arti bahwa...",
+    "options": ["Allah menciptakan perbuatan manusia namun manusia menentukan hasilnya", "Alam semesta bekerja dengan sendirinya tanpa intervensi", "Tidak ada satu pun kekuatan di alam semesta yang dapat menandingi atau menyamai pengaruh perbuatan Allah", "Manusia memiliki kuasa mutlak atas nasibnya sendiri"],
+    "answer": 2
+  },
+  {
+    "id": 64,
+    "question": "Jika seluruh umat manusia di bumi ini ingkar kepada Allah, apakah kemuliaan Allah akan berkurang? Analisislah berdasarkan sifat Al-Ghani!",
+    "options": ["Ya, karena Allah sangat membutuhkan penyembahan manusia", "Berkurang sedikit jika malaikat juga ikut ingkar", "Tidak, karena kemuliaan Allah bersifat mutlak dan tidak terpengaruh oleh ketaatan atau keingkaran makhluk-Nya", "Kemuliaan Allah bergantung pada jumlah umat Islam"],
+    "answer": 2
+  },
+  {
+    "id": 65,
+    "question": "Mengapa iman kepada Allah menjadi dasar utama dalam kehidupan seorang Muslim?",
+    "options": ["Karena iman membuat seseorang menjadi dihormati secara instan", "Karena semua ibadah dan perilaku manusia harus dilandasi keyakinan kepada Allah", "Karena iman hanya diperlukan saat berada di dalam masjid", "Karena dengan iman kehidupan materi pasti selalu terjamin"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "Bagaimana pengaruh iman kepada Allah terhadap sikap jujur seseorang?",
+    "options": ["Ia jujur hanya ketika ada guru atau orang tua yang mengawasi", "Orang yang beriman yakin Allah selalu melihat perbuatannya sehingga ia berusaha berkata jujur", "Ia jujur agar mendapatkan pujian dan penghargaan dari lingkungan", "Ia bersikap jujur hanya kepada sesama umat Islam saja"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Mengapa orang yang beriman kepada Allah tidak mudah putus asa?",
+    "options": ["Karena percaya Allah selalu memberi jalan dan pertolongan", "Karena ia merasa memiliki harta dan kemampuan yang tidak terbatas", "Karena masalah yang dihadapi orang beriman selalu mudah diselesaikan", "Karena ia tidak peduli sama sekali dengan masalah yang menimpanya"],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Seorang siswa menemukan uang di kelas. Apa tindakan yang menunjukkan iman kepada Allah?",
+    "options": ["Menyimpannya untuk jajan sepulang sekolah", "Membiarkannya saja karena ia merasa itu bukan miliknya", "Mengembalikan uang kepada pemilik atau guru karena takut berbuat dosa", "Menggunakan uang tersebut untuk bersedekah tanpa izin pemiliknya"],
+    "answer": 2
+  },
+  {
+    "id": 69,
+    "question": "Mengapa manusia wajib bersyukur kepada Allah atas nikmat kesehatan?",
+    "options": ["Karena kesehatan adalah karunia Allah yang harus dijaga dan dimanfaatkan dengan baik", "Karena kesehatan bisa dibeli dengan kekayaan yang dimiliki", "Karena dengan sehat seseorang bisa bebas melakukan apa saja tanpa batas", "Karena kesehatan adalah hasil mutlak dari usahanya sendiri dalam berolahraga"],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Bagaimana cara membuktikan cinta kepada Allah dalam kehidupan sehari-hari?",
+    "options": ["Hanya dengan berdoa panjang setiap hari tanpa perlu bekerja", "Dengan menjalankan perintah-Nya dan menjauhi larangan-Nya", "Membanggakan diri sebagai orang yang paling taat di lingkungan", "Menjauhi kehidupan dunia sepenuhnya dan tinggal di tempat terpencil"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Apa hubungan antara iman kepada Allah dan sikap disiplin?",
+    "options": ["Disiplin hanya dilakukan untuk menghindari hukuman dari atasan", "Orang beriman tidak butuh disiplin karena urusannya pasti dimudahkan", "Orang beriman akan disiplin karena sadar Allah menyukai kebaikan dan tanggung jawab", "Disiplin diterapkan semata-mata agar dipuji sebagai orang yang rajin"],
+    "answer": 2
+  },
+  {
+    "id": 72,
+    "question": "Mengapa menyekutukan Allah termasuk dosa besar?",
+    "options": ["Karena menyekutukan Allah akan merugikan orang lain secara finansial", "Karena hanya Allah satu-satunya Tuhan yang wajib disembah", "Karena dilarang oleh pemerintah dan hukum yang berlaku", "Karena sesembahan selain Allah tidak bisa memberikan kekayaan"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Bagaimana iman kepada Allah dapat membuat seseorang menghargai alam?",
+    "options": ["Karena alam bisa dieksploitasi untuk kepentingan pribadi secara maksimal", "Karena menjaga alam dapat mendatangkan keuntungan ekonomi", "Karena alam adalah ciptaan Allah yang harus dijaga", "Karena merusak alam akan mendapat hukuman sosial dari masyarakat"],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "question": "Mengapa seorang Muslim harus tetap beribadah meskipun sedang sibuk?",
+    "options": ["Agar dinilai sebagai orang yang religius oleh rekan kerjanya", "Karena ibadah adalah kewajiban kepada Allah yang tidak boleh ditinggalkan", "Karena ibadah dapat dijadikan pelarian dari tugas yang memberatkan", "Karena ibadah bisa meningkatkan status sosialnya di masyarakat"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Seorang anak tetap membantu temannya walaupun tidak dipuji. Apa kaitannya dengan iman kepada Allah?",
+    "options": ["Karena ia berharap suatu hari temannya akan membalas budi", "Karena ia merasa sudah tidak membutuhkan pujian dari teman", "Karena ia yakin Allah mengetahui semua kebaikan yang dilakukan", "Karena ia ingin dianggap sebagai pahlawan secara diam-diam"],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "Mengapa manusia harus bertawakal setelah berusaha?",
+    "options": ["Agar tidak lelah bekerja terlalu keras", "Karena tawakal adalah satu-satunya kewajiban tanpa perlu ikhtiar", "Karena pada akhirnya hasil akhir ditentukan oleh Allah", "Karena usaha keras tidak pernah membuahkan hasil sama sekali"],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "question": "Bagaimana iman kepada Allah memengaruhi cara berbicara seseorang?",
+    "options": ["Ia akan merasa bebas berbicara apa saja karena Allah Maha Pengampun", "Ia hanya akan berbicara dengan orang yang memiliki status sosial setara", "Ia akan menjaga perkataan agar tidak menyakiti orang lain", "Ia akan selalu berbicara menggunakan bahasa Arab"],
+    "answer": 2
+  },
+  {
+    "id": 78,
+    "question": "Mengapa kita harus percaya bahwa Allah Maha Melihat?",
+    "options": ["Agar selalu berhati-hati dalam bertindak", "Agar tidak berani keluar rumah karena takut salah", "Agar selalu merasa terancam dalam menjalani kehidupan", "Agar tidak mengambil keputusan apa pun sendiri"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Apa dampak positif iman kepada Allah bagi kehidupan masyarakat?",
+    "options": ["Masyarakat menjadi lebih individualis dan fokus pada diri sendiri", "Masyarakat menjadi bersaing ketat satu sama lain demi pahala", "Masyarakat menjadi lebih damai, jujur, dan saling menghormati", "Semua anggota masyarakat secara otomatis menjadi kaya raya"],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "Mengapa orang yang beriman kepada Allah harus menolong sesama?",
+    "options": ["Agar mendapatkan penghargaan dari pemimpin daerah", "Karena Allah memerintahkan manusia untuk berbuat baik", "Agar kelak orang yang ditolong akan memberikan balas jasa", "Karena menolong orang lain akan menambah ketenaran"],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Bagaimana sikap orang beriman ketika mendapat musibah?",
+    "options": ["Marah dan menyalahkan orang lain atas musibah tersebut", "Bersabar dan tetap percaya kepada Allah", "Merasa bahwa Allah tidak adil kepadanya", "Menghindar dari tanggung jawab dan berputus asa"],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Mengapa salat dapat memperkuat iman kepada Allah?",
+    "options": ["Karena salat membuat manusia selalu ingat kepada Allah", "Karena salat merupakan olahraga rutin yang menyehatkan tubuh", "Karena salat membuat seseorang disegani oleh masyarakat", "Karena salat otomatis menggugurkan semua dosa besar tanpa syarat"],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "Apa hubungan iman kepada Allah dengan rasa tanggung jawab?",
+    "options": ["Tanggung jawab hanya dilakukan jika diawasi oleh pimpinan", "Orang beriman merasa bebas dari tanggung jawab duniawi", "Orang beriman sadar setiap perbuatannya akan dipertanggungjawabkan", "Tanggung jawab hanya dibebankan kepada para rasul dan nabi"],
+    "answer": 2
+  },
+  {
+    "id": 84,
+    "question": "Mengapa kita tidak boleh sombong atas kepandaian yang dimiliki?",
+    "options": ["Karena pasti ada orang lain yang lebih pandai dari kita", "Karena semua kemampuan adalah pemberian Allah", "Karena kepandaian akan hilang seketika jika disombongkan", "Karena kepandaian tidak berguna di kehidupan akhirat"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Seorang siswa menolak mencontek saat ujian. Bagaimana hal itu menunjukkan iman kepada Allah?",
+    "options": ["Karena takut ketahuan oleh pengawas ujian yang ketat", "Karena ia merasa jawabannya sendiri pasti lebih benar", "Karena ia takut melakukan dosa dan percaya Allah mengetahui perbuatannya", "Karena teman di sebelahnya tidak mau memberikan contekan"],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "Mengapa membaca Al-Qur'an dapat meningkatkan iman kepada Allah?",
+    "options": ["Karena Al-Qur'an berisi petunjuk dan firman Allah", "Karena membacanya membuat kita terlihat pandai berbahasa Arab", "Karena selalu dilombakan dengan hadiah besar", "Karena merupakan satu-satunya cara untuk menghabiskan waktu luang"],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "question": "Bagaimana iman kepada Allah membantu seseorang mengendalikan emosi?",
+    "options": ["Karena ia sadar emosi hanya membuat dirinya dijauhi teman", "Karena ia sadar Allah menyukai kesabaran", "Karena marah akan merusak kesehatan fisiknya secara langsung", "Karena ia takut jika marah akan dituntut secara hukum"],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Mengapa manusia harus berdoa hanya kepada Allah?",
+    "options": ["Karena tidak ada manusia lain yang mau mendengarkan masalah kita", "Karena memohon kepada manusia akan menurunkan gengsi", "Karena berdoa kepada selain Allah itu sangat memakan waktu", "Karena hanya Allah yang Maha Kuasa mengabulkan doa"],
+    "answer": 3
+  },
+  {
+    "id": 89,
+    "question": "Apa akibat jika seseorang tidak memiliki iman kepada Allah?",
+    "options": ["Hidupnya tidak akan pernah mencapai kesuksesan finansial", "Hidupnya mudah terjerumus dalam perbuatan buruk", "Ia tidak akan pernah memiliki teman dalam hidupnya", "Ia akan dijauhi oleh seluruh keluarganya secara otomatis"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Bagaimana cara meningkatkan iman kepada Allah di era modern?",
+    "options": ["Dengan menjauhi semua bentuk teknologi dan internet", "Dengan mengikuti segala tren terbaru agar tidak tertinggal", "Dengan rajin ibadah, belajar agama, dan memilih pergaulan yang baik", "Dengan mengasingkan diri dari kehidupan bermasyarakat"],
+    "answer": 2
+  },
+  {
+    "id": 91,
+    "question": "Mengapa rasa syukur dapat memperkuat iman kepada Allah?",
+    "options": ["Karena bersyukur adalah syarat untuk menjadi pemimpin di masyarakat", "Karena dengan bersyukur kekayaan materi akan bertambah dalam sekejap", "Karena bersyukur menjamin seseorang tidak akan pernah sakit lagi", "Karena syukur membuat manusia sadar atas nikmat Allah"],
+    "answer": 3
+  },
+  {
+    "id": 92,
+    "question": "Bagaimana iman kepada Allah dapat membentuk sikap peduli lingkungan?",
+    "options": ["Karena menjaga lingkungan berarti menjaga ciptaan Allah", "Karena lingkungan yang bersih membuat area rumah terlihat mewah", "Karena kebersihan lingkungan sering dilombakan oleh pemerintah", "Karena membuang sampah sembarangan akan didenda mahal"],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "Mengapa orang beriman harus menepati janji?",
+    "options": ["Agar mendapat pujian sebagai orang yang bisa diandalkan", "Agar tidak dituntut secara hukum perdata", "Karena Allah menyukai orang yang amanah", "Agar orang lain terus meminjamkan uang kepadanya"],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "question": "Seorang anak meminta maaf setelah berbuat salah. Apa hubungannya dengan iman kepada Allah?",
+    "options": ["Karena ia sadar Allah menyukai orang yang mau memperbaiki kesalahan", "Karena ia diancam akan dipukul jika tidak minta maaf", "Agar kesalahannya segera dilupakan dan tidak diungkit lagi", "Karena itu jalan termudah untuk melarikan diri dari hukuman"],
+    "answer": 0
+  },
+  {
+    "id": 95,
+    "question": "Mengapa manusia harus yakin bahwa Allah Maha Adil?",
+    "options": ["Karena keadilan adalah hukum alam yang tidak dapat diubah", "Karena Allah memberi balasan sesuai perbuatan manusia", "Karena kehidupan di dunia ini selalu adil bagi semua orang tanpa kecuali", "Karena manusia tidak pernah bisa berbuat adil sama sekali"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Bagaimana iman kepada Allah dapat membuat hati menjadi tenang?",
+    "options": ["Karena iman menghapus seluruh ingatan buruk di masa lalu", "Karena orang beriman tidak pernah diberikan ujian dan masalah hidup", "Karena percaya Allah selalu menjaga dan menolong hamba-Nya", "Karena ketenangan hati bisa dibeli dengan banyak ibadah"],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "question": "Mengapa kita harus menghormati orang tua sebagai bentuk iman kepada Allah?",
+    "options": ["Karena Allah memerintahkan manusia berbakti kepada orang tua", "Agar kita mendapatkan hak warisan yang besar di kemudian hari", "Karena orang tua tidak pernah melakukan kesalahan sama sekali", "Karena kita akan bergantung kepada uang mereka seumur hidup"],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "Apa hikmah beriman kepada Allah dalam kehidupan pelajar?",
+    "options": ["Memiliki jaminan untuk selalu mendapat ranking pertama", "Menjadi ditakuti dan disegani oleh seluruh murid di sekolah", "Menjadi lebih disiplin, jujur, dan bertanggung jawab", "Membuat proses belajar menjadi tidak diperlukan lagi karena doa"],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "question": "Bagaimana sikap orang beriman ketika berhasil meraih prestasi?",
+    "options": ["Membanggakan diri agar teman-teman mengakuinya", "Merayakan kesuksesan tersebut dengan foya-foya berlebihan", "Merasa bahwa kemampuannya melebihi siapapun di kelasnya", "Bersyukur kepada Allah dan tidak sombong"],
+    "answer": 3
+  },
+  {
+    "id": 100,
+    "question": "Mengapa iman kepada Allah harus dibuktikan dengan perbuatan baik?",
+    "options": ["Karena iman tidak cukup hanya diucapkan, tetapi harus diamalkan dalam kehidupan sehari-hari", "Agar orang lain dapat melihat dan mengakui kesucian diri kita", "Karena perbuatan baik adalah syarat utama untuk diangkat menjadi pemimpin", "Karena dengan satu perbuatan baik, semua dosa masa lalu terhapus mutlak"],
+    "answer": 0
   }
 ]

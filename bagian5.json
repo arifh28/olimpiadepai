@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Mengapa iman kepada hari kiamat memiliki peran sentral dalam mengendalikan perilaku manusia di masyarakat?",
+    "options": ["Menumbuhkan kesadaran bahwa semua perbuatan, sekecil apa pun, terikat pada pertanggungjawaban mutlak di pengadilan Allah", "Agar manusia merasa takut dan menjauhi semua aktivitas yang bersifat duniawi", "Sebagai dogma historis yang membedakan umat Islam dengan penganut kepercayaan lain", "Untuk menakut-nakuti masyarakat agar mematuhi hukum yang dibuat oleh pemerintah negara"],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "Dalam konteks kehidupan modern yang serba bebas, hikmah terbesar mengimani hari akhir adalah...",
+    "options": ["Menghasilkan sikap fatalis yang pasrah pada nasib", "Membentuk filter mental sehingga individu lebih berhati-hati, selektif, dan bertanggung jawab atas setiap keputusannya", "Membuat manusia berorientasi pada pencarian harta demi keamanan finansial keturunan", "Menjadikan seseorang fanatik dan menolak berinteraksi dengan kelompok yang berbeda pandangan"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana korelasi antara iman kepada hari kiamat dengan transformasi akhlak seseorang?",
+    "options": ["Orang akan berakhlak baik hanya ketika berada di dalam lingkungan masjid", "Kesadaran akan hisab memotivasi seseorang untuk secara konsisten berbuat baik dan menebar manfaat, baik saat diawasi maupun tidak", "Akhlaknya akan berubah menjadi apatis terhadap masalah sosial di sekitarnya", "Ia akan berbuat baik semata-mata demi mendapatkan penghargaan dari komunitasnya"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Fakta bahwa waktu terjadinya kiamat dirahasiakan oleh Allah secara teologis bertujuan untuk...",
+    "options": ["Menciptakan kecemasan massal agar manusia tidak pernah merasa bahagia", "Agar manusia terus menebak-nebak dan mengembangkan ilmu astronomi", "Mencegah penundaan taubat; memaksa manusia untuk senantiasa dalam keadaan waspada dan beramal saleh setiap waktu", "Memberikan kesempatan bagi manusia untuk membangun perlindungan bunker bawah tanah"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "Seorang pedagang menolak mengurangi timbangan. Hubungan logis antara sikap jujurnya dengan iman kepada hari akhir adalah...",
+    "options": ["Ia menyadari bahwa kecurangan adalah tindakan yang merugikan ekonomi negara", "Ia sadar bahwa tidak ada kebohongan yang luput dari audit Allah pada hari hisab kelak", "Ia takut pembeli akan marah dan melaporkannya ke pihak berwajib", "Karena jujur merupakan strategi pemasaran agar tokonya semakin laris"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "Mengapa orang yang benar-benar beriman kepada hari akhir memiliki daya tahan yang kuat terhadap godaan maksiat?",
+    "options": ["Karena mereka tidak memiliki keinginan atau hawa nafsu sama sekali", "Karena rasa takut terhadap azab yang abadi mengalahkan kenikmatan maksiat yang bersifat sementara", "Karena mereka takut kehilangan status sosial sebagai orang alim", "Agar mereka dipuji oleh keluarga dan teman-temannya"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Konsep 'Yaumul Hisab' dalam eskatologi Islam merujuk pada peristiwa...",
+    "options": ["Hari dihancurkannya seluruh tata surya dan galaksi", "Hari di mana manusia dibangkitkan dari alam kubur secara serentak", "Hari di mana seluruh amal perbuatan manusia dihitung dan diaudit secara detail tanpa ada yang terlewat", "Hari pembagian tingkatan surga bagi orang-orang yang beriman"],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "Bagi seorang pelajar, manifestasi nyata dari keimanan terhadap hari akhir di lingkungan sekolah ditunjukkan dengan sikap...",
+    "options": ["Mengutamakan kejujuran dengan tidak menyontek karena yakin nilai akademik tidak ada artinya jika dicapai melalui dosa", "Menjauhi teman-teman yang memiliki nilai lebih rendah agar tidak terpengaruh", "Belajar siang dan malam hingga mengabaikan kewajiban shalat dan istirahat", "Hanya mempelajari ilmu agama Islam dan menolak ilmu pengetahuan umum"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Al-Qur'an menegaskan bahwa kebaikan sekecil dzarrah pun akan dibalas. Pemahaman filosofis dari ayat ini adalah...",
+    "options": ["Tuhan hanya peduli pada amal-amal yang berukuran kecil", "Semua amal kecil akan otomatis menghapus semua dosa-dosa besar", "Keadilan Allah sangat presisi; setiap tindakan memiliki bobot nilai yang pasti akan mendapat kompensasi di akhirat", "Manusia cukup melakukan amal kecil saja tanpa perlu melakukan ibadah wajib"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Surga dan neraka sering dinarasikan secara detail dalam Al-Qur'an. Fungsi psikologis dari deskripsi ini bagi manusia adalah...",
+    "options": ["Membuat manusia hidup dalam ketakutan yang melumpuhkan aktivitas dunia", "Sebagai instrumen motivasi (reward) bagi yang taat dan efek jera (punishment) bagi yang durhaka, agar manusia tetap di jalan yang lurus", "Hanya sebagai karya sastra untuk menunjukkan keindahan bahasa Arab", "Agar manusia berlomba-lomba mencari cara untuk hidup abadi di bumi"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Mempersiapkan bekal menghadapi kematian tidak berarti meninggalkan urusan dunia, melainkan...",
+    "options": ["Membagi seluruh harta kekayaan dan hidup sebagai gelandangan", "Mengoptimalkan setiap aktivitas duniawi (belajar, bekerja, keluarga) agar bernilai ibadah sebagai portofolio amal saleh untuk akhirat", "Menghabiskan waktu 24 jam sehari penuh di dalam masjid tanpa bekerja", "Membeli perlengkapan jenazah sejak usia muda dan selalu membawanya"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Mengapa taubat tidak boleh ditunda jika dikaitkan dengan rukun iman kelima?",
+    "options": ["Karena menunda taubat akan dikenakan denda oleh pengadilan agama", "Karena kematian (kiamat sugra) bisa datang tiba-tiba tanpa peringatan, dan setelahnya pintu amal tertutup rapat", "Karena dosa yang sudah lewat satu tahun tidak akan bisa diampuni lagi", "Agar kita terlihat suci di mata orang-orang sebelum kita wafat"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Disiplin manajemen waktu sangat dianjurkan dalam Islam. Korelasi teologis antara disiplin waktu dan hari akhir adalah...",
+    "options": ["Orang yang tidak disiplin akan langsung dimasukkan ke neraka lapis paling bawah", "Waktu adalah modal utama (kapital) yang akan ditanyakan secara spesifik pertanggungjawabannya pada hari kiamat kelak", "Agar manusia bisa memproduksi banyak barang untuk dijual demi keuntungan ekonomi", "Orang yang tepat waktu akan memiliki umur yang jauh lebih panjang di dunia"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Jika keadilan di dunia sering kali bisa dibeli, maka istilah 'Hari Pembalasan' menjamin bahwa...",
+    "options": ["Setiap manusia pasti akan dimaafkan tanpa terkecuali", "Semua amal, baik dan buruk, akan dibalas secara adil dan absolut oleh Hakim Yang Maha Adil tanpa campur tangan suap atau nepotisme", "Orang yang miskin otomatis masuk surga tanpa hisab meskipun mereka tidak beribadah", "Hari di mana manusia membalas dendam secara langsung kepada musuh-musuhnya"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Bencana moralitas seperti korupsi, hedonisme, dan kekejaman massal pada dasarnya merupakan dampak fatal dari...",
+    "options": ["Kekurangan asupan gizi sejak masa kanak-kanak", "Sistem hukum negara yang terlalu ketat sehingga manusia memberontak", "Hilangnya keyakinan dan krisis kesadaran terhadap kepastian hari pembalasan (akhirat) di dalam hati para pelakunya", "Penggunaan teknologi internet yang tidak dibatasi oleh pemerintah"],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "Kematian adalah hal yang menakutkan bagi banyak orang. Namun bagi Mukmin, pandangan proporsional terhadap kematian adalah...",
+    "options": ["Sebagai pintu gerbang (transisi) menuju kehidupan sejati, yang menjadikannya pengingat (dzikrul maut) untuk terus berbuat baik", "Kematian adalah akhir dari segalanya sehingga manusia harus menikmati hidup sebesar-besarnya", "Mencari teknologi medis canggih untuk menghindari kematian hingga hari kiamat kubra", "Merayakan kematian dengan pesta pora karena penderitaan dunia telah usai"],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Sedekah sering disebut sebagai 'tabungan akhirat'. Logika finansial-spiritual yang mendasari pernyataan ini adalah...",
+    "options": ["Sedekah akan membuat jumlah uang kita di bank bertambah secara gaib keesokan harinya", "Sedekah akan menaikkan popularitas sosial kita yang berguna saat pemilihan umum", "Harta yang kita gunakan sendiri akan lenyap, sedangkan yang disedekahkan justru menjadi aset abadi yang pahalanya dituai pasca-kematian", "Orang yang bersedekah akan dibebaskan dari kewajiban berpuasa"],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Istilah eskatologis 'Yaumul Jaza' merujuk pada fase di mana...",
+    "options": ["Seluruh umat manusia dikumpulkan di Padang Mahsyar yang sangat panas", "Hari penimbangan amal (Mizan) sebelum manusia mengetahui hasil akhir nasibnya", "Momen kompensasi (hari pembalasan), di mana setiap jiwa menerima eksekusi balasan surga atau neraka sesuai keputusan hisab", "Hari ditiupkannya sangkakala pertama yang mematikan seluruh makhluk hidup"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Mengapa doktrin hari kiamat dianggap sebagai fondasi moral paling kuat dibandingkan sekadar hukum pidana negara?",
+    "options": ["Hukum negara dapat dihindari melalui celah hukum dan tanpa saksi, sementara iman kepada hari akhir menanamkan kontrol (CCTV) internal yang tak bisa dihindari", "Karena hukum negara tidak pernah memberikan keadilan sama sekali", "Doktrin kiamat memiliki hukuman denda yang lebih besar daripada hukum pidana", "Karena hukum negara hanya berlaku di kota-kota besar saja"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Seorang siswa mengembalikan barang temannya yang terjatuh meski tidak ada yang melihat. Landasan eskatologis dari tindakan ini adalah...",
+    "options": ["Takut barang tersebut dipasangi alat pelacak (GPS)", "Kesadaran penuh bahwa mencuri sekecil apa pun akan memberatkan timbangan keburukannya di akhirat", "Ingin mendapatkan hadiah uang imbalan dari teman yang kehilangan barang tersebut", "Takut dihukum oleh guru bimbingan konseling dan dikeluarkan dari sekolah"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Kiamat Sugra (kiamat kecil) tidak selalu berarti kehancuran alam, melainkan bisa berbentuk...",
+    "options": ["Munculnya Dajjal dan Ya'juj Ma'juj di muka bumi", "Kematian individu atau bencana alam lokal yang menjadi batas akhir masa ujian bagi orang yang mengalaminya", "Hancurnya sistem tata surya dan bertabrakannya planet-planet", "Turunnya Nabi Isa as. dari langit untuk menegakkan keadilan"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Kiamat Kubra merupakan titik akhir sejarah fisik alam semesta. Dampak pemahaman ini terhadap cara Mukmin memandang dunia adalah...",
+    "options": ["Meyakini bahwa dunia dan isinya sangat fana, sehingga tidak pantas dijadikan tujuan utama atau 'tuhan' baru yang menyita seluruh waktu hidupnya", "Menganggap dunia sangat menjijikkan sehingga ia membuang semua hartanya", "Berhenti bekerja dan membangun rumah karena pada akhirnya semuanya akan hancur", "Mencari planet lain yang tidak ikut hancur saat kiamat kubra terjadi"],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "question": "Di era digital, mengetik komentar sama mudahnya dengan berbicara. Mengapa orang beriman sangat teliti menjaga lisannya (maupun jarinya)?",
+    "options": ["Takut terkena undang-undang pencemaran nama baik dari pemerintah", "Karena setiap karakter kata yang menyakiti orang lain dicatat oleh malaikat dan akan diakumulasi saat persidangan akhirat", "Agar dianggap sebagai orang yang alim dan bijaksana oleh pengikut di media sosialnya", "Karena mengetik terlalu banyak akan merusak kesehatan sendi tangannya"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Keadilan di hari kiamat sangat absolut, salah satunya terwujud dalam asas individualitas tanggung jawab, yang berarti...",
+    "options": ["Pemimpin akan menanggung semua dosa rakyat yang dipimpinnya", "Manusia tidak bisa lagi melempar kesalahan atau menitipkan dosanya kepada orang lain; masing-masing memikul bebannya sendiri secara mandiri", "Setiap dosa akan dibagi rata kepada seluruh anggota keluarga besar", "Seseorang bisa menyewa pengacara hebat untuk membelanya di Padang Mahsyar"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Sikap proaktif yang muncul dari keyakinan terhadap hisab (perhitungan) adalah 'Muhasabah'. Praktik muhasabah ini termanifestasi dalam bentuk...",
+    "options": ["Menghitung-hitung jumlah sedekah yang pernah diberikan untuk dipamerkan", "Rutin mengevaluasi, mengoreksi, dan menyesali kesalahan diri sendiri setiap hari sebelum dievaluasi di pengadilan Allah", "Menyalahkan orang lain atas setiap kegagalan yang terjadi dalam hidupnya", "Menghitung dosa-dosa orang lain dan menghakiminya secara terbuka di depan umum"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Kezaliman antar sesama manusia sangat berbahaya menurut doktrin hari akhir karena berkaitan dengan istilah 'Muflis' (bangkrut), yaitu...",
+    "options": ["Kehilangan seluruh harta bendanya di dunia karena ditipu rekan bisnis", "Pahala ibadahnya akan ditransfer kepada orang yang dizaliminya, dan jika pahalanya habis, dosa korbannya akan dipikulkan kepadanya", "Bisnisnya tidak akan pernah maju meskipun ia melakukan kezaliman besar", "Seseorang yang ditolak masuk surga karena hartanya kurang dari nisab"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Terapi mental 'Mengingat Kematian' (Dzikrul Maut) diajarkan bukan untuk depresi, melainkan untuk mengatasi penyakit psikologis berupa...",
+    "options": ["Kehilangan nafsu makan dan insomnia kronis", "Tulul Amal (panjang angan-angan dunia) yang menyebabkan seseorang tamak, sombong, dan melupakan hakikat sebagai hamba", "Rasa takut berlebihan (phobia) terhadap kegelapan malam", "Penyakit fisik akibat beban kerja yang terlalu ekstrem (burnout)"],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Menyakiti hati orang tua dikategorikan sebagai dosa besar yang memperberat timbangan dosa. Mengapa bakti (Birrul Walidain) ini begitu lekat dengan jaminan akhirat?",
+    "options": ["Karena orang tua memiliki kemampuan gaib untuk menutup pintu surga", "Karena keridhaan Allah di akhirat berbanding lurus dengan keridhaan orang tua di dunia sebagai representasi perintah tertinggi setelah tauhid", "Agar orang tua bersedia membagikan harta warisannya dengan adil", "Karena pemerintah mewajibkan anak merawat orang tua secara hukum"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Kemiskinan struktural bisa diatasi jika kaum kaya benar-benar mengimani hari akhir. Korelasi sosial-ekonominya adalah...",
+    "options": ["Mereka sadar bahwa penumpukan harta (monopoli) dan pengabaian kaum dhuafa adalah kejahatan sosial yang hisabnya sangat menyiksa di hari kiamat", "Orang kaya akan membuang semua uangnya agar tidak dihisab sama sekali", "Mereka akan terpaksa membagi uangnya karena diancam oleh kaum miskin", "Karena pada hari kiamat uang emas bisa digunakan untuk menyuap penjaga surga"],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "Keikhlasan adalah filter utama sebelum amal dihisab. Jika amal dikerjakan tanpa ikhlas (riya), maka konsekuensinya di hari pembalasan adalah...",
+    "options": ["Pahalanya akan tetap diberikan asalkan amalnya bernilai miliaran rupiah", "Amal tersebut akan hangus (tertolak) karena Allah hanya menerima amal yang dimurnikan dari motif mencari pujian makhluk", "Amalnya akan ditunda perhitungannya hingga orang tersebut bertaubat", "Pahalanya hanya dikurangi setengah dari total aslinya"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Takabur (Sombong) dilarang keras, bahkan 'sombong seberat dzarrah' dapat menghalangi seseorang masuk surga. Analisis teologis pelarangan ini adalah...",
+    "options": ["Karena kesombongan adalah atribut mutlak (pakaian) kebesaran Allah; manusia yang sombong pada hakikatnya sedang merampas sifat Tuhan", "Karena sombong akan membuat orang tersebut dijauhi teman-temannya di media sosial", "Sombong dilarang karena hanya raja dan presiden yang berhak memilikinya", "Karena kesombongan akan menurunkan sistem imun dan menyebabkan penyakit jantung"],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "Menjaga amanah (tanggung jawab kerja/jabatan) sangat berat karena berkaitan erat dengan pengadilan akhirat. Logika hukum yang berlaku pada hal ini adalah...",
+    "options": ["Pejabat yang berkhianat akan dipecat dari posisinya oleh atasannya", "Semakin besar amanah publik yang diemban, semakin panjang dan kompleks proses audit (hisab) yang akan dihadapinya di Padang Mahsyar", "Amanah jabatan akan mempercepat seseorang masuk surga tanpa hisab sama sekali", "Hukum akhirat membebaskan pemimpin dari kesalahan yang dilakukan oleh bawahannya"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Fase kebangkitan massal dari kematian untuk menuju Padang Mahsyar dikenal dengan istilah...",
+    "options": ["Yaumul Jaza", "Yaumul Mizan", "Yaumul Ba'ats", "Yaumul Hisab"],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "Surga tidak didapatkan semata-mata karena amal, tetapi berkat rahmat Allah. Meskipun demikian, mengapa manusia tetap diwajibkan beramal saleh (memenuhi rukun iman)?",
+    "options": ["Karena amal saleh adalah mata uang yang sah untuk membeli properti di surga", "Amal saleh adalah 'syarat' menjemput rahmat Allah dan penentu tingkatan/derajat kenikmatan surga yang akan diterima seseorang", "Untuk sekadar mengisi waktu luang agar manusia tidak bosan hidup di bumi", "Karena surga hanya diberikan kepada mereka yang beramal tanpa henti 24 jam sehari"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Neraka sering dipersepsikan kejam. Namun, dari sudut pandang keadilan Ilahi (Al-Adl), eksistensi neraka membuktikan bahwa...",
+    "options": ["Allah suka melihat makhluk-Nya menderita secara abadi tanpa alasan yang jelas", "Neraka adalah konsekuensi rasional dan adil bagi mereka yang diberi kebebasan memilih (free will) namun secara sadar memilih kedurhakaan dan kezaliman", "Hanya orang miskin yang tidak sanggup membayar kafarat yang masuk neraka", "Neraka diciptakan karena kapasitas surga tidak cukup menampung semua manusia"],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Fluktuasi iman adalah hal wajar. Salah satu terapi spiritual untuk meningkatkan dan menjaga stabilitas iman kepada hari kiamat adalah...",
+    "options": ["Melakukan ritual puasa tanpa sahur dan berbuka (Puasa Wishal) selama setahun", "Berdiskusi, membaca tafsir Al-Qur'an terkait ayat-ayat eskatologi, dan melakukan kontemplasi (tafakkur) akan kefanaan dunia", "Menghabiskan waktu dengan menonton film-film bergenre fiksi ilmiah tentang akhir dunia", "Memisahkan diri dari keluarga dan tinggal menyendiri di puncak gunung"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Circle pergaulan toxic (lingkungan buruk) sangat berbahaya bagi masa depan akhirat seseorang. Mengapa Islam sangat cerewet mengatur pertemanan?",
+    "options": ["Karena teman yang buruk biasanya sering meminjam uang dan tidak mengembalikannya", "Karena lingkungan yang buruk memiliki daya rusak pelan tapi pasti terhadap frekuensi amal ibadah yang akan memengaruhi timbangan Mizan kelak", "Agar manusia hanya bergaul dengan orang yang satu suku dan se-nasab saja", "Karena Islam melarang umatnya berinteraksi sosial dan menyuruh untuk fokus ibadah di rumah"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Pandangan bahwa iman kepada akhirat menciptakan kemalasan dan sikap pasrah total di dunia (fatalisme) dibantah keras oleh Islam. Hubungan sebenarnya antara kerja keras dan akhirat adalah...",
+    "options": ["Islam mengajarkan untuk bekerja mencari dunia sekeras-kerasnya dan melupakan ibadah", "Ikhtiar bekerja mencari rezeki halal justru dinilai sebagai ibadah (jihad) yang pahalanya memberatkan timbangan kebaikan di hari kiamat", "Orang beriman tidak perlu bekerja karena rezeki akan jatuh dari langit seperti mukjizat", "Bekerja keras dilarang karena akan mengurangi waktu tidur dan merusak kesehatan jasmani"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "Tindak pidana korupsi (menggelapkan uang negara/rakyat) memiliki konsekuensi eskatologis (akhirat) yang sangat menakutkan, yaitu...",
+    "options": ["Pelakunya akan diminta mengembalikan uang tersebut di dunia dengan cara dicicil", "Koruptor harus menghadapi hisab bukan hanya dengan Allah, tetapi harus mempertanggungjawabkan hak setiap individu rakyat yang dirampasnya di Padang Mahsyar", "Dosanya dapat ditebus asalkan ia membangun masjid megah dari sebagian uang hasil korupsi tersebut", "Korupsi dianggap sebagai dosa kecil asalkan uangnya digunakan untuk menyekolahkan anak-anaknya"],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "Kesabaran dalam menghadapi musibah berat sangat dianjurkan. Hubungan kompensasi logis antara sikap sabar ini dan hari akhir adalah...",
+    "options": ["Musibah akan otomatis hilang jika seseorang berpura-pura sabar dan tersenyum di depan umum", "Kesabaran tanpa batas saat ditimpa ujian akan dibalas dengan ganjaran pahala eksklusif tanpa batas pula (bi ghairi hisab) di akhirat", "Orang sabar akan langsung mendapatkan ganti berupa emas berlian di dunia pada hari itu juga", "Sabar diajarkan agar manusia tidak melakukan protes kepada pemerintah saat terjadi bencana"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Fitnah (menyebar berita dusta untuk menghancurkan reputasi orang lain) disebut lebih kejam dari pembunuhan. Dari perspektif hisab di akhirat, mengapa dosa ini sangat fatal?",
+    "options": ["Karena fitnah menyebabkan jejak keburukan komunal (dosa jariyah) yang terus mengalir pahala keburukannya selama fitnah itu masih dipercaya publik", "Karena orang yang difitnah akan langsung meninggal dunia akibat depresi berat", "Hanya karena dilarang dalam undang-undang pencemaran nama baik di banyak negara sekuler", "Karena pelaku fitnah akan kehilangan suaranya secara instan sebagai hukuman dari malaikat"],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "Proses eskatologi di mana Allah menimbang amal baik dan buruk manusia dengan keadilan presisi tingkat tinggi disebut fase...",
+    "options": ["Yaumul Ba'ats", "Yaumul Jaza", "Yaumul Mizan", "Yaumul Mahsyar"],
+    "answer": 2
+  },
+  {
+    "id": 43,
+    "question": "Seorang hakim, guru, atau orang tua dituntut untuk selalu berlaku adil. Jika prinsip keadilan ini dikaitkan dengan hari kiamat, maka...",
+    "options": ["Keadilan adalah satu-satunya amal yang tidak akan dihisab oleh Allah", "Keadilan yang ditegakkan akan mendatangkan kekayaan materi melimpah di usia tua", "Ketidakadilan (kezaliman) akan membuat amal baik si pelaku 'dirampas' untuk diberikan kepada pihak yang dizaliminya saat pengadilan Ilahi", "Berlaku adil hanya diwajibkan bagi hakim di pengadilan negeri, bukan bagi guru atau orang tua"],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "Sikap pesimisme (putus asa berlebihan) saat tertimpa musibah dilarang keras bagi Mukmin. Landasan iman yang meredam sikap putus asa ini adalah...",
+    "options": ["Mempercayai bahwa reinkarnasi akan memberikan kehidupan yang lebih baik di masa depan", "Keyakinan bahwa musibah dunia seberat apa pun adalah fana (sementara) dan merupakan sarana penghapus dosa menuju kebahagiaan abadi", "Mengalihkan rasa putus asa dengan mencari hiburan duniawi yang melanggar syariat agama", "Menyakini bahwa musibah tersebut adalah kesalahan mutlak dari alam semesta, bukan takdir Allah"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Rahmat dan ampunan Allah sangatlah luas. Bagi seorang pendosa besar, pesan eskatologis dari sifat rahmat ini adalah...",
+    "options": ["Tidak boleh berputus asa dari rahmat Allah; ia harus segera bertaubat nasuha sebelum pintu kematian (kiamat sugra) datang menutup peluang ampunan", "Boleh terus berbuat dosa karena pada akhirnya semua manusia akan diampuni dan dimasukkan ke surga", "Harus menghukum dirinya sendiri dengan siksaan fisik yang berat agar Allah mau mengampuni", "Menyewa orang alim untuk memohonkan ampunan baginya dengan imbalan sejumlah uang"],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "Integritas moral seperti kejujuran tidak selalu membawa keuntungan instan secara material di dunia. Motivasi terbesar yang membuat Mukmin bertahan untuk jujur adalah...",
+    "options": ["Berharap mendapatkan penghargaan dari lembaga antikorupsi internasional", "Keyakinan bahwa integritas dunia yang kadang pahit akan berbuah manis berupa kepercayaan (trust) manusia dan garansi keselamatan dari api neraka", "Karena dengan bersikap jujur, ia bisa menipu orang lain di kesempatan berikutnya tanpa dicurigai", "Agar ia terhindar dari denda pajak yang besar oleh pemerintah"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Kerahasiaan mutlak mengenai waktu pasti terjadinya hari kiamat mendidik manusia untuk membangun mentalitas...",
+    "options": ["Apatis, merasa bahwa ibadah tidak ada gunanya karena tidak tahu kapan hasil akhirnya", "Sikap siap siaga beramal (progresif) secara konstan, tidak menunda-nunda kebaikan seolah-olah besok hari kiamat", "Pesimis dan ketakutan (paranoid) sehingga mengunci diri dari seluruh aktivitas ekonomi", "Mencari celah ramalan nujum untuk memprediksi jatuhnya hari tersebut demi keuntungan finansial"],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "question": "Ibadah ritual (seperti shalat dan puasa) berfungsi krusial jika dihadapkan pada skenario hari kiamat. Fungsinya secara eskatologis adalah...",
+    "options": ["Sebagai paspor utama (amal pertama yang dihisab) yang akan memengaruhi lancar tidaknya hisab atas amal-amal sosial lainnya", "Sebagai formalitas budaya yang bisa ditinggalkan asalkan manusia tersebut selalu berbuat baik kepada tetangganya", "Sebagai bentuk olahraga fisik harian yang menyehatkan jantung dan aliran darah", "Untuk memamerkan tingkat kesalehan seseorang di mata publik agar dihormati"],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "question": "Krisis ekologi dan kerusakan lingkungan akibat eksploitasi kerakusan manusia merupakan perbuatan dosa. Bagaimana iman kepada hari akhir merespons isu kerusakan bumi ini?",
+    "options": ["Membiarkan kerusakan terjadi karena toh pada akhirnya bumi akan dihancurkan pada kiamat kubra", "Mendikte bahwa manusia adalah Khalifah yang diberi amanah merawat bumi; pengkhianatan atas amanah alam ini akan dimintai pertanggungjawaban serius", "Mendorong eksploitasi maksimal selagi manusia hidup karena kelestarian alam adalah urusan hukum alam, bukan urusan agama", "Mengharuskan manusia hidup primitif tanpa teknologi sama sekali demi kelestarian alam absolut"],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "Rasa takut kepada hisab (khauf) sering diposisikan berseberangan dengan rasa harap akan rahmat (raja'). Proporsi yang tepat bagi jiwa seorang Mukmin adalah...",
+    "options": ["Terlalu mendominasi rasa takut hingga ia putus asa dan tidak mau beramal karena merasa dosanya tak terampuni", "Terlalu mendominasi rasa harap hingga ia meremehkan dosa-dosa kecil karena merasa pasti masuk surga", "Menyeimbangkan (equilibrium) antara keduanya bak dua sayap burung; takut hisab untuk mencegah maksiat, dan harap rahmat untuk memacu amal", "Mengabaikan keduanya dan hidup mengalir tanpa memikirkan konsep dosa dan pahala"],
+    "answer": 2
+  },
+  {
+    "id": 51,
+    "question": "Iri hati (hasad) yang merupakan 'penyakit mematikan amal' dapat dikikis habis melalui pemahaman komprehensif tentang hari akhir. Logika preventifnya adalah...",
+    "options": ["Karena iri hati akan membuat kulit menjadi kusam dan mempercepat penuaan", "Sadar bahwa pembagian nikmat dunia adalah ujian sementara, sedangkan iri hati merusak (memakan) tumpukan pahala akhirat secara instan ibarat api memakan kayu", "Karena orang yang diiri akan semakin kaya jika kita terus merasa cemburu kepadanya", "Karena iri hati dilarang oleh norma kesopanan yang berlaku di masyarakat beradab"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Gaya hidup materialisme menuhankan kekayaan dan status. Bagaimana cara pandang (worldview) orang yang beriman kepada akhirat dalam memperlakukan harta bendanya?",
+    "options": ["Membuang semua hartanya dan hidup memisahkan diri dari kemewahan kota agar murni ibadah", "Menjadikan harta sebagai tuan yang harus dijaga agar dihormati keluarga dan masyarakat sekitarnya", "Memposisikan harta sekadar sebagai 'alat transportasi' untuk memperbanyak sedekah dan menopang kebaikan, bukan sebagai tujuan hidup", "Mencari harta sebanyak mungkin dengan menghalalkan segala cara demi keturunan yang mapan"],
+    "answer": 2
+  },
+  {
+    "id": 53,
+    "question": "Syukur atas nikmat yang Allah berikan sering kali luntur di saat krisis ekonomi. Mengapa iman kepada hari akhir membangkitkan kembali rasa syukur yang hilang ini?",
+    "options": ["Karena ia sadar sekecil apa pun nikmat (kesehatan/iman) di dunia adalah fasilitas yang sangat mahal dibandingkan siksaan akibat kufur di akhirat", "Karena dengan berpura-pura bersyukur, pemerintah akan memberikan bantuan langsung tunai", "Karena rasa syukur adalah mantra gaib yang bisa langsung memanggil rezeki berupa emas dan perak dari langit", "Agar dipuji oleh tokoh agama setempat sebagai manusia yang paling sabar dan qanaah"],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Solidaritas kemanusiaan (membantu sesama) dianjurkan bukan hanya demi harmoni sosial. Hubungan filantropi ini dengan keamanan di Padang Mahsyar adalah...",
+    "options": ["Karena orang yang dibantu akan membalas dengan membawakan payung dan makanan di akhirat", "Sesuai hadis, siapa yang meringankan beban penderitaan saudaranya di dunia, Allah akan meringankan penderitaannya kelak di hari kiamat", "Agar mendapat pengurangan pajak penghasilan dari lembaga sosial negara", "Karena jika tidak membantu, orang tersebut akan membalas dendam secara fisik di dunia"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Mengapa perintah menjaga shalat lima waktu dikaitkan secara sangat dominan sebagai bekal eskatologis (akhirat)?",
+    "options": ["Karena gerakan shalat menggugurkan semua jenis hutang finansial manusia di dunia", "Karena shalat adalah rukun Islam kedua yang menjadi amal pertama dihisab; jika shalatnya berantakan, maka seluruh indikator amal lainnya dianggap rusak", "Agar umat Islam terlihat lebih sibuk beribadah dibandingkan dengan umat agama lain di muka bumi", "Karena shalat secara otomatis memberikan gelar sosial yang tinggi di tengah lingkungan pergaulan"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Tahapan setelah kebangkitan adalah berkumpulnya seluruh umat manusia dari zaman Nabi Adam hingga akhir zaman dalam kondisi telanjang dan tak beralas kaki. Tempat transit agung ini disebut...",
+    "options": ["Surga Firdaus", "Padang Mahsyar", "Alam Barzakh", "Jembatan Shirath"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Kesadaran tentang hisab atas waktu mengajarkan umat Islam untuk menolak fenomena 'membuang-buang waktu' (leisure time berlebih). Nilai moral dari penolakan ini adalah...",
+    "options": ["Agar manusia bekerja 24 jam sehari tanpa istirahat layaknya robot industri", "Waktu yang terlewat sia-sia tidak akan bisa kembali dan justru menjadi penyesalan terbesar (kerugian umur) saat diperlihatkan laporannya di akhirat", "Karena bersantai akan membuat otot tubuh melemah dan menyebabkan kematian mendadak", "Agar semua waktu luang difokuskan hanya untuk mengejar posisi politik dan kekuasaan absolut"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "Ujian kehilangan (harta, karier, orang tercinta) membutuhkan kesabaran tingkat tinggi. Korelasi teologis kesabaran ini dengan hari pembalasan adalah...",
+    "options": ["Kesabaran adalah 'transaksi' yang menjamin pahala tak terbatas sebagai penghibur duka yang akan dibayarkan penuh (cash) di dimensi akhirat", "Sabar akan mempercepat orang yang telah mati untuk kembali hidup ke dunia secara ajaib", "Orang sabar dijanjikan akan langsung menduduki kursi pemerintahan sebagai kompensasi kesedihannya", "Sabar hanya berguna agar kita dikasihani dan diberikan banyak uang oleh kolega kerja"],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "Berdusta, bahkan untuk alasan bercanda (prank), dilarang dalam syariat Islam. Konsekuensi eskatologis (akhirat) dari kebiasaan berdusta ini adalah...",
+    "options": ["Kebiasaan berdusta akan menyebabkan penyakit demensia (hilang ingatan) di usia tua", "Setiap dusta, betapapun remehnya, dicatat detail dan berpotensi menyeret pelakunya ke dalam rantai kemunafikan yang akan diekspos secara memalukan di Padang Mahsyar", "Berbohong hanya diharamkan jika merugikan orang-orang dari golongan kaya dan penguasa", "Dusta diperbolehkan asalkan segera melakukan sujud sahwi setelahnya"],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "Aktivitas membaca Al-Qur'an secara rutin diyakini akan mendatangkan 'Syafaat' kelak. Secara eskatologis, fungsi syafaat ini adalah...",
+    "options": ["Sebagai pembelaan magis yang akan menarik pembacanya dari siksaan neraka dan mengangkat derajatnya di surga, izin mutlak berada pada Allah", "Mantra untuk memperpanjang usia biologis pembacanya di dunia hingga mencapai ratusan tahun", "Syafaat tersebut akan menghapus kewajiban shalat dan puasa bagi sang pembaca secara permanen", "Sebagai tiket bebas masuk neraka bagi seluruh anggota keluarga tanpa perlu beramal saleh sama sekali"],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "Sikap rendah hati (Tawadhu') sangat dijunjung tinggi. Mengapa kesombongan menjadi ancaman terbesar bagi keselamatan eskatologis?",
+    "options": ["Karena orang sombong biasanya tidak memiliki kemampuan berbicara di depan umum secara santun", "Kesombongan adalah esensi dari kesesatan Iblis; menyombongkan kelebihan berarti menantang penguasa tunggal hari kiamat (Maliki Yaumiddin)", "Kesombongan akan membuat wajah pelakunya berubah bentuk menjadi buruk rupa secara langsung di dunia", "Karena orang sombong tidak mau membayar biaya pendaftaran haji dan umrah"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Ketetapan Allah menegaskan adanya 'Hari Pembalasan'. Fakta ini menjadi obat penawar bagi orang-orang yang dizalimi di dunia yang tidak pernah mendapatkan keadilan pengadilan manusia, karena...",
+    "options": ["Mereka bisa melakukan balas dendam fisik kepada keturunan orang yang menzaliminya", "Menghapus dendam dengan keyakinan absolut bahwa keadilan ilahiah akan merampas hak-hak mereka yang dirugikan tanpa ada satu kejahatan pun yang lolos dari hukuman seimbang", "Mereka akan langsung diangkat derajatnya menjadi malaikat yang tidak bisa merasakan sakit", "Karena mereka bisa menyogok panitera akhirat agar menghukum lawannya dengan lebih berat"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Berbuat baik kepada tetangga ditekankan sangat serius dalam sabda Nabi. Jika dikorelasikan dengan keimanan kepada hari akhir, hal ini bermakna...",
+    "options": ["Sebagai taktik agar jika kita tidak punya uang, kita bisa menumpang makan di rumah tetangga setiap hari", "Menyakiti tetangga akan membakar pahala ibadah ritual kita, sehingga muamalah sosial yang baik adalah syarat keutuhan pahala di Yaumul Mizan", "Agar tetangga mau menjaga keamanan properti rumah kita saat kita pergi berlibur ke luar kota", "Karena tetangga adalah orang pertama yang akan memandikan jenazah kita saat meninggal dunia"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Sindrom kelelahan dan rasa malas dalam beribadah (Futur) sering terjadi. Motivasi teologis untuk melawan rasa malas ini berdasarkan iman hari kiamat adalah...",
+    "options": ["Mengingat bahwa siksaan neraka akan mengenai orang yang tertidur saat mendengarkan azan", "Sadar bahwa hidup di dunia adalah zona kompetisi yang sangat sempit dan cepat (fana), di mana kelengahan ibadah akan dibayar mahal dengan kerugian keabadian di akhirat", "Rasa malas dilarang karena akan menurunkan produktivitas perusahaan tempat kita bekerja", "Karena orang malas akan diasingkan dan dikucilkan dari lingkungan rukun tetangga setempat"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Menjaga hati dari penyakit seperti riya, dengki, dan dendam sangatlah vital. Mengapa 'kebersihan hati' (Qalbun Salim) menjadi kartu pas penting di hari kiamat?",
+    "options": ["Karena pada hari kiamat, harta dan jabatan tidak berguna lagi; yang menyelamatkan manusia hanyalah hati yang bersih dan murni bertauhid kepada Allah", "Karena hati yang bersih akan membuat fisik seseorang terlihat bercahaya sehingga malaikat mudah mengenalinya", "Agar organ jantung biologis manusia tidak cepat rusak saat menghadapi kepanikan Padang Mahsyar", "Karena hanya orang yang memiliki hati bersih yang bisa mengelabuhi malaikat pencatat amal"],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Kesopanan dalam bertingkah laku (adab) merupakan manifestasi iman. Bagaimana iman kepada hari akhir membentuk sikap menghargai privasi dan kehormatan orang lain?",
+    "options": ["Karena ketidaksopanan melanggar pasal undang-undang pidana nomor 310 tentang pencemaran nama baik", "Karena kesopanan dan menjaga hak sosial orang lain merupakan amaljariyah yang terakumulasi dan meringankan rintangan hisab kelak", "Agar terlihat seperti bangsawan dari keluarga terpandang yang memiliki etika keraton tinggi", "Kesopanan dilakukan semata-mata untuk menarik simpati publik demi memenangkan pemilihan umum"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Praktik memakan harta Riba dilarang keras dan diancam dengan hukuman berat. Eksploitasi ekonomi berbasis riba dibenci karena...",
+    "options": ["Riba hanya menguntungkan bank pemerintah dan merugikan bank-bank konvensional swasta", "Menindas kaum lemah demi akumulasi kapital tanpa usaha produktif; kezaliman finansial struktural ini menjanjikan peperangan langsung dari Allah di dunia dan akhirat", "Karena uang hasil riba biasanya digunakan untuk berjudi dan membeli minuman keras", "Riba dilarang karena akan menyebabkan inflasi tinggi yang merusak nilai mata uang emas dan perak"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "Ekosistem pertemanan (Biah Shalihah) sangat menentukan masa depan eskatologis seseorang. Memilih berteman dengan orang saleh bertujuan untuk...",
+    "options": ["Membangun jejaring bisnis (networking) eksklusif yang memonopoli keuntungan materi jamaah", "Saling menjadi pengingat dalam kebenaran dan kesabaran, serta harapan mendapatkan syafaat teman seiman di akhirat", "Menghindar dari interaksi sosial dengan orang-orang miskin dan kurang berpendidikan", "Agar selalu dibantu mengerjakan tugas sekolah atau pekerjaan kantor secara gratis tanpa imbalan"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "Kebersihan fisik dan tempat ibadah diwajibkan dalam Islam (Thaharah). Logika esoteris yang menghubungkan kebersihan dengan hari kiamat adalah...",
+    "options": ["Agar tidak tertular penyakit menular yang disebabkan oleh lalat dan nyamuk kotor", "Karena kebersihan adalah separuh dari iman, dan meremehkan masalah bersuci (seperti najis buang air kecil) menjadi salah satu asbab terbesar siksa kubur", "Agar rumah terlihat mewah dan terawat jika suatu saat ada kerabat jauh yang datang berkunjung", "Karena kebersihan lingkungan adalah program yang disubsidi dan didanai oleh lembaga kesehatan dunia"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Hari di mana manusia akan dihadapkan pada ancaman nyata yang mengerikan bagi mereka yang durhaka disebut juga dengan istilah eskatologis...",
+    "options": ["Yaumul Wa'id", "Yaumul Hasrah", "Yaumul Kholud", "Yaumul Ba'ats"],
+    "answer": 0
+  },
+  {
+    "id": 71,
+    "question": "Perintah menjaga pandangan (Ghadhul Bashar) dari hal-hal maksiat sangat ditekankan. Apa relevansi eskatologis menjaga pandangan terhadap ancaman hari kiamat?",
+    "options": ["Mencegah penurunan ketajaman penglihatan fisik (rabun jauh) di usia senja", "Pandangan liar adalah panah beracun iblis; merawat kesucian pandangan akan diganjar manisnya iman di dunia dan menghindarkan diri dari azab mata di neraka", "Agar terlihat khusyuk layaknya orang buta demi menarik simpati masyarakat yang iba", "Karena menatap sesuatu yang haram secara hukum negara diancam dengan kurungan penjara pidana"],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Kewajiban berdoa bukan berarti kelemahan. Berdoa dan memohon pertolongan Allah adalah sarana eskatologis penting karena...",
+    "options": ["Hanya dengan berdoa, seseorang tidak perlu lagi berikhtiar (bekerja keras) mencari jalan keluar dari masalahnya", "Doa merepresentasikan ketidakberdayaan hamba dan penyerahan mutlak kepada penguasa hari pembalasan (Maliki Yaumiddin), sekaligus mengubah takdir muallaq", "Agar suara doa kita terdengar keras dan mengganggu kekhusyukan tetangga yang sedang tidur nyenyak", "Karena berdoa adalah satu-satunya aktivitas yang tidak memerlukan biaya finansial sama sekali"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Menghormati guru (pemilik ilmu) sangat diwajibkan dalam adab Islam. Nilai akhirat dari sikap takzim kepada penyampai kebenaran ini adalah...",
+    "options": ["Untuk mendapatkan nilai raport yang sangat tinggi meski tidak pernah mengerjakan tugas sekolah", "Karena ilmu agama adalah peta jalan menuju surga; merendahkan penunjuk jalannya (guru) berpotensi memutus keberkahan ilmu dan mempersulit hisab kelak", "Agar guru tersebut bersedia memberikan seluruh gajinya untuk membiayai kebutuhan murid-muridnya", "Karena guru memiliki kemampuan supranatural untuk membaca pikiran masa lalu murid-muridnya"],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Gaya hidup konsumtif sering memicu stres finansial. Ajaran kesederhanaan (Zuhud) berbasis iman hari akhir meredam gaya hidup ini dengan cara...",
+    "options": ["Mewajibkan memakai pakaian yang usang dan tidak layak pakai meskipun memiliki uang yang cukup banyak", "Menyadarkan bahwa kekayaan materi yang berlebihan akan memperlama durasi audit (hisab) di Padang Mahsyar, sehingga sikap cukup (qanaah) adalah pilar kebebasan mental", "Karena hidup sederhana berarti pemerintah akan membebaskan orang tersebut dari semua kewajiban membayar pajak", "Mengajarkan bahwa kekayaan hanya diperuntukkan bagi bangsa-bangsa Barat yang sekuler"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Kepedulian untuk menolong sesama yang sedang kesusahan memiliki dimensi transendental yang sangat kuat. Jaminan bagi mereka yang gemar membantu berdasarkan sabda nabi adalah...",
+    "options": ["Mereka akan mendapatkan kompensasi dana santunan dari dinas sosial dan kementerian kesehatan", "Allah akan melepaskan mereka dari satu penderitaan dan himpitan (krisis) yang mencekam pada hari kiamat sebagai balasan tunai atas pertolongannya di dunia", "Hanya akan dibalas jika pertolongan tersebut diabadikan dalam bentuk video dan disebarkan ke media sosial", "Orang yang ditolong akan otomatis menjadi budak (pelayan) seumur hidup bagi si penolong"],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "Kejahatan mencuri bukan hanya dosa merampas hak materi. Dari kacamata eskatologis, mengapa sanksi mencuri amat mengerikan?",
+    "options": ["Karena mencuri akan mengurangi jumlah aset kekayaan negara yang digunakan untuk pembangunan jalan tol", "Kezaliman perampasan hak ini tidak hanya dihukum di dunia, namun jika tidak dikembalikan, amal ibadah si pencuri akan disita untuk membayar kerugian korban di akhirat", "Karena pencuri biasanya mengalami gangguan mental kecemasan (paranoid) sepanjang sisa hidupnya di dunia", "Mencuri akan menyebabkan pelakunya tidak bisa membedakan antara siang dan malam hari secara fisik"],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Persaudaraan sesama Muslim (Ukhuwah Islamiyah) bagaikan satu tubuh. Kewajiban menjaga ukhuwah ini dalam pandangan akhirat adalah...",
+    "options": ["Agar bisa mendirikan negara super power yang menindas kelompok minoritas tanpa belas kasihan", "Keretakan ukhuwah (boikot/tidak bertegur sapa) berpotensi memblokir pintu ampunan dari Allah dan menggantung pahala ibadah hingga pihak yang berseteru berdamai", "Untuk memastikan umat Islam selalu menggunakan seragam yang identik agar mudah dikenali dunia", "Karena persaudaraan akan menjamin pasokan makanan secara gratis tanpa perlu bekerja keras di ladang"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Puasa Ramadhan adalah ibadah rahasia. Korelasi puasa dengan pembentukan karakter iman kepada hisab Allah adalah...",
+    "options": ["Melatih kepatuhan absolut dan kejujuran internal (Ihsan), karena hanya pelakunya dan Allah yang tahu ia berpuasa, sebuah miniatur kedisiplinan menghadapi Yaumul Hisab", "Agar menghemat anggaran belanja makanan rumah tangga selama satu bulan penuh demi persiapan lebaran", "Untuk membuktikan kemampuan menahan lapar agar bisa memenangkan rekor kompetisi daya tahan fisik manusia super", "Puasa dilakukan semata-mata untuk melakukan diet ekstrim demi menjaga penampilan estetika tubuh yang ramping"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Gibah (menggunjing) dianalogikan dengan memakan daging saudara yang telah mati. Pemahaman HOTS tentang kehancuran eskatologis dari dosa gibah adalah...",
+    "options": ["Membuat pelaku gibah rentan terhadap gangguan fungsi pita suara akut yang tidak dapat disembuhkan dokter", "Membongkar aib orang lain di dunia akan dibalas dengan pembongkaran aib pelakunya sendiri secara masif dan memalukan di pengadilan mahkamah agung Allah kelak", "Gibah dilarang karena merusak produktivitas waktu kerja saat bergosip di jam istirahat kantor", "Hanya dilarang karena obrolan gibah seringkali menggunakan volume suara yang bising dan mengganggu pendengaran"],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "Rasa malu (Haya') berbuat dosa di tempat sepi adalah indikator utama keimanan yang lurus. Mengapa rasa malu ini diikat erat dengan keimanan kepada kiamat?",
+    "options": ["Rasa malu adalah rasa takut organik bahwa 'Maha Melihat'-Nya Allah tak bisa dihindari dan malaikat tetap merekam data audit untuk dibuka kelak", "Karena jika ketahuan berbuat dosa secara sembunyi-sembunyi, sanksi denda sosial masyarakat akan jauh lebih mahal", "Rasa malu mencegah seseorang dari perilaku mencolok yang bisa membuat dirinya ditangkap oleh aparat kepolisian", "Karena dosa yang dilakukan secara sembunyi akan memunculkan bercak hitam pada wajah pelakunya secara langsung"],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "Menepati janji sering dianggap sepele jika tidak tertulis hitam di atas putih. Namun, dalam Islam, ingkar janji sangat dikutuk karena...",
+    "options": ["Janji lisan yang diabaikan adalah celah kemunafikan yang akan dituntut keras; setiap perjanjian di dunia mengikat secara sah dalam lembaran hisab akhirat", "Karena tidak menepati janji akan mengurangi skor (rating) kredit kepercayaan dari lembaga keuangan perbankan resmi", "Orang yang ingkar janji akan langsung jatuh miskin dalam waktu kurang dari dua puluh empat jam berturut-turut", "Ingkar janji hanya diharamkan jika berhadapan dengan atasan di tempat kerja demi kelancaran promosi karier"],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Mempelajari sirah (kisah-kisah eskatologis) tentang proses hari kiamat dan penderitaan umat terdahulu berfungsi strategis untuk...",
+    "options": ["Sebagai dongeng fiksi pengantar tidur anak-anak agar mereka cepat bermimpi indah tanpa muatan nilai keagamaan yang membebani", "Membangkitkan daya kejut spiritual (shock therapy) yang mencambuk kesadaran (awareness) agar tidak terlena oleh ilusi kenyamanan dunia yang melenakan", "Untuk mempelajari teknik-teknik pembuatan film bencana alam fiksi ilmiah agar lebih realistis secara visual", "Agar manusia berbondong-bondong membuat perlindungan baja di bawah tanah demi bertahan dari benturan galaksi"],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "Kewajiban mengonsumsi dan mencari rezeki dari jalan yang Halal ditekankan ketat. Dampak eskatologis mengonsumsi harta haram dalam tubuh adalah...",
+    "options": ["Membuat perut terasa selalu kembung dan terkena gangguan pencernaan ringan namun tidak berakibat fatal", "Daging yang tumbuh dari nutrisi haram akan menjadi bahan bakar neraka, dan menghijab (memblokir) seluruh doa pelakunya dari pengabulan Allah", "Harta haram akan membuat pelakunya langsung ditangkap oleh aparat penegak hukum yang berpatroli secara acak", "Karena rezeki halal akan membebaskan manusia dari kewajiban berzakat selamanya"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Menyakiti orang lain, baik secara fisik maupun psikologis, tidak akan dibiarkan menguap begitu saja. Kepastian qishash (balasan) di akhirat mengajarkan bahwa...",
+    "options": ["Kezaliman adalah utang abadi yang tidak bisa diputihkan tanpa pemaafan korban; ini menjadi rem bagi Mukmin dari bersikap arogan", "Korban yang disakiti memiliki hak prerogatif untuk menyiksa pelakunya di dunia tanpa melalui peradilan resmi", "Karena menyakiti orang lain akan membatalkan status kewarganegaraan pelakunya secara hukum negara", "Orang yang menyakiti akan dihukum dengan cara diubah menjadi hewan yang menjijikkan di dunia secara ajaib"],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "Tawakal (berserah diri penuh kepada Allah) pasca-ikhtiar maksimal adalah sikap mental tingkat tinggi. Hubungan tawakal dengan ketenangan menghadapi kematian adalah...",
+    "options": ["Orang yang tawakal akan menghentikan semua usaha penyembuhan saat sakit dan pasrah menunggu kematian di atas kasur", "Meyakini secara absolut bahwa ketetapan waktu kematian dan nasib rezeki adalah domain Al-Wakil (Allah), membebaskan jiwa dari belenggu kecemasan paranoid", "Tawakal menjamin bahwa seseorang tidak akan pernah mati sebelum ia berhasil menjadi miliarder kaya raya", "Karena dengan bersikap tawakal, ia dapat menghindari kewajiban membayar utang kepada tetangganya"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Rutinitas Zikir bukan hanya komat-kamit bibir kosong. Ketenangan batin (Thumaninah) yang dijanjikan Al-Qur'an dari berzikir adalah hasil dari...",
+    "options": ["Efek hipnotis sugesti dari melafalkan bunyi-bunyian tanpa henti layaknya mantra tradisional kuno yang melemahkan sistem saraf otak", "Sinkronisasi frekuensi hati dan lisan dalam menyadari kebesaran Sang Penguasa Hari Akhir, mengeliminasi ketakutan pada problem duniawi yang fana", "Aktivitas pita suara yang bergetar cepat sehingga menyebabkan sirkulasi udara lebih lancar menuju rongga dada dan jantung", "Harapan palsu bahwa setelah berzikir seribu kali, segala hutang riba akan dibayarkan secara gaib malam itu juga"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Menjaga Ukhuwah (kerukunan komunal) di tengah perbedaan pendapat sangat menantang. Pemahaman iman hari kiamat menjaga persatuan ini dengan paradigma...",
+    "options": ["Mengharamkan terjadinya perbedaan sama sekali dan memaksakan satu pikiran tunggal kepada setiap individu masyarakat secara otoriter", "Perpecahan dan permusuhan ego sektoral akan menunda syafaat dan mempersulit antrean hisab, sehingga rekonsiliasi adalah jalan keselamatan bersama", "Agar kelompok minoritas tidak pernah diberi ruang untuk berbicara dan terus ditekan demi terjaganya ketenangan faksi mayoritas", "Mengisolasi kelompok yang berbeda agar tidak pernah bertemu satu sama lain selamanya di ruang publik"],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Rasa Syukur sering dikonotasikan hanya sebatas harta benda. Evaluasi teologis rasa syukur bagi Mukmin yang memiliki wawasan akhirat adalah...",
+    "options": ["Bersyukur semata-mata karena mendapatkan keuntungan proyek bisnis tanpa perlu merasa bersyukur atas diberikannya nikmat iman dan kesehatan (hidayah)", "Puncak kesadaran bahwa iman, hidayah untuk taat, dan waktu luang untuk beramal jauh lebih krusial disyukuri daripada penambahan aset properti duniawi", "Rasa syukur diekspresikan dengan mengadakan pesta makanan mewah yang menghamburkan uang berlebihan tanpa mengundang anak yatim", "Bersyukur hanya diucapkan lisan namun tidak pernah diiringi dengan ketaatan menjalankan kewajiban shalat lima waktu"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Kemalasan dalam menjemput rezeki atau beribadah ditantang tegas oleh semangat Islam. Bagaimana teologi hari kiamat menghantam budaya pemalas?",
+    "options": ["Karena Allah tidak akan pernah memberikan sepeser pun makanan kepada orang yang menganggur dan menutup pintu rezeki secara absolut dari langit", "Manusia diposisikan sebagai proyektor ikhtiar; kemalasan adalah manifestasi kufur nikmat atas karunia energi dan waktu yang pertanggungjawabannya amat perih kelak", "Pemerintah syariat akan langsung memenjarakan penduduknya yang terlihat duduk bersantai di teras rumah pada hari-hari produktif", "Karena orang malas akan diubah menjadi bongkahan batu besar sebagai peringatan bagi penduduk kota lainnya"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Memaafkan musuh atau orang yang bersalah sangat bertolak belakang dengan hawa nafsu dendam. 'Pancingan' motivasi akhirat bagi sikap pemaaf adalah...",
+    "options": ["Memaafkan adalah transaksi barter tingkat tinggi; barangsiapa melapangkan dada memaafkan di dunia, Allah akan melapangkan ampunan atas dosa-dosanya yang jauh lebih besar di akhirat", "Memaafkan menandakan kita lemah dan mengalah agar musuh tidak lagi mengganggu fisik kita demi keselamatan sementara", "Karena jika tidak memaafkan, kita akan dituntut balik oleh musuh dengan menggunakan pengacara hebat di pengadilan duniawi", "Agar kita diundang ke acara televisi komersial sebagai figur masyarakat yang paling bijaksana se-nusantara"],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "question": "Menjaga kualitas ucapan (Qaulan Sadida) adalah kewajiban yang berdampak masif. Kenapa malaikat spesifik ditugaskan mencatat (Rakib dan Atid) setiap lontaran kalimat?",
+    "options": ["Karena berbicara membutuhkan kalori lebih besar daripada bekerja, sehingga harus diukur dan dicatat untuk diet kalori", "Satu kalimat keburukan (fitnah/hoaks) bisa menyulut pertumpahan darah tak berkesudahan yang dosa jariyahnya terus mengalir hingga tiupan sangkakala", "Hanya karena malaikat memang ditugaskan untuk menghitung seberapa banyak perbendaharaan kosakata bahasa manusia yang tercipta dalam sehari", "Agar suara tersebut kelak dapat dijadikan instrumen alat musik saat acara penutupan hari kiamat kubra"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Hari di mana segala hal yang sebelumnya diragukan atau dibantah oleh orang kafir menjadi kenyataan yang tak terelakkan disebut...",
+    "options": ["Yaumul Wa'id", "Yaumul Haqqah", "Yaumul Jaza", "Yaumul Mahsyar"],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "Memperbanyak doa (terutama memohon perlindungan dari fitnah akhir zaman) sangat ditekankan Nabi. Doa bukan sekadar ritual verbal, melainkan...",
+    "options": ["Sebuah deklarasi kebutuhan total dari seorang hamba lemah yang menyandarkan keselamatan eskatologisnya pada Kekuasaan absolut penjaga hari akhir (Al-Qayyum)", "Agar suara doa kita menakut-nakuti kelompok musuh sehingga mereka tidak berani mendekati kompleks perumahan tempat kita tinggal", "Sebagai formalitas untuk menutup acara arisan atau kumpul warga tanpa ada muatan permohonan kebaikan yang berarti", "Mantra pemanggil kekuatan mistis untuk memperpanjang usia hingga seribu tahun tanpa mengalami masa tua atau sakit"],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "question": "Menyambung tali silaturahmi (persaudaraan biologis/ideologis) menjanjikan peluasan rezeki dan umur berkah. Konteks berkah umur ini jika dihubungkan dengan akhirat bermakna...",
+    "options": ["Umur biologisnya akan dihentikan dari proses penuaan secara seluler agar selalu terlihat segar dan muda", "Kualitas pemanfaatan waktunya (umur) dipenuhi dengan amal produktif yang akumulasi pahalanya akan memperberat neraca Mizan saat hisab", "Akan diundang secara khusus untuk menjabat sebagai staf pemerintahan elit tanpa perlu mengikuti proses seleksi administrasi birokrasi", "Karena orang yang banyak kerabatnya bisa dengan mudah meminjam modal usaha dari sanak saudaranya tanpa jaminan"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Sombong (takabur) menolak tunduk pada kebenaran. Ancaman akhirat bagi orang sombong sangatlah mengerikan karena...",
+    "options": ["Sifat takabur merebut 'pakaian' kekuasaan mutlak Tuhan; sebuah pembangkangan fatal yang menutup pintu rahmat penerimaan di gerbang surga (hijab)", "Orang sombong tidak akan bisa memiliki akun media sosial yang diverifikasi secara resmi karena arogansinya", "Karena mereka tidak mau bergaul dengan masyarakat menengah ke bawah sehingga tidak memiliki teman saat bermain", "Kesombongan akan menyebabkan mereka kehilangan kemampuan berjalan secara tegak akibat perubahan struktur tulang pinggung"],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "question": "Ilmu agama tidak boleh diputus rantainya. Jika seorang pemuda bersemangat belajar dan menuntut ilmu, maka prospek investasi akhirat dari semangat ini adalah...",
+    "options": ["Memastikan ia mendapatkan beasiswa uang saku berlimpah untuk digunakan jalan-jalan keliling dunia", "Ilmu yang bermanfaat (diajarkan/diamalkan) menjadi salah satu dari tiga amal jariyah abadi yang argo pahalanya tak terputus meski nyawa telah tiada", "Untuk membanggakan dirinya di depan rekan sebayanya sebagai intelektual yang paling cerdas se-kampus dengan nilai tertinggi", "Agar ia bisa mendebat dan mempermalukan para guru dan dosen seniornya dengan teori-teori baru yang membingungkan"],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Menjaga amanah fisik (kesehatan badan) tidak hanya domain medis. Secara teologis, merawat kesehatan dipandang wajib sebagai...",
+    "options": ["Bentuk persaingan untuk memiliki tubuh yang paling estetis demi mengikuti perlombaan kekuatan otot internasional", "Perawatan terhadap mesin/instrumen ibadah utama (jasad); mensyukuri kesehatan untuk optimalisasi ketaatan sebelum jasad tersebut dibongkar pada hari kiamat", "Agar bisa hidup tanpa batas usia dan menghindari pertemuan dengan malaikat maut secara definitif", "Untuk mengirit biaya asuransi kesehatan swasta agar uangnya bisa digunakan membeli barang-barang konsumtif yang mewah"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Mewujudkan keadilan sosial sangatlah sulit di bumi yang penuh intrik politik. Namun keadilan Ilahi (Al-Adl) di akhirat menstimulasi Mukmin untuk terus berlaku adil karena...",
+    "options": ["Karena keadilan adalah fondasi harmoni dunia, dan komitmen menegakkannya merupakan bukti otentik iman yang menjamin keselamatan dari azab mahkamah Allah", "Agar dipuji dunia internasional sebagai tokoh pembela hak asasi manusia yang layak diabadikan dalam patung perunggu", "Karena dengan berlaku adil, orang tersebut akan mendapatkan kekebalan hukum dari pemerintahan negaranya secara instan", "Keadilan diwajibkan hanya untuk menghindari perpecahan massa (demo) yang anarkis, bukan untuk kepentingan eskatologis akhirat"],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "Mengapa aktivitas Introspeksi diri (Muhasabah) secara radikal harus dilakukan secara proaktif di dunia sebelum datangnya hari kiamat?",
+    "options": ["Untuk mencari kambing hitam atas setiap masalah hidup yang dialaminya agar tidak merasa bersalah sama sekali", "Agar catatan audit malaikat Atid bisa dikondisikan (dijebol) sebelum sidang putusan akhir", "Sebagai langkah audit pra-peradilan untuk memperbaiki lubang-lubang amal dan bertaubat selagi sistem pengampunan (Ghafur) masih beroperasi di dunia", "Agar terlihat seperti ahli spiritual (pertapa) mistik yang sedang mencari pencerahan tingkat dewa dalam sebuah gua yang sunyi"],
+    "answer": 2
+  },
+  {
+    "id": 100,
+    "question": "Kesimpulan agung (The Ultimate Conclusion) dari diturunkannya doktrin iman kepada hari kiamat bagi peradaban umat manusia adalah...",
+    "options": ["Untuk menumbuhkan teror psikologis agar manusia kembali ke zaman primitif tanpa mempedulikan perkembangan teknologi modern yang gemilang", "Sebagai panduan komprehensif (masterplan) yang mengkalibrasi ulang orientasi manusia menjadi pribadi takwa, bermoral, adil, dan sadar penuh akan tanggung jawab absolut", "Untuk memperkaya para ahli agama melalui seminar-seminar dan penjualan buku yang membahas detail prediksi spesifik tanggal kiamat yang akurat", "Hanya sebatas tambahan pelengkap doktrin mitologi purba untuk menakut-nakuti anak kecil agar tidak menangis di malam hari"],
+    "answer": 1
+  }
+]

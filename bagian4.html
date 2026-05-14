@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Soal Olimpiade PAI MALKA Festival 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    
+    <style>
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .quiz-container {
+            max-width: 800px;
+            margin: 40px auto;
+            background: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 8px 30px rgba(0,0,0,0.05);
+            padding: 30px;
+        }
+        .quiz-header {
+            border-bottom: 2px solid #eef2f5;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .quiz-header h1 {
+            font-weight: 700;
+            color: #1a5cff;
+            font-size: 1.8rem;
+        }
+        .question-box {
+            font-size: 1.15rem;
+            font-weight: 600;
+            margin-bottom: 25px;
+            line-height: 1.6;
+        }
+        
+        /* Grid Layout untuk Pilihan Jawaban */
+        #options-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+        @media (max-width: 576px) {
+            #options-container {
+                grid-template-columns: 1fr; /* 1 kolom untuk layar HP */
+            }
+        }
+
+        /* Styling Dasar Tombol Pilihan */
+        .option-btn {
+            text-align: left;
+            padding: 15px 20px;
+            font-size: 1rem;
+            border-radius: 12px;
+            border: none;
+            color: #fff;
+            transition: all 0.2s ease;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .option-btn:disabled {
+            cursor: not-allowed;
+            opacity: 0.8;
+        }
+
+        /* Warna-warni Pilihan (Selain Merah dan Hijau) */
+        .btn-opt-blue { background-color: #0d6efd; }
+        .btn-opt-blue:hover:not(:disabled) { background-color: #0b5ed7; transform: translateY(-3px); box-shadow: 0 6px 15px rgba(13,110,253,0.3); }
+        
+        .btn-opt-orange { background-color: #fd7e14; }
+        .btn-opt-orange:hover:not(:disabled) { background-color: #e86e10; transform: translateY(-3px); box-shadow: 0 6px 15px rgba(253,126,20,0.3); }
+        
+        .btn-opt-purple { background-color: #6f42c1; }
+        .btn-opt-purple:hover:not(:disabled) { background-color: #59339d; transform: translateY(-3px); box-shadow: 0 6px 15px rgba(111,66,193,0.3); }
+        
+        .btn-opt-cyan { background-color: #0dcaf0; color: #000 !important; }
+        .btn-opt-cyan:hover:not(:disabled) { background-color: #0bacce; transform: translateY(-3px); box-shadow: 0 6px 15px rgba(13,202,240,0.3); }
+
+        /* Indikator Jawaban Benar / Salah */
+        .btn-correct {
+            background-color: #198754 !important; /* Hijau */
+            color: #fff !important;
+            box-shadow: 0 0 15px rgba(25,135,84,0.6) !important;
+            transform: scale(1.02);
+            z-index: 1;
+        }
+        .btn-incorrect {
+            background-color: #dc3545 !important; /* Merah */
+            color: #fff !important;
+            box-shadow: 0 0 15px rgba(220,53,69,0.6) !important;
+        }
+
+        .navigation-box {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 30px;
+            border-top: 2px solid #eef2f5;
+            padding-top: 20px;
+        }
+        .progress-text {
+            font-weight: 600;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="quiz-container shadow">
+        <div class="quiz-header">
+            <h1><i class="fa-solid fa-book-quran me-2"></i> Latihan Soal Olimpiade PAI</h1>
+            <p class="text-muted mb-0">MALKA Festival 2026</p>
+        </div>
+
+        <div id="quiz-area">
+            <div class="question-box" id="question-text">
+                Memuat soal...
+            </div>
+            
+            <div id="options-container">
+                </div>
+
+            <div class="navigation-box">
+                <span class="progress-text" id="progress-text">Soal 0 dari 0</span>
+                <button class="btn btn-primary px-4 py-2 fw-semibold" id="next-btn" disabled>
+                    Selanjutnya <i class="fa-solid fa-arrow-right ms-1"></i>
+                </button>
+            </div>
+        </div>
+
+        <div id="result-area" class="text-center d-none">
+            <h2 class="mb-3 text-success"><i class="fa-solid fa-trophy mb-3" style="font-size: 3rem;"></i><br>Kuis Selesai!</h2>
+            <h4 class="mb-4">Skor Anda: <span id="final-score" class="fw-bold text-primary"></span> / <span id="total-score"></span></h4>
+            <button class="btn btn-outline-primary" onclick="location.reload()">Ulangi Kuis</button>
+        </div>
+    </div>
+</div>
+
+<audio id="sound-benar" src="benar.mp3" preload="auto"></audio>
+<audio id="sound-salah" src="salah.mp3" preload="auto"></audio>
+
+<script>
+    let questions = [];
+    let currentQuestionIndex = 0;
+    let score = 0;
+    let hasAnswered = false;
+
+    const questionText = document.getElementById('question-text');
+    const optionsContainer = document.getElementById('options-container');
+    const nextBtn = document.getElementById('next-btn');
+    const progressText = document.getElementById('progress-text');
+    const quizArea = document.getElementById('quiz-area');
+    const resultArea = document.getElementById('result-area');
+    const finalScoreLabel = document.getElementById('final-score');
+    const totalScoreLabel = document.getElementById('total-score');
+    
+    const soundBenar = document.getElementById('sound-benar');
+    const soundSalah = document.getElementById('sound-salah');
+
+    // Fungsi Pengacak (Fisher-Yates Shuffle)
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+
+    // Mengambil data soal
+    fetch('bagian4.json')
+        .then(response => response.json())
+        .then(data => {
+            // Mengacak urutan soal secara keseluruhan
+            questions = shuffleArray(data);
+            loadQuestion();
+        })
+        .catch(error => {
+            questionText.innerHTML = '<span class="text-danger">Gagal memuat soal. Pastikan soal.json berada di direktori yang sama.</span>';
+            console.error('Error fetching data:', error);
+        });
+
+    function loadQuestion() {
+        hasAnswered = false;
+        nextBtn.disabled = true;
+        
+        const currentData = questions[currentQuestionIndex];
+        
+        // Membersihkan opsi sebelumnya
+        optionsContainer.innerHTML = '';
+        
+        // Menampilkan Teks Soal
+        questionText.textContent = `${currentQuestionIndex + 1}. ${currentData.question}`;
+        
+        // Memetakan jawaban benar/salah sebelum diacak
+        let mappedOptions = currentData.options.map((optText, originalIndex) => {
+            return {
+                text: optText,
+                isCorrect: originalIndex === currentData.answer
+            };
+        });
+
+        // Mengacak urutan opsi jawaban
+        mappedOptions = shuffleArray(mappedOptions);
+
+        // Kelas warna untuk 4 pilihan (tidak ada merah/hijau)
+        const colorClasses = ['btn-opt-blue', 'btn-opt-orange', 'btn-opt-purple', 'btn-opt-cyan'];
+
+        // Render Opsi Jawaban
+        mappedOptions.forEach((optObj, index) => {
+            const btn = document.createElement('button');
+            btn.className = `btn option-btn ${colorClasses[index]} shadow-sm`;
+            
+            // Set attribute khusus untuk menandai jawaban benar
+            if (optObj.isCorrect) {
+                btn.dataset.correct = "true";
+            }
+            
+            const letter = String.fromCharCode(65 + index);
+            btn.innerHTML = `<span><strong>${letter}.</strong> ${optObj.text}</span>`;
+            
+            btn.onclick = () => selectAnswer(optObj.isCorrect, btn);
+            optionsContainer.appendChild(btn);
+        });
+
+        progressText.textContent = `Soal ${currentQuestionIndex + 1} dari ${questions.length}`;
+    }
+
+    function selectAnswer(isCorrect, selectedBtn) {
+        if (hasAnswered) return;
+        hasAnswered = true;
+        
+        const allButtons = document.querySelectorAll('.option-btn');
+        
+        // Menonaktifkan semua tombol setelah klik
+        allButtons.forEach(btn => btn.disabled = true);
+
+        if (isCorrect) {
+            // Jawaban Benar
+            selectedBtn.classList.add('btn-correct');
+            selectedBtn.innerHTML += '<i class="fa-solid fa-circle-check fs-5"></i>';
+            soundBenar.currentTime = 0;
+            soundBenar.play();
+            score++;
+        } else {
+            // Jawaban Salah
+            selectedBtn.classList.add('btn-incorrect');
+            selectedBtn.innerHTML += '<i class="fa-solid fa-circle-xmark fs-5"></i>';
+            soundSalah.currentTime = 0;
+            soundSalah.play();
+            
+            // Cari dan tandai mana jawaban yang sebenarnya benar
+            allButtons.forEach(btn => {
+                if (btn.dataset.correct === "true") {
+                    btn.classList.add('btn-correct');
+                    btn.innerHTML += '<i class="fa-solid fa-circle-check fs-5"></i>';
+                }
+            });
+        }
+
+        // Tampilkan tombol Next
+        nextBtn.disabled = false;
+    }
+
+    nextBtn.addEventListener('click', () => {
+        currentQuestionIndex++;
+        if (currentQuestionIndex < questions.length) {
+            loadQuestion();
+        } else {
+            showResult();
+        }
+    });
+
+    function showResult() {
+        quizArea.classList.add('d-none');
+        resultArea.classList.remove('d-none');
+        finalScoreLabel.textContent = score;
+        totalScoreLabel.textContent = questions.length;
+    }
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

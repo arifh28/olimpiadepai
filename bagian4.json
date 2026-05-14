@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Secara logis, mengapa Allah Swt. mengutus rasul dari kalangan manusia biasa, bukan dari kalangan malaikat yang suci dari dosa?",
+    "options": ["Agar manusia bisa dengan mudah mengalahkan rasul jika terjadi perdebatan", "Karena malaikat menolak tugas turun ke bumi untuk berdakwah", "Agar rasul dapat menjadi teladan (role model) yang realistis dan bisa dicontoh langsung dalam menjalani fitrah kehidupan manusia", "Karena malaikat tidak memiliki kemampuan untuk berbicara bahasa manusia"],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Mengapa pengingkaran terhadap satu rasul saja (misalnya Nabi Isa as.) otomatis membatalkan keimanan seorang Muslim secara keseluruhan?",
+    "options": ["Karena semua rasul membawa inti ajaran tauhid yang sama dari Dzat yang satu, sehingga menolak utusan berarti menolak Sang Pengutus", "Karena rasul terdahulu memiliki mukjizat yang jauh lebih besar secara fisik", "Agar umat Islam bisa menguasai sejarah peradaban seluruh agama", "Karena setiap rasul mewariskan harta benda kepada umat Islam di masa depan"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "Sifat Jaiz bagi rasul adalah 'Aradhul Basyariyah' (memiliki sifat seperti manusia biasa: makan, minum, sakit). Apa hikmah teologis yang paling esensial dari sifat ini?",
+    "options": ["Untuk membuktikan bahwa rasul sebenarnya sangat lemah dan butuh bantuan malaikat", "Sebagai penangkal tumbuhnya kultus individu yang berlebihan, sehingga manusia tidak mempertuhankan rasul tersebut", "Agar rasul bisa merasakan penderitaan dan meminta upah dari umatnya", "Karena Allah tidak mampu memberikan fisik yang abadi kepada para nabi"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Rasul wajib memiliki sifat 'Fathanah' (cerdas). Di era banjir informasi dan hoaks saat ini, bagaimana cara terbaik umat Islam meneladani sifat Fathanah tersebut?",
+    "options": ["Menciptakan teknologi AI untuk menggantikan fungsi ulama berdakwah", "Memiliki kecerdasan literasi, tabayyun (kritis memverifikasi informasi), dan kemampuan memecahkan masalah umat dengan ilmu", "Menghafal semua teori konspirasi dunia agar tidak mudah ditipu oleh negara asing", "Menolak semua informasi dari luar Islam dan menutup diri dari pergaulan global"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Sifat maksum (terjaga dari dosa) membedakan rasul dari manusia biasa. Namun, rasul terkadang melakukan kesalahan kecil (zallah). Analisis HOTS mengenai 'zallah' ini adalah...",
+    "options": ["Zallah membuktikan bahwa sifat maksum hanyalah mitos sejarah", "Zallah terjadi agar Allah bisa segera menegur mereka, sekaligus menjadi pelajaran hukum syariat (fikih) bagi umatnya saat berbuat salah", "Zallah dilakukan dengan sengaja agar rasul terlihat memiliki kelemahan manusiawi", "Zallah akan menghapus sebagian mukjizat yang telah diberikan Allah"],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "Integritas (Shidiq) adalah modal utama seorang rasul. Mengapa kejujuran ini harus dimiliki sebelum mereka diangkat menjadi rasul (seperti gelar Al-Amin bagi Nabi Muhammad)?",
+    "options": ["Agar mendapat dukungan dana dari para saudagar kaya di Mekkah", "Agar dakwah mereka tidak dianggap sebagai tipu muslihat atau kebohongan ketika kelak menyampaikan hal-hal gaib", "Sebagai syarat untuk bisa memimpin pasukan militer dalam peperangan", "Karena hanya orang jujur yang bisa memiliki kekayaan berlimpah"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Sifat mustahil 'Kitman' (menyembunyikan kebenaran) berlawanan dengan Tabligh. Dalam konteks profesionalisme modern, perilaku Kitman ini termanifestasi dalam bentuk...",
+    "options": ["Seorang dokter yang merahasiakan rekam medis pasien dari publik", "Seorang auditor keuangan yang menutupi temuan korupsi di perusahaannya demi mengamankan jabatannya", "Seorang guru yang membuat soal ujian sangat sulit agar siswa tidak lulus", "Seorang pedagang yang menolak memberitahu modal awal barang dagangannya"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Gelar 'Ulul Azmi' diberikan kepada 5 rasul pilihan. Apa parameter utama yang membedakan mereka dari nabi dan rasul lainnya?",
+    "options": ["Mereka memiliki kitab suci yang paling tebal dan mukjizat paling mematikan", "Ketabahan, keteguhan hati, dan kesabaran ekstra luar biasa dalam menghadapi penolakan dan siksaan kaum yang sangat durhaka", "Mereka tidak pernah mengalami sakit atau kesulitan finansial selama hidup", "Mereka berdakwah selama lebih dari 1000 tahun tanpa henti"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Nabi Ibrahim as. berdakwah kepada ayahnya dengan sangat lembut menggunakan logika astronomi. Hal ini menunjukkan bahwa iman kepada rasul mengajarkan kita untuk...",
+    "options": ["Mendebat orang tua dengan suara keras agar mereka segera bertaubat", "Menggunakan pendekatan intelektual, rasional, dan etika komunikasi yang baik (qaulan layyina) dalam menyeru kebaikan", "Memaksa keluarga untuk percaya dengan mengancam akan pergi dari rumah", "Hanya berdakwah kepada orang asing dan membiarkan keluarga tersesat"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Mukjizat sering disamakan oleh kaum sekuler dengan sihir kuno. Perbedaan fundamental paling logis antara mukjizat dan sihir adalah...",
+    "options": ["Sihir bisa dipelajari melalui ritual tertentu dan digunakan untuk kejahatan, sedangkan mukjizat murni intervensi Allah untuk melemahkan penentang dan mendukung kebenaran rasul", "Mukjizat selalu berwujud benda padat, sedangkan sihir selalu berwujud ilusi optik", "Sihir hanya bisa dilakukan di malam hari, sedangkan mukjizat hanya siang hari", "Mukjizat dapat diwariskan ke keturunan nabi, sedangkan sihir hilang saat pelakunya mati"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Mengapa Al-Qur'an disebut sebagai mukjizat rasional terbesar (Khatamul Mu'jizat) dibanding membelah laut atau menyembuhkan orang mati?",
+    "options": ["Karena Al-Qur'an memuat mantra ajaib yang bisa dibaca siapa saja", "Karena mukjizat fisik berakhir saat nabi wafat, sementara kemukjizatan sastra, ilmiah, dan hukum Al-Qur'an dapat dikaji dan dibuktikan oleh akal manusia lintas zaman", "Karena buku Al-Qur'an terbuat dari material yang tidak bisa hancur", "Karena Al-Qur'an memuat nama-nama semua manusia yang akan masuk surga"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Tugas utama rasul adalah 'Basyiran wa Nadziran' (pembawa kabar gembira dan peringatan). Jika diaplikasikan dalam peran orang tua mendidik anak, hal ini berarti...",
+    "options": ["Selalu memanjakan anak agar mereka gembira tanpa pernah memarahi", "Hanya memberikan hukuman fisik agar anak takut dan disiplin", "Menyeimbangkan antara pemberian apresiasi (reward) atas kebaikan anak, dan ketegasan/nasihat (punishment) atas kesalahan", "Menyerahkan pendidikan sepenuhnya kepada guru di sekolah Islam"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Nabi Isa as. diberikan mukjizat menyembuhkan penyakit kusta dan menghidupkan orang mati. Mengapa Allah memberikan mukjizat spesifik di bidang medis pada masa itu?",
+    "options": ["Karena Nabi Isa adalah seorang dokter sebelum diangkat menjadi nabi", "Untuk menandingi dan mengalahkan kebanggaan kaum Bani Israil yang saat itu sangat maju dan mendewakan ilmu pengobatan", "Agar Nabi Isa bisa membuka klinik penyembuhan untuk mendapatkan biaya dakwah", "Karena hanya penyakit kusta yang ada pada peradaban manusia saat itu"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Dalam surah Al-Ahzab ayat 21, Rasulullah disebut sebagai 'Uswatun Hasanah'. Bagaimana penerapan ideal konsep ini bagi seorang pemimpin perusahaan (CEO)?",
+    "options": ["Menuntut karyawan bekerja 24 jam demi kesuksesan perusahaan", "Mengedepankan sifat amanah dalam mengelola gaji karyawan, shidiq dalam melaporkan pajak, dan fathanah dalam inovasi bisnis", "Memaksa seluruh karyawannya menggunakan pakaian tradisional Arab di kantor", "Membagikan seluruh aset perusahaannya kepada fakir miskin hingga perusahaannya bangkrut"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Nabi Muhammad saw. adalah 'Khatamun Nabiyyin' (Penutup para nabi). Argumentasi rasional mengapa umat manusia tidak lagi membutuhkan nabi baru setelahnya adalah...",
+    "options": ["Karena populasi manusia sudah terlalu banyak sehingga nabi baru akan kesulitan berdakwah", "Karena syariat Islam (Al-Qur'an dan Sunnah) telah sempurna, memiliki fleksibilitas untuk menjawab tantangan zaman tanpa perlu risalah baru", "Karena Allah kehabisan wahyu untuk diturunkan ke bumi", "Karena manusia modern sudah tidak lagi percaya pada agama"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Nabi Musa as. diutus kepada Firaun yang tiran. Nilai keberanian (syaja'ah) berbasis iman kepada Rasul yang bisa kita petik dari kisah ini adalah...",
+    "options": ["Menghina pemimpin negara di media sosial dengan kata-kata kasar", "Berani menyuarakan kebenaran dan menasihati penguasa yang zalim dengan cara yang elegan, terukur, dan bermartabat", "Menggalang massa untuk melakukan pemberontakan fisik di jalan raya", "Diam saja ketika melihat kezaliman agar keselamatan diri tetap terjaga"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Sifat mustahil 'Baladah' berarti bodoh. Analisis kritis: Mengapa kebodohan menjadi hal yang secara mutlak diharamkan bagi seorang rasul?",
+    "options": ["Karena rasul yang bodoh akan mudah dibully dan diremehkan oleh kaum cerdik pandai dari golongan kafir, sehingga risalah wahyu akan hancur", "Karena kebodohan membuat rasul tidak bisa menghitung jumlah umatnya", "Agar rasul bisa mengajarkan ilmu sihir kepada musuh-musuhnya", "Karena hanya orang pintar yang diizinkan memiliki kekayaan material"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "Rasulullah saw. pernah ditegur oleh Allah karena berpaling dari Abdullah bin Ummi Maktum (seorang tunanetra). Kisah ini secara teologis membuktikan bahwa...",
+    "options": ["Rasulullah membenci orang cacat secara fisik", "Rasulullah bukanlah Tuhan yang lepas dari khilaf sosial, dan Al-Qur'an benar-benar wahyu Allah yang objektif (tidak ditutupi oleh Nabi)", "Abdullah bin Ummi Maktum adalah orang yang sangat berbahaya bagi dakwah Islam", "Allah melarang nabi berdakwah kepada para pemuka kaum Quraisy"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Salah satu fungsi iman kepada rasul adalah mencegah paham 'Agnostik' (percaya Tuhan tapi menolak agama). Bagaimana doktrin kenabian membantah Agnostisisme?",
+    "options": ["Dengan meyakinkan bahwa Tuhan yang menciptakan alam semesta tidak mungkin menelantarkan ciptaan-Nya tanpa memberikan aturan main (melalui rasul)", "Dengan mengancam kaum agnostik menggunakan kekuatan militer", "Membuktikan bahwa Tuhan sebenarnya memiliki wujud fisik yang sama dengan manusia", "Karena Agnostik adalah aliran yang muncul dari paham komunisme abad 20"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Perbedaan teknis antara Nabi dan Rasul adalah pada kewajiban Tabligh (menyampaikan). Dampak dari perbedaan tugas ini terhadap beban psikologis seorang Rasul adalah...",
+    "options": ["Rasul bisa bersantai karena tugasnya sudah dibantu oleh para Nabi di bawahnya", "Rasul memikul risiko benturan sosial, ancaman pembunuhan, dan fitnah yang jauh lebih besar karena harus merombak sistem kepercayaan kaumnya", "Rasul tidak pernah merasakan kesedihan karena selalu dijaga malaikat secara fisik", "Nabi memiliki derajat yang lebih tinggi daripada Rasul di mata Allah"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Sebagian masyarakat masih memercayai orang 'pintar' (dukun) yang mengaku bisa meramal masa depan. Hal ini merusak iman kepada rasul karena...",
+    "options": ["Dukun sering memasang tarif yang terlalu mahal", "Hak prerogatif mengetahui hal gaib secara mutlak hanyalah milik Allah yang kadang diwahyukan khusus HANYA kepada para rasul-Nya", "Dukun tidak menggunakan bahasa Arab saat membacakan ramalannya", "Ramalan dukun biasanya lebih akurat daripada prediksi BMKG"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Kisah Nabi Ayub as. (Ulul Azmi) yang diuji dengan penyakit parah selama bertahun-tahun memberikan pesan kuat (resiliensi) bagi dunia modern, yaitu...",
+    "options": ["Penyakit fisik adalah tanda bahwa Allah sedang membenci hamba-Nya", "Musibah bukanlah kutukan, melainkan eskalasi ujian cinta Allah untuk menghapus dosa dan menaikkan derajat kesabaran di atas rata-rata", "Orang beriman tidak perlu berobat ke dokter karena akan sembuh sendiri", "Hanya nabi yang bisa bertahan dari penyakit mematikan"],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Amanah (dapat dipercaya) adalah sifat fundamental. Jika nilai ini hilang dari sistem birokrasi pemerintahan sebuah negara, maka yang terjadi adalah...",
+    "options": ["Negara akan cepat maju karena birokrasi menjadi fleksibel", "Munculnya sistem kapitalisme murni yang menguntungkan semua pihak", "Keruntuhan sistematis (systemic failure) akibat korupsi, manipulasi data, dan hilangnya kepercayaan rakyat terhadap hukum", "Rakyat akan semakin rajin membayar pajak karena diwajibkan"],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Banyak nabi yang juga bekerja sebagai penggembala atau pedagang. Apa korelasi profesi manusiawi ini dengan kelayakan mereka menerima wahyu?",
+    "options": ["Melatih etos kerja, kemandirian finansial, kesabaran, dan empati kepemimpinan sebelum mereka memimpin umat yang lebih besar", "Karena mereka sangat miskin sehingga butuh uang tambahan dari menggembala", "Agar mereka memiliki alasan untuk keluar rumah saat turunnya wahyu", "Karena Allah hanya memilih nabi dari kalangan kelas pekerja kasar"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Dalam pergaulan remaja (circle), tekanan untuk ikut berbuat buruk sangat besar. Bagaimana keteladanan Nabi Nuh as. (yang ditolak oleh anak dan istrinya) menginspirasi remaja?",
+    "options": ["Boleh memusuhi keluarga secara brutal jika mereka tidak mendukung hobi kita", "Menumbuhkan keteguhan prinsip untuk tetap berbuat benar meskipun harus berdiri sendirian dan berbeda dari lingkungan terdekat", "Menghindar dari tanggung jawab sosial dengan mengurung diri di kamar", "Mengikuti arus pergaulan asalkan tetap beribadah di rumah"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Kemunculan tokoh palsu yang mengaku nabi (nabi palsu) sering terjadi. Pisau analisis utama yang digunakan umat Islam untuk menolaknya adalah...",
+    "options": ["Karena nabi palsu biasanya tidak memiliki pengikut yang banyak", "Nas mutlak Al-Qur'an (Khataman Nabiyyin) serta tidak adanya rasionalitas mukjizat dan integritas moral (Shidiq) pada tokoh tersebut", "Karena tokoh tersebut tidak memiliki garis keturunan dari bangsa Arab", "Karena nabi palsu selalu meminta sumbangan dana dari pemerintah"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Sifat mustahil 'Khianat' menuntut rasul selalu menepati janji. Implementasi nyata sifat anti-khianat ini dalam hukum kontrak/perjanjian (Muamalah) adalah...",
+    "options": ["Boleh melanggar kontrak jika perusahaan mengalami kerugian besar", "Seorang Muslim haram melanggar kesepakatan (MoU) secara sepihak walau berhadapan dengan non-Muslim, selama kontrak itu sah", "Perjanjian hanya mengikat secara moral, bukan secara hukum negara", "Menepati janji hanya wajib dilakukan kepada sesama warga negara Muslim"],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Mengapa mukjizat yang diberikan Allah kepada rasul selalu selaras dengan keahlian (tren) kaumnya pada masa itu?",
+    "options": ["Agar rasul terlihat seperti seniman yang sedang melakukan pertunjukan sirkus", "Karena Allah ingin rasul mengikuti tren budaya yang sedang populer agar terkenal", "Untuk mematahkan kesombongan kaumnya tepat di puncak kebanggaan mereka, sehingga mereka sadar ada kekuatan supranatural di atas rasio manusia", "Agar mukjizat tersebut bisa dengan mudah dipelajari oleh kaumnya di kemudian hari"],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "question": "Terdapat konsep 'Karamah' yang diberikan kepada wali Allah. Apa letak batas pemisah yang tegas antara Mukjizat dan Karamah?",
+    "options": ["Mukjizat hanya bisa dirasakan oleh nabi, karamah bisa dirasakan semua manusia", "Mukjizat disertai dengan deklarasi (pengakuan) kenabian dan tantangan, sedangkan karamah diberikan tanpa pengakuan nabi dan disembunyikan oleh wali tersebut", "Mukjizat bisa dibeli dengan dzikir, sedangkan karamah adalah bakat bawaan", "Karamah tingkatannya lebih tinggi dan lebih merusak daripada mukjizat"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Nabi Muhammad saw. sukses membangun peradaban Madinah yang plural. Sifat keteladanan rasul apa yang paling menonjol dalam Piagam Madinah?",
+    "options": ["Fathanah (Kecerdasan diplomasi sosial) dan Amanah dalam menjamin keadilan perlindungan minoritas", "Shidiq dalam menyembunyikan rencana perang dari kaum Yahudi", "Kitman dalam menjaga rahasia ekonomi negara Islam", "Tabligh dalam memaksa semua warga Madinah masuk Islam dalam sehari"],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "Mengimani rasul tidak boleh dengan fanatisme buta yang mengarah pada pengkultusan (mendewakan). Batas proporsional kecintaan (Mahabbah) kepada rasul adalah...",
+    "options": ["Mencintai rasul melebihi kecintaan kepada Allah Swt.", "Menjadikan rasul sebagai teladan hidup dan bershalawat kepadanya, tanpa memberinya sifat-sifat ketuhanan yang berhak disembah", "Membuatkan patung rasul agar selalu ingat perjuangannya", "Berdoa langsung meminta rezeki kepadanya karena ia kekasih Allah"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Apa hikmah mendasar dari fakta sejarah bahwa semua rasul berjenis kelamin laki-laki?",
+    "options": ["Karena perempuan dianggap tidak memiliki akal yang cukup untuk berdakwah", "Karena tugas rasul menuntut kekuatan fisik super, memimpin perang terbuka, dan mobilitas sosial tanpa batas yang lebih berisiko bagi fitrah perempuan", "Karena perempuan dilarang berbicara di depan umum dalam syariat mana pun", "Agar laki-laki memiliki alasan teologis untuk selalu menindas perempuan"],
+    "answer": 1
+  },
+  {
+    "id": 33,
+    "question": "Dalam berdebat (mujadalah) mempertentangkan agama, Al-Qur'an menyuruh umat meniru rasul. Etika perdebatan ala rasul adalah...",
+    "options": ["Menjatuhkan mental lawan dengan kata-kata ejekan sarkasme", "Berdebat dengan adu otot jika argumen logika sudah tidak mempan", "Menggunakan argumen yang cerdas (Fathanah), logis, dan tetap menjaga sikap menghargai (qaulan ma'rufa) meski berbeda prinsip", "Diam dan mengalah meskipun agama dilecehkan secara terbuka"],
+    "answer": 2
+  },
+  {
+    "id": 34,
+    "question": "Nabi Yunus as. pernah pergi meninggalkan kaumnya karena marah, lalu ditelan ikan paus. Pesan moral kenabian dari zallah (teguran) ini adalah...",
+    "options": ["Berdakwah tidak perlu serius karena umat akan berubah dengan sendirinya", "Seorang pemimpin dilarang putus asa dan lari dari tanggung jawab (amanah) meskipun rakyatnya sangat sulit diatur", "Ikan paus adalah hewan suci yang dikirim khusus untuk menyelamatkan nabi", "Marah adalah sifat mustahil bagi seorang nabi sehingga ia dihukum"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Sunnah rasul (perkataan, perbuatan, ketetapan Nabi) menjadi sumber hukum kedua setelah Al-Qur'an. Rasionalitas penggunaannya secara keimanan adalah...",
+    "options": ["Karena Al-Qur'an hanya berisi teori, sedangkan Sunnah adalah rincian praktik langsung (aplikasi) yang dicontohkan manusia maksum bimbingan wahyu", "Karena Al-Qur'an sudah tidak relevan dengan kehidupan modern yang kompleks", "Karena Nabi Muhammad memiliki hak veto untuk mengganti ayat Al-Qur'an", "Agar buku-buku hadits bisa dijual sebagai komoditas bisnis ulama"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Konsep 'Iffah' (menjaga kehormatan) sangat lekat pada diri rasul. Di era kebebasan pergaulan media sosial, meneladani Iffah berarti...",
+    "options": ["Memblokir semua orang lawan jenis dari daftar pertemanan", "Menjaga batas pergaulan (ikhtilat), tidak mengumbar aurat digital, dan memelihara rasa malu saat berinteraksi di dunia maya", "Berkomunikasi menggunakan identitas palsu agar tidak ketahuan", "Hanya menggunakan media sosial untuk berbelanja online"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Di bawah tekanan boikot ekonomi dan kelaparan di Syi'ib Abi Thalib, Rasulullah menolak menyerah. Resiliensi (ketahanan) ini membuktikan dimensi rasul sebagai...",
+    "options": ["Manusia super yang tidak memiliki sistem pencernaan normal", "Aktor politik yang mencari simpati internasional dari Kerajaan Romawi", "Ulul Azmi yang memiliki kemantapan tauhid absolut, bahwa kebenaran tidak bisa dibarter dengan kenyamanan duniawi", "Pemimpin yang memaksakan kehendak agar pengikutnya menderita"],
+    "answer": 2
+  },
+  {
+    "id": 38,
+    "question": "Perilaku hedonisme (cinta kemewahan) bertentangan dengan sirah (sejarah hidup) Nabi Muhammad yang sangat sederhana (zuhud). Kontekstualisasi zuhud bagi anak muda saat ini adalah...",
+    "options": ["Memakai baju sobek-sobek dan menolak menggunakan smartphone", "Bukan berarti harus miskin, melainkan tidak menjadikan dunia/harta sebagai tujuan hidup (tuan) yang mengendalikan hati", "Membagikan semua uang jajannya tanpa menyisakan untuk kebutuhan sekolah", "Mengharamkan diri dari liburan dan hiburan yang halal"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "Keadilan Rasulullah terlihat ketika beliau bersabda, 'Seandainya Fatimah mencuri, aku sendiri yang akan memotong tangannya.' Nilai supremasi hukum dari hadits ini adalah...",
+    "options": ["Hukum syariat Islam sangat kejam dan tidak manusiawi", "Pemimpin negara memiliki kekebalan hukum atas kejahatannya", "Hukum harus ditegakkan secara buta (imparsial) tanpa pandang bulu, bahkan terhadap anak kandung pejabat tertinggi sekalipun", "Keluarga nabi sering kali diberikan pengecualian hukum khusus"],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Mengapa setiap Muslim diwajibkan membaca shalawat kepada Nabi Muhammad saw. setiap kali shalat?",
+    "options": ["Agar Nabi Muhammad bisa mendengar doa kita dan langsung turun dari surga", "Sebagai bentuk penghormatan spiritual, wujud rasa terima kasih atas perjuangan dakwahnya, dan syarat mendapat syafaat di akhirat", "Karena membaca shalawat otomatis menggugurkan kewajiban puasa Ramadhan", "Agar suara jamaah terdengar berirama dan sinkron di dalam masjid"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Kegagalan diplomasi negara sering memicu perang. Rasulullah mencontohkan diplomasi fathanah (cerdas) dalam Perjanjian Hudaibiyah yang sekilas terlihat merugikan umat Islam. Hikmahnya adalah...",
+    "options": ["Mengalah untuk menang: kecerdasan melihat prospek perdamaian jangka panjang demi kelancaran dakwah (soft power) dibandingkan gengsi perang", "Rasulullah takut melihat pasukan kaum kafir Quraisy yang terlalu besar", "Perjanjian tersebut murni kesalahan taktik dari para sahabat nabi", "Umat Islam memang diperintahkan untuk selalu takluk pada penguasa kafir"],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "Kisah Nabi Yusuf as. menolak godaan Zulaikha merupakan literatur puncak tentang keteladanan rasul dalam aspek...",
+    "options": ["Kemampuan manajerial dalam mengatasi krisis pangan nasional Mesir", "Pengendalian hawa nafsu secara ekstrem (Integritas Moral) di tengah godaan syahwat yang sangat mematikan bagi laki-laki", "Kecerdasan menafsirkan mimpi raja yang tidak bisa dilakukan ahli nujum", "Kebencian mendalam terhadap perempuan dari kalangan bangsawan"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "Menghina (melecehkan) simbol rasul melalui karikatur atau lawakan sering diklaim sebagai 'kebebasan berekspresi'. Paradigma iman merespons hal ini dengan argumen bahwa...",
+    "options": ["Kebebasan berekspresi absolut adalah hak manusia yang tidak bisa dibatasi agama", "Kebebasan sejati harus memiliki etika (adab); menghina rasul adalah penistaan yang merusak harmoni dan nilai kesucian yang dihormati miliaran manusia", "Umat Islam harus membalas dengan membuat karikatur tuhan agama lain", "Hal tersebut wajar karena agama adalah produk budaya masa lampau"],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "Kehadiran rasul meniadakan alasan manusia di akhirat (hujjah) yang berkata, 'Kami tidak tahu mana yang benar'. Logika hukum tuhan terkait ini adalah...",
+    "options": ["Tuhan tidak akan menghukum umat yang belum pernah kedatangan utusan penyampai peringatan", "Manusia bisa beralasan buta huruf agar terbebas dari hisab", "Kehadiran rasul justru memperberat hukuman semua orang tanpa kecuali", "Rasul akan menanggung setengah dari total dosa seluruh manusia yang sesat"],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "Penyakit 'Islamophobia' merajalela karena narasi kebencian. Bagaimana teladan Tabligh Rasulullah melawan sentimen negatif ini?",
+    "options": ["Dengan menggunakan kekerasan fisik untuk membungkam para pengkritik Islam", "Dengan membalas narasi kebencian menggunakan caci maki yang lebih kasar di media", "Dengan menampilkan dakwah bil-hal (perilaku nyata) yang santun, adil, dan logis untuk meruntuhkan stereotip negatif", "Dengan mengisolasi diri di negara berpenduduk mayoritas Muslim saja"],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "question": "Konsep 'Mahabbah' (cinta) kepada Rasulullah memiliki indikator empiris yang paling kuat, yaitu...",
+    "options": ["Sering bermimpi bertemu Rasulullah saat tidur malam", "Mengklaim sebagai keturunan nabi untuk mendapatkan hak istimewa di masyarakat", "Mengikuti sunnahnya (Ittiba'), menghidupkan ajaran akhlaknya di rumah dan tempat kerja secara istiqamah", "Merayakan ulang tahun kelahirannya dengan pesta yang sangat mewah"],
+    "answer": 2
+  },
+  {
+    "id": 47,
+    "question": "Nabi Ismail as. menunjukkan kepatuhan saat diminta dikorbankan. Pelajaran esensial (HOTS) dari kepatuhan ini terkait ego anak muda adalah...",
+    "options": ["Mendobrak sikap anti-otoritas dengan menunjukkan bahwa ketundukan pada perintah Allah dan orang tua (selama itu syariat) adalah puncak kedewasaan spiritual", "Membuktikan bahwa nyawa manusia tidak memiliki nilai di hadapan agama", "Mengajarkan anak muda untuk pasrah dibunuh demi popularitas keluarga", "Hanya kepatuhan fisik, tidak membutuhkan pemahaman rasional sama sekali"],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Ditinjau dari sosiologi agama, mengapa rasul terdahulu diutus hanya untuk satu bangsa tertentu (kaumnya saja), sedangkan Nabi Muhammad untuk seluruh alam?",
+    "options": ["Karena nabi terdahulu tidak memiliki kemampuan berbahasa selain bahasa sukunya", "Seiring kematangan peradaban dan konektivitas global umat manusia, risalah penutup dirancang universal tanpa sekat etnis dan batas geografis", "Karena Nabi Muhammad memiliki pesawat terbang untuk berpindah benua", "Agar terjadi persaingan agama antarbangsa yang mempercepat kiamat"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Terdapat paham yang hanya percaya pada Al-Qur'an dan menolak seluruh hadis (Inkarus Sunnah). Kesalahan teologis paham ini berdasarkan rukun iman adalah...",
+    "options": ["Karena hadis ditulis lebih dulu daripada Al-Qur'an secara historis", "Menolak sunnah sama dengan menolak kualifikasi Rasulullah sebagai penjelas wahyu (bayan), yang mana perintah menaati rasul ada di dalam Al-Qur'an itu sendiri", "Karena hadis adalah undang-undang dasar negara Arab modern", "Paham tersebut dilarang karena akan mengurangi pendapatan para penceramah agama"],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "Sebagai sintesis (kesimpulan tertinggi), bukti terkuat bahwa seseorang telah 'Lulus' mengimani rasul Allah dalam kehidupan sehari-harinya adalah...",
+    "options": ["Karakternya menjadi manifestasi (cerminan) dari sifat Shidiq, Amanah, Tabligh, dan Fathanah dalam memanajemen masalah pribadi maupun umat", "Mampu menyebutkan silsilah 25 nabi secara terbalik tanpa berpikir", "Hafal seluruh hadis shahih riwayat Bukhari dan Muslim di luar kepala", "Berhasil meyakinkan 100 orang kafir untuk masuk Islam dalam satu hari"],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "question": "Sifat Fathanah (cerdas) sangat vital bagi seorang rasul. Jika dikontekstualisasikan dalam dunia akademik bagi seorang pelajar, manifestasi sifat ini adalah...",
+    "options": ["Memiliki nilai raport yang selalu sempurna tanpa perlu belajar keras", "Kemampuan literasi kritis, memahami esensi ilmu, dan menggunakannya untuk memecahkan masalah dengan bijak", "Hanya mempelajari ilmu agama dan mengabaikan ilmu sains modern", "Mampu menghafal semua buku pelajaran tanpa memahami maknanya"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Rasulullah sukses berdakwah di tengah masyarakat Arab yang majemuk. Nilai toleransi yang diwariskan dari iman kepada rasul dalam konteks ini berarti...",
+    "options": ["Mengikuti ritual ibadah agama lain untuk menunjukkan rasa hormat", "Meyakini bahwa semua agama pada akhirnya adalah sama dan benar", "Saling menghormati hak sosial antarumat beragama tanpa mencampuradukkan batasan akidah tauhid", "Memaksa kelompok minoritas untuk tunduk pada hukum budaya lokal"],
+    "answer": 2
+  },
+  {
+    "id": 53,
+    "question": "Memperbanyak shalawat adalah salah satu cara menumbuhkan kecintaan (Mahabbah) kepada Rasul. Efek psikologis dan spiritual dari rutinitas ini adalah...",
+    "options": ["Membuat seseorang kebal terhadap penyakit fisik karena getaran suaranya", "Menjaga ikatan batin dengan keteladanan Nabi sekaligus menjadi sarana turunnya rahmat Allah dalam kehidupan", "Sebagai syarat mutlak untuk diterima bekerja di institusi Islam", "Menggugurkan kewajiban shalat lima waktu jika dibaca ribuan kali"],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "Allah memilih rasul dari kalangan manusia pilihan. Kriteria utama (core competency) mengapa mereka dipilih secara historis dan teologis adalah...",
+    "options": ["Karena mereka memiliki harta kekayaan paling banyak di antara kaumnya", "Karena mereka memiliki pasukan militer terbesar yang siap berperang", "Karena kesempurnaan akhlak, keteguhan hati, dan kapasitas mereka sebagai uswatun hasanah (teladan) sejak sebelum diangkat menjadi nabi", "Karena mereka menguasai ilmu sihir yang tidak bisa dikalahkan manusia biasa"],
+    "answer": 2
+  },
+  {
+    "id": 55,
+    "question": "Dalam manajemen kerja kelompok, penerapan sifat Amanah dari rasul akan terlihat ketika seorang anggota...",
+    "options": ["Menyelesaikan porsi tugasnya secara bertanggung jawab tanpa harus terus-menerus diawasi", "Mengerjakan seluruh tugas sendirian karena tidak percaya pada teman yang lain", "Menyerahkan tugasnya kepada ketua kelompok agar hasilnya pasti sempurna", "Menyembunyikan informasi penting agar dirinya terlihat paling menonjol"],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "question": "Orang yang secara konsisten meneladani akhlak rasul biasanya akan disukai oleh masyarakat. Analisis sosiologis dari fenomena ini adalah...",
+    "options": ["Karena ia sering membagikan uang kepada tetangganya setiap hari", "Akhlak rasul mengajarkan empati, keadilan, dan kesantunan yang secara universal menjawab kebutuhan harmoni sosial manusia", "Karena masyarakat takut jika tidak menyukainya akan mendapat azab", "Karena ia memiliki kekuatan gaib yang bisa menghipnotis orang banyak"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Sifat Shidiq (jujur) adalah fondasi kepemimpinan. Jika seorang pemimpin kehilangan sifat ini, maka dampak sistemik yang terjadi pada institusinya adalah...",
+    "options": ["Institusi tersebut akan mendapatkan suntikan dana bantuan internasional", "Krisis kepercayaan (trust deficit) dari rakyat yang berujung pada hilangnya legitimasi dan kehancuran sistem", "Rakyat akan semakin takut dan patuh pada semua aturannya", "Sistem birokrasi menjadi jauh lebih cepat dan efisien"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "Tabligh berarti menyampaikan kebenaran. Dalam lingkup keluarga (mikro), tanggung jawab tabligh seorang ayah atau ibu diwujudkan melalui...",
+    "options": ["Menyediakan fasilitas mewah agar anak tidak perlu keluar rumah", "Memberikan nasihat, edukasi moral, dan teladan beragama yang baik kepada anak dengan pendekatan kasih sayang", "Menghukum fisik secara keras setiap kali anak melakukan kesalahan kecil", "Mewajibkan anak membaca buku tebal setiap hari tanpa memberikan contoh"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Kecerdasan emosional (sabar) sangat lekat pada diri rasul. Manfaat bersabar ketika menghadapi problem atau konflik yang rumit adalah...",
+    "options": ["Menghindari masalah dengan cara melarikan diri ke tempat yang jauh", "Membantu pikiran tetap jernih untuk merumuskan solusi yang bijaksana tanpa dikuasai oleh amarah sesaat", "Membuat lawan merasa menang dan tidak akan mengganggu lagi selamanya", "Menyimpan dendam secara diam-diam untuk dibalas di kemudian hari"],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "Rasulullah selalu mengajarkan keadilan (Al-Adl). Mengapa sikap adil (bahkan terhadap orang yang kita benci) merupakan puncak dari integritas iman?",
+    "options": ["Karena adil berarti membagikan harta benda sama rata tanpa melihat kontribusi", "Karena keadilan adalah hak asasi yang diperintahkan Allah dan mencegah kita dari bertindak zalim akibat bias emosi/kebencian", "Karena dengan bersikap adil, musuh akan otomatis memberikan hartanya kepada kita", "Keadilan hanya berlaku bagi sesama umat Islam saja di mata hukum"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "Kisah keteguhan Nabi Nuh as. yang tetap berdakwah ratusan tahun meski terus ditolak kaumnya memberikan pelajaran kontemporer tentang...",
+    "options": ["Pentingnya memaksakan kehendak agar target pekerjaan cepat tercapai", "Ketahanan mental (resiliensi) untuk tetap berbuat baik dan menyuarakan kebenaran meskipun tidak populer atau ditolak oleh lingkungan", "Strategi marketing kuno yang mengandalkan promosi berulang-ulang", "Sikap keras kepala yang menolak menerima kritik dari masyarakat"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Iman kepada rasul memiliki korelasi kuat dengan etos belajar. Korelasi teologis ini terbangun karena...",
+    "options": ["Rasulullah menjanjikan kekayaan finansial bagi siapa saja yang bersekolah tinggi", "Turunnya wahyu (Iqra') dan teladan rasul memposisikan kegiatan mencari ilmu sebagai jihad yang mengangkat derajat manusia di sisi Allah", "Belajar akan membuat manusia bisa menciptakan mukjizat teknologinya sendiri", "Sekolah adalah satu-satunya tempat untuk menghindari hisab di hari kiamat"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Persahabatan (peer relationship) di masa remaja sangat rentan. Mengapa menjaga amanah (misalnya rahasia teman) sangat krusial jika ditinjau dari teladan rasul?",
+    "options": ["Karena membocorkan rahasia bisa menyebabkan kita dilaporkan ke polisi", "Menjaga amanah adalah pilar yang membangun rasa aman dan harmoni dalam hubungan, sebagaimana Rasul dijuluki Al-Amin oleh sahabatnya", "Agar rahasia tersebut bisa digunakan sebagai senjata ancaman (blackmail) di masa depan", "Karena teman akan memberikan uang tutup mulut jika rahasianya dijaga"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Penyakit 'menyontek' (academic dishonesty) sering dinormalisasi. Analisis HOTS: Bagaimana teladan sifat Shidiq mereduksi budaya buruk ini?",
+    "options": ["Siswa tidak menyontek karena takut terekam CCTV sekolah yang ketat", "Menumbuhkan kesadaran internal bahwa integritas proses (jujur) lebih berharga di mata Allah daripada sekadar memanipulasi hasil angka", "Siswa akan lebih memilih bolos ujian daripada harus menyontek", "Siswa menjadi percaya bahwa keajaiban akan mengisi lembar jawaban mereka secara otomatis"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Wanprestasi atau melanggar janji di era modern sering berujung pada sengketa perdata. Dalam ajaran rasul, menepati janji bukanlah sekadar etika bisnis, melainkan...",
+    "options": ["Strategi utama agar bisa meminjam uang dengan nominal yang lebih besar", "Bagian integral dari keimanan; karena ingkar janji adalah salah satu dari tiga ciri utama karakter munafik", "Aturan yang hanya berlaku jika perjanjian tersebut dibuat di atas materai", "Formalitas lisan yang bisa dibatalkan kapan saja jika kondisi ekonomi memburuk"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "Sebelum menjadi utusan, Nabi Muhammad saw. bekerja keras sebagai pedagang yang mandiri. Pesan moral dari etos kerja nabi bagi generasi milenial adalah...",
+    "options": ["Pekerjaan berdagang adalah satu-satunya profesi yang diridhai oleh Tuhan", "Mandiri secara finansial dan bekerja keras adalah harga diri seorang Muslim agar tidak menjadi beban bagi orang lain", "Masa muda harus dihabiskan untuk mengumpulkan uang sebanyak-banyaknya tanpa perlu ibadah", "Seseorang harus berdagang lintas negara agar bisa diangkat menjadi pemimpin umat"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Keberanian (Syaja'ah) Rasulullah saat melindungi umatnya di medan perang Badar adalah teladan bagi penegakan keadilan. Keberanian sejati menurut Islam adalah...",
+    "options": ["Berani menantang siapa saja berkelahi secara fisik untuk menunjukkan kekuatan otot", "Tindakan heroik tanpa perhitungan yang didorong oleh emosi dan amarah dendam", "Berani berdiri membela kebenaran secara terukur dan penuh perhitungan meskipun memiliki risiko besar terhadap diri sendiri", "Berani melanggar aturan negara asalkan mendapatkan dukungan massa yang banyak"],
+    "answer": 2
+  },
+  {
+    "id": 68,
+    "question": "Rasulullah selalu merendahkan hati (Tawadhu') meskipun beliau adalah pemimpin tertinggi. Bagaimana sikap rendah hati ini menghasilkan kewibawaan yang sejati?",
+    "options": ["Orang yang rendah hati biasanya sangat mudah ditipu oleh bawahannya", "Tawadhu' menghilangkan arogansi ego, sehingga rasa hormat dari orang lain muncul secara organik akibat simpati, bukan karena intimidasi", "Rendah hati membuat seseorang terlihat miskin sehingga tidak dimintai bantuan keuangan", "Kewibawaan hanya bisa didapatkan dengan cara menampilkan barang-barang mewah di depan publik"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "Di era komunikasi massa, Tabligh (menyampaikan) membutuhkan seni. Bagaimana penerapan sifat Tabligh bagi seorang pembuat konten (content creator) Muslim?",
+    "options": ["Membuat judul umpan klik (clickbait) yang memicu perdebatan agar viral dan mendapat banyak penonton", "Memproduksi karya atau informasi yang valid, tidak menyesatkan, dan mengedukasi publik menuju nilai-nilai kebaikan", "Menyebarkan rumor selebriti karena itu adalah informasi yang paling diminati masyarakat", "Memaksa penonton untuk selalu menyetujui pendapatnya dengan melontarkan ancaman di kolom komentar"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Kepedulian sosial Rasulullah sangat tinggi, bahkan beliau membagikan semua harta rampasan perang. Teladan ini mengikis paham kapitalisme ekstrem dengan cara...",
+    "options": ["Mengajarkan umat Islam untuk membuang semua hartanya ke laut agar miskin", "Menanamkan nilai filantropi bahwa kelebihan harta memiliki fungsi sosial yang harus didistribusikan kepada golongan rentan/membutuhkan", "Memerintahkan negara untuk menyita paksa semua perusahaan swasta", "Menumbuhkan sikap malas di kalangan fakir miskin karena pasti akan dibantu oleh nabi"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Amanah dalam lingkup profesional (pekerjaan kantor) bukan sekadar tidak mencuri uang perusahaan, melainkan juga mencakup...",
+    "options": ["Menjaga kerahasiaan data perusahaan, bekerja sesuai jam yang ditetapkan, dan memberikan output kerja terbaik sesuai kontrak", "Hanya taat kepada atasan ketika sedang diawasi secara langsung di ruangan yang sama", "Menggunakan fasilitas kantor untuk kepentingan bisnis pribadi tanpa izin karena gajinya kecil", "Menerima gratifikasi asalkan tidak ada pihak yang merasa dirugikan secara langsung"],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "question": "Sifat Shidiq (jujur) adalah antitesis dari fenomena 'Hoaks' di era digital. Memiliki sifat Shidiq saat menerima berita berantai di grup WhatsApp berarti...",
+    "options": ["Langsung menyebarkannya ke grup lain agar terlihat paling cepat tahu informasi (update)", "Melakukan tabayyun (verifikasi silang kebenaran sumber) sebelum memutuskan untuk membagikan informasi tersebut", "Menghapus aplikasi WhatsApp karena dianggap sebagai sumber dari segala fitnah modern", "Hanya percaya pada berita yang mendukung pandangan politik pribadinya saja"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Sifat Fathanah (kecerdasan) dalam pemanfaatan teknologi kecerdasan buatan (AI) saat ini mengharuskan seorang Muslim untuk...",
+    "options": ["Menolak AI sepenuhnya karena dianggap sebagai sihir buatan Barat", "Menjadikan AI sebagai alat pengganti ulama dalam mengeluarkan fatwa-fatwa agama", "Menggunakan teknologi tersebut secara produktif dan etis untuk memajukan kemanusiaan, tanpa bergantung buta hingga kehilangan daya kritis akal", "Menggunakan AI untuk memalsukan karya akademik agar cepat lulus kuliah"],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "question": "Mempelajari sirah (sejarah perjuangan) rasul memberikan vaksin psikologis (imunitas mental) bagi umat Islam. Hal ini terjadi karena...",
+    "options": ["Sejarah rasul dipenuhi dengan mantra ajaib yang bisa digunakan untuk mengusir kemiskinan instan", "Melihat bahwa para kekasih Allah pun mengalami penolakan dan penderitaan berat, akan menumbuhkan keteguhan iman saat kita ditimpa ujian hidup", "Membaca sejarah akan membuat manusia bisa memutar waktu kembali ke masa lampau", "Karena sejarah rasul selalu menceritakan kemenangan tanpa ada kekalahan atau rasa sakit sedikit pun"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Kesantunan (lemah lembut) adalah metodologi dakwah utama Rasulullah, bahkan ketika beliau disakiti. Jika dakwah dilakukan dengan kasar, maka secara sosiologis akibatnya adalah...",
+    "options": ["Masyarakat akan langsung menerima dakwah tersebut karena takut pada kekuatan fisik dai", "Objek dakwah akan lari menjauh karena fitrah manusia menolak kekasaran, sehingga pesan kebenaran (Tabligh) justru gagal tersampaikan", "Pemerintah akan memberikan penghargaan kepada pendakwah karena dianggap tegas", "Agama Islam akan dianggap sebagai agama yang paling modern dan revolusioner"],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "Memanipulasi fakta demi 'tujuan yang baik' (white lie) sering diperdebatkan. Secara ketat, bagaimana etika Islam yang merujuk pada sifat Shidiq melihat hal ini dalam konteks media berita?",
+    "options": ["Diperbolehkan membuat berita palsu (hoaks) asalkan tujuannya untuk membela kepentingan umat Islam", "Berbohong diizinkan jika target beritanya adalah pemimpin negara", "Integritas informasi adalah harga mati; menyebarkan kebohongan, apa pun motifnya, tetap mencederai kebenaran dan dapat menimbulkan fitnah publik", "Media berita memang dirancang untuk memanipulasi fakta, sehingga umat Islam harus ikut berbohong agar bisa bersaing"],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "question": "Kedisiplinan bukan bawaan lahir, melainkan buah dari pembiasaan tanggung jawab. Teladan rasul dalam memanajemen tanggung jawab ini bermuara pada kesadaran bahwa...",
+    "options": ["Disiplin hanya penting untuk mendapatkan promosi jabatan dari perusahaan", "Setiap amanah (peran sosial/pekerjaan) adalah kontrak dengan Allah yang akan diaudit (dihisab) kelak di akhirat", "Manusia harus bekerja 24 jam sehari untuk membayar utang negara", "Tanggung jawab hanya dipikul oleh mereka yang berstatus sosial tinggi"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Saat Fathu Makkah (Penaklukan Mekkah), Rasulullah memaafkan kaum Quraisy yang dulu menyiksa beliau (Amnesti Umum). Nilai kepemimpinan tinggi dari peristiwa ini adalah...",
+    "options": ["Pemimpin yang baik adalah pemimpin yang lemah dan membiarkan penjahat bebas tanpa pengadilan", "Kebesaran jiwa seorang negarawan yang memilih rekonsiliasi dan perdamaian di atas dendam masa lalu, demi membangun peradaban yang baru", "Rasulullah memaafkan mereka karena takut kaum Quraisy akan membalas dendam kembali", "Pengampunan diberikan karena kaum Quraisy telah membayar upeti emas yang sangat banyak kepada umat Islam"],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Ayat pertama yang turun (Iqra/Bacalah) menjadi titik tolak revolusi intelektual. Bagaimana umat Islam merealisasikan semangat belajar dari risalah kenabian ini?",
+    "options": ["Dengan hanya membaca buku-buku yang berbahasa Arab saja", "Membangun tradisi riset, membaca, dan eksplorasi ilmu pengetahuan secara luas sebagai basis peradaban yang rasional dan religius", "Membaca mantra-mantra gaib untuk mendapatkan pengetahuan instan tanpa belajar", "Mewajibkan anak-anak menghafal teks tanpa perlu memahami implementasi teknologinya"],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "Akar dari korupsi di berbagai negara adalah hilangnya kepercayaan akibat ingkar janji. Evaluasi moral berdasarkan teladan rasul mengenai hal ini adalah...",
+    "options": ["Korupsi terjadi karena gaji pejabat tidak mencapai miliaran rupiah per bulan", "Tidak menepati janji/sumpah jabatan menghancurkan amanah (trust), yang merupakan pilar pengikat tatanan hukum dan kesejahteraan sosial", "Korupsi adalah budaya yang wajar jika dilakukan untuk menyumbang ke panti asuhan", "Negara yang korup biasanya memiliki sistem komputer yang sudah usang"],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Remaja yang mengidolakan Rasulullah akan memiliki 'kompas moral' yang kuat. Dalam menghadapi budaya hedonisme dan pergaulan bebas, kompas ini berfungsi untuk...",
+    "options": ["Membimbing remaja untuk membenci dan memusuhi semua teman sebaya di sekolahnya", "Memberikan filter penyaring nilai, sehingga remaja mampu memilih tindakan yang beradab dan menolak perilaku yang merendahkan martabat (akhlak buruk)", "Mendorong remaja untuk membentuk kelompok geng yang menghakimi pelaku maksiat secara main hakim sendiri", "Membuat remaja menjadi kuper (kurang pergaulan) dan tidak tahu menahu tentang perkembangan teknologi"],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Uang titipan (misalnya uang kas kelas atau masjid) sangat rawan digelapkan. Membentengi diri dengan sifat Amanah Rasulullah dalam hal ini berarti...",
+    "options": ["Boleh meminjam uang kas tersebut secara diam-diam asalkan nanti dikembalikan sebelum ketahuan", "Menganggap uang tersebut sebagai hak milik pribadi jika tidak ada yang menagihnya selama setahun", "Menjaga transparansi pencatatan, berhati-hati mengelolanya sesuai peruntukan, dan menahan diri dari godaan menggunakan harta yang bukan haknya", "Menggunakan uang tersebut untuk diinvestasikan ke bursa saham atas nama pribadi demi keuntungan ganda"],
+    "answer": 2
+  },
+  {
+    "id": 83,
+    "question": "Dakwah (Tabligh) sering diartikan sempit hanya sebagai ceramah di mimbar. Padahal, makna substansial dakwah yang dicontohkan Rasulullah di ruang publik adalah...",
+    "options": ["Berdakwah dengan cara memaksa orang lewat di jalanan untuk mendengarkan bacaan doa", "Dakwah bil-hal, yaitu menunjukkan perilaku profesional, jujur dalam transaksi, dan menebarkan kemanfaatan sosial (problem solver) di tengah masyarakat", "Hanya menyebarkan pamflet atau brosur agama di perempatan lampu merah tanpa peduli respons masyarakat", "Berdebat dengan suara lantang di fasilitas umum hingga mengganggu ketertiban"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Proses belajar sering diwarnai dengan kebosanan dan rasa ingin menyerah (burnout). Bagaimana karakter sabar rasul menjadi obat bagi mental pelajar?",
+    "options": ["Sabar berarti pelajar boleh tidur di kelas jika gurunya menjelaskan terlalu cepat", "Mengajarkan bahwa menahan lelah dalam menuntut ilmu adalah proses penempaan diri (mujahadah) yang mutlak dibutuhkan sebelum meraih puncak kesuksesan", "Pelajar yang sabar adalah pelajar yang tidak pernah bertanya kepada guru meskipun ia tidak paham", "Menginspirasi pelajar untuk berhenti sekolah dan mencari pekerjaan kasar saja karena lebih mudah"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Para nabi terdahulu memiliki tingkat resiliensi (pantang menyerah) yang ekstrem meski nyawa terancam. Fondasi keyakinan (mindset) apa yang membuat mereka begitu kokoh?",
+    "options": ["Keyakinan bahwa mereka memiliki kemampuan supranatural yang membuat tubuh mereka kebal senjata tajam", "Mentalitas pasrah (fatalisme) bahwa mereka tidak peduli lagi apakah akan hidup atau mati", "Keyakinan tauhid yang absolut bahwa Allahlah satu-satunya penentu hasil akhir (Al-Wakil), sehingga tugas mereka hanyalah berusaha dan menyampaikan kebenaran", "Karena mereka dibayar dengan harta karun yang sangat berlimpah oleh pengikutnya yang kaya"],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "Kualitas pelayanan publik (Public Service) sebuah negara akan sangat prima jika aparatur negaranya meneladani sifat Amanah rasul. Hal ini terjadi karena...",
+    "options": ["Aparatur negara memandang jabatannya sebagai sarana untuk memperkaya keluarga besar", "Mereka menyadari bahwa jabatan adalah beban moral untuk melayani rakyat dengan adil, cepat, dan transparan sesuai tanggung jawab yang diberikan", "Aparatur negara akan bekerja tanpa mengharapkan gaji dari pemerintah", "Mereka hanya akan melayani masyarakat yang berasal dari partai politik yang sama dengannya"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Individualisme perkotaan membuat masyarakat cuek terhadap penderitaan tetangga. Teladan Rasulullah dalam membangun kepedulian sosial (tolong-menolong) dapat merobohkan sekat ini dengan cara...",
+    "options": ["Membuat peraturan desa yang mengenakan denda uang bagi warga yang tidak mau ronda malam", "Mengajarkan bahwa iman tidak sempurna jika seseorang tidur kenyang sementara tetangganya kelaparan, sehingga menumbuhkan empati organik", "Memaksa orang kaya untuk membagikan seluruh saldo tabungannya ke kas RT setempat", "Menyarankan masyarakat untuk membangun rumah dengan tembok setinggi mungkin agar tidak terganggu masalah orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Sifat Tabligh menuntut seseorang menjadi komunikator yang baik. Ciri komunikator Islami yang diilhami dari metode komunikasi Rasulullah (Qaulan Baligha) adalah...",
+    "options": ["Berbicara sangat cepat dengan menggunakan bahasa campuran asing agar terlihat intelek", "Menyampaikan pesan dengan artikulasi jelas, bahasa yang menyentuh akal dan hati, serta menyesuaikan gaya bahasa dengan tingkat pemahaman lawan bicaranya", "Selalu menggunakan ancaman neraka dan suara keras (berteriak) dalam setiap pidatonya agar pendengar merasa takut", "Menghindari kontak mata dan berbicara dengan volume sangat kecil agar terkesan pemalu"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Sikap 'pilih kasih' (nepotisme) merusak sistem peradilan dan organisasi. Rasulullah mencontohkan sikap Al-Adl (Keadilan) yang buta warna. Makna terdalam dari keadilan rasul adalah...",
+    "options": ["Keadilan adalah membagikan hukuman yang sama rata kepada semua orang meskipun tingkat kesalahannya berbeda", "Tidak membedakan perlakuan hukum berdasarkan kedekatan keluarga, status sosial (kaya/miskin), atau golongan ras tertentu", "Memberikan keringanan hukum bagi para donatur masjid dan tokoh agama terkemuka", "Hanya bertindak adil jika kasus tersebut diliput oleh media massa nasional"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Fathanah (Kecerdasan) dalam berorganisasi sangat dibutuhkan saat terjadi krisis. Keteladanan rasul dalam memecahkan masalah (problem solving), seperti saat peletakan Hajar Aswad, membuktikan bahwa pemimpin harus...",
+    "options": ["Memiliki kekuatan fisik untuk memaksakan kehendak pribadinya kepada seluruh anggota organisasi", "Memiliki kemampuan negosiasi dan win-win solution yang brilian untuk mencegah pertumpahan darah dan memuaskan rasa keadilan semua faksi yang berseteru", "Meninggalkan rapat saat suasana sedang tegang dan membiarkan anggota berkelahi", "Mengundi keputusan dengan menggunakan koin emas untuk menentukan siapa yang berhak maju"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Terdapat dogma yang menyatakan bahwa manusia tidak butuh agama karena bisa mengatur moralnya sendiri. Kehadiran rasul sebagai pembawa wahyu (bimbingan) membantah ini karena...",
+    "options": ["Akal manusia sering kali bias oleh kepentingan nafsu dan subjektivitas zaman, sehingga butuh parameter kebenaran objektif (wahyu) untuk menetapkan standar moral hakiki", "Manusia purba tidak memiliki otak yang cukup besar untuk menciptakan hukum perdata", "Karena tanpa agama manusia tidak akan bisa bercocok tanam dan berburu hewan", "Agama diperlukan semata-mata untuk mengontrol populasi penduduk dunia agar tidak meledak"],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "question": "Menghormati orang tua (Birrul Walidain) adalah manifestasi akhlak rasul di rumah. Perilaku ini bukan sekadar balas budi, melainkan berdimensi teologis karena...",
+    "options": ["Orang tua akan mewariskan seluruh hartanya jika kita bersikap baik", "Keridhaan Allah secara langsung disandingkan dan bergantung pada keridhaan orang tua, sehingga menghormati mereka adalah bentuk kepatuhan vertikal kepada Tuhan", "Undang-undang negara mengharuskan anak merawat orang tua untuk mengurangi beban panti jompo milik pemerintah", "Karena anak takut dikutuk menjadi batu seperti dalam legenda rakyat nusantara"],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "Ketidakjujuran (Kadzib) seperti mark-up anggaran proyek atau laporan keuangan palsu adalah kejahatan 'kerah putih'. Akibat fatal perilaku ini dari perspektif sunnatullah (hukum sebab-akibat) sosial adalah...",
+    "options": ["Pelakunya akan langsung tersambar petir saat itu juga di ruang rapat", "Menghancurkan bangunan nama baik (reputasi) secara instan, memutus jaringan kerja sama sosial-ekonomi, dan meruntuhkan keberkahan harta", "Perusahaan justru akan semakin kaya dan maju pesat karena berhasil mengelabui banyak pihak pencari kerja", "Kejadian tersebut akan cepat dilupakan masyarakat jika pelakunya mengadakan konser musik gratis"],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "Mengimani rasul tidak cukup hanya dengan meyakini eksistensi historisnya. Rukun iman menuntut konsekuensi logis berupa...",
+    "options": ["Mengganti nama asli kita dengan nama-nama nabi dalam bahasa Arab agar sah ibadahnya", "Menelusuri garis keturunan genetis (DNA) untuk membuktikan hubungan darah dengan para rasul", "Mengakui kebenaran risalah mereka dan mengikatkan diri (komitmen) untuk menjadikan keteladanan rasul sebagai pedoman operasional hidup sehari-hari", "Hanya meyakini mukjizat mereka sebagai cerita hiburan tanpa perlu mempraktikkan ajarannya"],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "Fasilitas umum sekolah (seperti laboratorium atau perpustakaan) sering dirusak siswa. Penerapan sifat Amanah dalam menjaga fasilitas publik bermakna...",
+    "options": ["Mencoret-coret meja sekolah untuk meninggalkan kenangan sebelum lulus", "Kesadaran bahwa fasilitas tersebut adalah milik bersama (publik) yang diamanahkan untuk dijaga pemanfaatannya, sehingga merusaknya sama dengan berkhianat pada hak orang banyak", "Menyimpan alat-alat laboratorium yang mahal di dalam tas untuk dibawa pulang sebagai koleksi pribadi", "Hanya menjaga fasilitas jika ada CCTV yang menyala di ruangan tersebut"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Balas dendam (Vengeance) adalah siklus yang tak pernah usai. Rasulullah mencontohkan sifat pemaaf (Al-Afuw). Keuntungan strategis dari sifat pemaaf dalam resolusi konflik sosial adalah...",
+    "options": ["Menunjukkan kelemahan agar pihak lawan merasa kasihan dan berhenti menyerang", "Mencegah eskalasi konflik berdarah yang berkepanjangan dan membuka ruang terciptanya kedamaian serta transformasi (perubahan hati) musuh menjadi sahabat sejati", "Agar pihak lawan menurunkan kewaspadaannya sebelum kita menyerang balik secara diam-diam (serangan fajar)", "Sebagai taktik agar kita mendapatkan penghargaan Nobel Perdamaian internasional"],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Mengapa keteladanan Rasulullah saw. disebut relevan (Shalihun) sepanjang zaman, meskipun rentang waktu hidupnya berbeda 14 abad dengan manusia modern?",
+    "options": ["Karena teknologi persenjataan yang digunakan rasul masih sama dengan zaman sekarang", "Karena esensi ajaran rasul berfokus pada penyempurnaan nilai-nilai universal kemanusiaan (akhlak, keadilan, tauhid) yang tidak pernah usang oleh perubahan perangkat teknologi", "Karena Rasulullah telah meninggalkan buku panduan cara menggunakan internet dan komputer", "Karena bahasa Arab tidak pernah mengalami perubahan kosakata sedikit pun sejak abad ke-7"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Disiplin rasul bukan hanya terlihat dalam ibadah, tapi juga memanajemen waktu (Time Management). Apa indikator bahwa seseorang berhasil meneladani manajemen waktu ala rasul?",
+    "options": ["Bekerja 24 jam nonstop untuk urusan duniawi hingga jatuh sakit di rumah sakit", "Mengabaikan pekerjaan kantor karena lebih memilih berdiam diri berdzikir di dalam masjid (itikaf) sepanjang tahun", "Memiliki keseimbangan (proporsionalitas) antara hak Tuhan (ibadah), hak keluarga, dan hak tubuh untuk istirahat, tanpa ada waktu produktif yang terbuang sia-sia", "Mampu menyelesaikan pekerjaan orang lain dengan menggunakan ilmu sihir memanipulasi waktu"],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "question": "Norma kesopanan (etika) mulai terkikis di ruang publik anonim (internet). Seseorang yang iman kepada rasulnya menghunjam kuat akan menjaga sopan santun digitalnya karena...",
+    "options": ["Takut diblokir secara permanen oleh admin grup atau algoritma platform media sosial", "Ia meyakini bahwa adab (sopan santun) adalah bagian tak terpisahkan dari kulit keimanan; di mana pun ia berada, identitas kemusliman menuntutnya memancarkan akhlak mulia", "Ia menggunakan akun dengan nama aslinya, sehingga takut didatangi langsung ke rumah oleh orang yang dihinanya", "Agar jumlah pengikut (followers) dan penyuka (likes) postingannya meningkat drastis"],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Berdasarkan keseluruhan materi Rukun Iman Keempat, kesimpulan ontologis (hakikat) paling komprehensif dari beriman kepada rasul Allah bagi peradaban manusia adalah...",
+    "options": ["Mencetak generasi manusia super yang memiliki kekuatan gaib dan kebal terhadap semua penyakit biologis", "Membentuk komune masyarakat terasing yang anti-sains dan menolak semua bentuk modernisasi", "Iman kepada rasul adalah instrumen rekayasa ilahi untuk membimbing manusia keluar dari kegelapan moral (jahiliyah) menuju masyarakat madani yang beradab, adil, amanah, dan bertauhid murni", "Hanya sekadar memenuhi prasyarat administratif untuk bisa diakui sebagai umat beragama di lembar kartu tanda penduduk (KTP)"],
+    "answer": 2
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Mengapa manusia harus beriman kepada qada dan qadar?",
+    "options": ["Karena qada dan qadar merupakan ketentuan Allah yang wajib diyakini", "Agar manusia dapat meramal masa depannya dengan pasti", "Karena qada dan qadar memberikan alasan rasional untuk berhenti berusaha", "Sebagai bentuk kepatuhan terhadap tradisi masyarakat beragama"],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "Apa perbedaan qada dan qadar?",
+    "options": ["Qada adalah ketetapan yang bisa diubah, sedangkan qadar bersifat mutlak", "Qada adalah ketetapan Allah sejak dahulu, sedangkan qadar adalah perwujudan ketetapan tersebut", "Qada berlaku untuk masa depan, sedangkan qadar hanya untuk kejadian di masa lalu", "Qada adalah perbuatan manusia, sedangkan qadar adalah perbuatan Allah"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana sikap orang yang beriman kepada qada dan qadar saat mendapat musibah?",
+    "options": ["Menyalahkan keadaan lingkungan karena merasa sudah berusaha maksimal", "Bersabar dan tetap berusaha", "Berpasrah diri sepenuhnya tanpa melakukan tindakan pencegahan di masa depan", "Marah karena merasa ibadahnya tidak dihargai oleh Allah"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Mengapa manusia tetap harus berikhtiar walaupun takdir sudah ditentukan?",
+    "options": ["Agar mendapat pujian dari orang lain sebagai pekerja keras", "Karena manusia memiliki kuasa absolut untuk membatalkan takdir Allah", "Karena usaha adalah bagian dari perintah Allah", "Agar manusia bisa menyombongkan hasil keringatnya sendiri"],
+    "answer": 2
+  },
+  {
+    "id": 5,
+    "question": "Apa hikmah beriman kepada qada dan qadar?",
+    "options": ["Membentuk sikap sabar, tawakal, dan optimis", "Membuat manusia berani melanggar hukum karena semuanya sudah ditakdirkan", "Menumbuhkan sikap fatalis dan pasrah pada nasib tanpa perlawanan", "Menghapus kewajiban manusia untuk merencanakan masa depannya"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Bagaimana hubungan iman kepada qada dan qadar dengan kerja keras?",
+    "options": ["Menurunkan etos kerja karena hasil akhir sudah pasti", "Mendorong manusia terus berusaha mencapai tujuan", "Membuat manusia bekerja 24 jam penuh tanpa mengingat ibadah", "Mewajibkan manusia meraih kesuksesan material apa pun risikonya"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Mengapa manusia tidak boleh putus asa?",
+    "options": ["Karena putus asa akan membuat manusia dijauhi tetangga", "Karena Allah selalu memberi jalan terbaik", "Karena masyarakat tidak menyukai orang yang memiliki mental lemah", "Agar terlihat tegar dan kuat di media sosial"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Apa manfaat tawakal setelah berusaha?",
+    "options": ["Membuat hati tenang dan yakin kepada Allah", "Menjamin keberhasilan secara instan hari itu juga", "Menggugurkan kewajiban kita untuk berusaha di kemudian hari", "Membuat Allah langsung memberikan harta kekayaan yang diminta"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Mengapa keberhasilan harus disyukuri?",
+    "options": ["Karena keberhasilan adalah murni hasil kecerdasan otak manusia", "Karena semua berasal dari Allah", "Agar orang lain percaya bahwa kita orang yang sukses", "Sebagai taktik agar pemerintah tidak menarik pajak dari kita"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Apa akibat tidak percaya kepada qada dan qadar?",
+    "options": ["Mudah kecewa dan menyalahkan keadaan", "Akan selalu mendapatkan kesialan sepanjang hidupnya secara gaib", "Menjadi manusia yang super logis dan rasional", "Tubuhnya akan kebal terhadap penyakit karena tidak memikirkan takdir"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Bagaimana cara menunjukkan iman kepada qada dan qadar di sekolah?",
+    "options": ["Tidak perlu belajar karena nilai sudah ditakdirkan dari awal", "Belajar sungguh-sungguh dan menerima hasil dengan ikhlas", "Memprotes guru jika mendapat nilai jelek karena tidak sesuai takdir", "Menyontek asalkan niatnya baik untuk membahagiakan orang tua"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Mengapa manusia harus sabar menghadapi ujian hidup?",
+    "options": ["Agar mendapatkan hadiah berupa uang tunai", "Karena ujian adalah bagian dari ketetapan Allah", "Karena mengeluh akan menyebabkan penyakit jantung", "Untuk mencari simpati dan belas kasihan dari orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 13,
+    "question": "Apa hubungan qada dan qadar dengan doa?",
+    "options": ["Doa bisa digunakan untuk memaksa Allah mengubah qada", "Doa merupakan usaha untuk mendapatkan kebaikan", "Berdoa menandakan kelemahan manusia yang tidak mau berikhtiar", "Doa hanya diwajibkan bagi mereka yang bernasib buruk"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Mengapa manusia harus optimis dalam hidup?",
+    "options": ["Karena optimisme adalah tren psikologi modern", "Karena Allah menyukai orang yang berusaha", "Agar tidak terlihat miskin di hadapan orang lain", "Karena dengan optimis semua masalah akan selesai dengan sendirinya"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Apa hikmah kegagalan bagi manusia?",
+    "options": ["Sebagai tanda bahwa Allah sedang membenci hamba-Nya", "Menjadi pelajaran untuk lebih baik", "Untuk mempermalukan seseorang di depan publik", "Membuktikan bahwa orang tersebut tidak memiliki masa depan"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Bagaimana sikap seorang muslim saat berhasil?",
+    "options": ["Bersyukur dan tidak sombong", "Memamerkannya kepada orang yang dulu merendahkannya", "Merasa bahwa usahanyalah satu-satunya penentu", "Berhenti beribadah karena tujuannya sudah tercapai"],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Mengapa manusia harus menerima takdir dengan ikhlas?",
+    "options": ["Karena memberontak dapat dikenakan sanksi sosial", "Karena Allah mengetahui yang terbaik", "Agar tidak membuang-buang kalori dalam tubuh", "Karena ikhlas akan langsung diubah menjadi emas dan permata"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Apa manfaat berprasangka baik kepada Allah?",
+    "options": ["Membuat kita kebal terhadap semua musibah", "Membuat hati lebih tenang", "Agar Allah memberikan semua yang kita inginkan tanpa syarat", "Menjamin seseorang tidak akan pernah mengalami sakit fisik"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Mengapa manusia tidak boleh malas?",
+    "options": ["Karena Islam mengajarkan ikhtiar", "Karena malas akan dikenakan denda oleh pemerintah", "Agar tidak tertinggal oleh peradaban bangsa sekuler", "Karena orang malas tidak akan memiliki teman"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Apa hubungan qada dan qadar dengan disiplin?",
+    "options": ["Disiplin membantu mencapai hasil terbaik", "Disiplin adalah takdir yang tidak bisa diubah sejak lahir", "Orang beriman tidak butuh disiplin karena urusannya sudah diatur", "Disiplin hanya diwajibkan bagi mereka yang tidak memiliki bakat"],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "question": "Mengapa sakit harus dihadapi dengan sabar?",
+    "options": ["Karena sakit dapat menggugurkan dosa", "Karena biaya rumah sakit sangat mahal", "Agar penyakit tersebut menular kepada orang yang kita benci", "Karena marah saat sakit akan mempercepat kematian"],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Apa manfaat bersyukur?",
+    "options": ["Memastikan kita mendapat promosi jabatan di kantor", "Menambah nikmat dari Allah", "Agar orang lain merasa iri dengan kehidupan kita", "Menghapuskan seluruh hutang secara ajaib"],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Mengapa manusia harus bekerja keras?",
+    "options": ["Karena kekayaan adalah syarat utama masuk surga", "Karena rezeki harus diusahakan", "Agar ditakuti oleh lawan dan musuh", "Karena bekerja keras adalah satu-satunya cara melupakan masalah"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Mengapa manusia tidak boleh sombong atas keberhasilan?",
+    "options": ["Karena kesombongan akan memicu kejahatan dari orang lain", "Karena semua terjadi atas izin Allah", "Agar tidak dimintai sumbangan oleh tetangga", "Karena orang sombong biasanya tidak cerdas"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Mengapa manusia harus terus belajar?",
+    "options": ["Karena ilmu membantu meraih masa depan", "Agar bisa memenangkan perdebatan di media sosial", "Karena takdir hanya berpihak pada orang yang memiliki gelar akademik", "Untuk menunjukkan superioritas intelektual"],
+    "answer": 0
+  },
+  {
+    "id": 26,
+    "question": "Apa hubungan qada dan qadar dengan kesabaran?",
+    "options": ["Takdir mengajarkan manusia bersabar", "Sabar adalah cara membatalkan qadar yang buruk", "Kesabaran tidak ada hubungannya dengan ketetapan ilahi", "Orang sabar berarti membiarkan dirinya ditindas takdir"],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "Mengapa manusia harus menjaga kesehatan?",
+    "options": ["Karena kesehatan adalah amanah Allah", "Agar tidak perlu membayar iuran asuransi", "Karena tubuh yang sehat otomatis menjamin umur panjang tanpa batas", "Untuk mengikuti tren gaya hidup modern"],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Apa arti tawakal?",
+    "options": ["Berserah diri kepada Allah setelah berusaha", "Pasrah tanpa melakukan ikhtiar sama sekali", "Meminta orang lain menyelesaikan masalah kita", "Menunggu datangnya mukjizat dari langit"],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Apa manfaat percaya kepada takdir?",
+    "options": ["Membuat manusia bisa bersantai tanpa tujuan", "Membuat hidup lebih tenang", "Agar semua doa terkabul hari itu juga", "Membuat seseorang terlepas dari hukum negara"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Apa hikmah musibah?",
+    "options": ["Sebagai kutukan bagi manusia yang berdosa", "Menguatkan iman dan kesabaran", "Untuk menguji seberapa banyak uang yang kita miliki", "Menjadi alasan sah untuk meninggalkan ibadah"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Mengapa manusia tidak boleh iri terhadap orang lain?",
+    "options": ["Karena iri hati dapat menyebabkan penyakit hati kronis secara medis", "Karena setiap orang memiliki takdir berbeda", "Agar orang yang kita iri tidak semakin kaya", "Karena iri hati menghabiskan energi otak"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Apa manfaat berpikir positif?",
+    "options": ["Membantu menghadapi masalah dengan baik", "Menjamin seseorang tidak akan pernah mengalami kegagalan", "Membuat semua orang langsung menyukai kita", "Mengubah kenyataan pahit menjadi ilusi yang menyenangkan"],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Mengapa manusia harus berdoa sebelum ujian?",
+    "options": ["Memohon pertolongan Allah", "Agar soal ujian tiba-tiba berubah menjadi mudah", "Sebagai pengganti kegiatan belajar", "Agar guru memberikan nilai tambahan secara gratis"],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "Apa hubungan qada dan qadar dengan tanggung jawab?",
+    "options": ["Takdir membuat manusia bebas dari tanggung jawab sosial", "Manusia tetap bertanggung jawab atas usahanya", "Hanya orang yang memiliki takdir baik yang wajib bertanggung jawab", "Tanggung jawab dipikul oleh Allah sepenuhnya"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Mengapa kegagalan bukan alasan menyerah?",
+    "options": ["Karena kegagalan adalah proses belajar", "Karena menyerah akan membuat kita didenda", "Agar orang lain tidak menertawakan kita", "Karena pada akhirnya semua orang akan sukses tanpa usaha"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Apa manfaat sabar dalam kehidupan?",
+    "options": ["Membuat musuh menjadi ketakutan", "Mendapat pahala dan ketenangan", "Agar dianggap sebagai orang suci oleh masyarakat", "Mencegah terjadinya bencana alam"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Mengapa manusia harus menghargai waktu?",
+    "options": ["Agar tidak dimarahi atasan", "Karena waktu adalah kesempatan berusaha", "Karena waktu bisa diulang jika kita berdoa", "Untuk memastikan kita bisa beristirahat sepanjang masa tua"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Apa arti ikhtiar?",
+    "options": ["Menerima nasib apa adanya", "Berusaha sungguh-sungguh mencapai tujuan", "Meminta bantuan makhluk halus", "Berdoa siang dan malam tanpa bekerja"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "Mengapa manusia harus rendah hati?",
+    "options": ["Agar orang lain mau memberikan uangnya kepada kita", "Karena keberhasilan berasal dari Allah", "Karena orang sombong akan segera jatuh miskin esok harinya", "Sebagai strategi untuk menipu saingan bisnis"],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "Apa hubungan qada dan qadar dengan doa orang tua?",
+    "options": ["Doa orang tua dapat membawa kebaikan", "Doa orang tua memiliki kekuatan sihir", "Doa orang tua pasti membatalkan ketetapan qada", "Hanya doa ibu yang berhubungan dengan takdir, sedangkan ayah tidak"],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "Mengapa manusia harus semangat bekerja?",
+    "options": ["Agar bisa membeli barang-barang mewah", "Karena bekerja adalah bagian dari usaha", "Untuk mengalahkan kekayaan tetangga", "Karena bekerja adalah satu-satunya tujuan penciptaan manusia"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Apa hikmah percaya kepada qada dan qadar?",
+    "options": ["Membentuk pribadi optimis dan tidak mudah putus asa", "Membuat manusia berani melanggar perintah Tuhan", "Menjadikan manusia makhluk yang egois dan acuh tak acuh", "Memastikan manusia tidak akan pernah menangis"],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "question": "Mengapa manusia harus menerima kekurangan diri?",
+    "options": ["Karena kekurangan diri adalah hukuman atas dosa masa lalu", "Karena setiap manusia memiliki kelebihan dan kekurangan", "Agar orang lain merasa kasihan dan memberikan bantuan", "Karena manusia tidak diizinkan untuk berkembang lebih baik"],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "Apa manfaat tawakal?",
+    "options": ["Membuat kita kaya mendadak", "Menghilangkan rasa cemas berlebihan", "Membuat fisik menjadi lebih kuat dari manusia normal", "Membuka pintu gerbang dimensi lain"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Mengapa manusia tidak boleh menyalahkan takdir?",
+    "options": ["Karena menyalahkan takdir akan merusak kesehatan mental", "Karena manusia tetap memiliki pilihan usaha", "Karena takdir adalah entitas yang bisa membalas dendam", "Agar terhindar dari denda hukum pidana"],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Apa hubungan qada dan qadar dengan kerja sama?",
+    "options": ["Kerja sama membatalkan takdir individu", "Kerja sama membantu mencapai tujuan lebih baik", "Kerja sama hanya diperbolehkan jika takdirnya sama", "Islam melarang kerja sama karena rezeki sudah diatur per orang"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Apa manfaat berdoa setiap hari?",
+    "options": ["Menambah keyakinan kepada Allah", "Mengubah takdir mutlak", "Sebagai mantra penolak miskin", "Menjamin seseorang tidak akan pernah sakit"],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Apa hubungan qada dan qadar dengan rasa syukur?",
+    "options": ["Syukur hanya diucapkan jika takdir sesuai keinginan", "Takdir baik harus disyukuri", "Bersyukur akan membuat takdir buruk langsung menghilang", "Orang beriman tidak perlu bersyukur karena semuanya sudah ketentuan"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Mengapa manusia harus rajin beribadah?",
+    "options": ["Agar dipuji sebagai ahli agama", "Karena ibadah mendekatkan diri kepada Allah", "Sebagai syarat untuk dihormati masyarakat", "Untuk memamerkan baju ibadah yang baru dibeli"],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "Mengapa manusia harus tabah menghadapi cobaan?",
+    "options": ["Agar musuh merasa gagal menyakiti kita", "Karena cobaan adalah ujian keimanan", "Karena menangis adalah tanda kelemahan absolut", "Untuk masuk berita sebagai pahlawan kesabaran"],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Mengapa manusia harus menjaga hubungan baik dengan sesama?",
+    "options": ["Agar bisa meminjam uang kapan saja", "Karena manusia saling membutuhkan", "Karena perselisihan akan mendatangkan malaikat maut", "Sebagai taktik pemasaran bisnis"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Apa manfaat bersikap ikhlas?",
+    "options": ["Membuat hati damai", "Mendatangkan kekayaan materi seketika", "Membuat orang lain memberikan apa yang kita mau", "Menjadikan kita penguasa di lingkungan sekitar"],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Mengapa manusia harus berusaha mencapai cita-cita?",
+    "options": ["Agar menjadi orang paling kaya di dunia", "Karena usaha adalah bagian dari ibadah", "Untuk mengalahkan teman sekolah yang sombong", "Karena takdir tidak akan pernah tercapai tanpa ambisi yang mematikan"],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "Apa hubungan qada dan qadar dengan keberanian?",
+    "options": ["Keberanian akan merusak takdir yang sudah ditulis", "Membuat manusia yakin menghadapi tantangan", "Orang berani adalah orang yang menolak takdir Tuhan", "Keberanian menjamin manusia tidak akan pernah celaka"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Mengapa manusia tidak boleh mudah marah?",
+    "options": ["Karena marah akan menyebabkan kulit cepat keriput", "Karena marah dapat merusak diri sendiri", "Agar orang lain merasa takut kepada kita", "Karena marah diharamkan dalam segala situasi tanpa kecuali"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Apa manfaat percaya bahwa Allah Maha Adil?",
+    "options": ["Membuat manusia bebas menghakimi orang lain", "Membuat manusia lebih tenang menerima takdir", "Menghapuskan sistem peradilan di dunia nyata", "Agar kita selalu menang dalam persidangan"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Mengapa manusia harus menjaga amanah?",
+    "options": ["Agar dipromosikan naik jabatan", "Karena amanah akan dipertanggungjawabkan", "Karena berkhianat akan memicu hukum karma instan", "Untuk menjaga citra politik di mata rakyat"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "Apa hubungan qada dan qadar dengan ketekunan?",
+    "options": ["Ketekunan mengubah qada secara mutlak", "Ketekunan membantu mencapai keberhasilan", "Orang yang tekun berarti tidak percaya pada takdir", "Ketekunan hanya membuang-buang waktu yang sudah diatur"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Mengapa manusia harus menghormati orang tua?",
+    "options": ["Karena orang tua memegang hak waris", "Karena ridha Allah bergantung ridha orang tua", "Agar tidak diusir dari rumah", "Karena orang tua selalu benar dalam segala hal tanpa kecuali"],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "Apa manfaat membaca Al-Qur'an?",
+    "options": ["Menambah iman dan petunjuk hidup", "Mendapat gelar sebagai ulama besar", "Menghindarkan rumah dari pencurian fisik", "Memastikan umur panjang lebih dari seratus tahun"],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "Mengapa manusia harus menjauhi malas?",
+    "options": ["Karena kemalasan akan menyebabkan penyakit kronis", "Karena malas menghambat kesuksesan", "Agar masyarakat tidak menggosipkan kita", "Karena orang malas akan dihukum cambuk"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Apa hubungan qada dan qadar dengan semangat belajar?",
+    "options": ["Belajar tidak penting jika qadar sudah ditetapkan", "Belajar adalah usaha mengubah masa depan", "Belajar adalah cara untuk melupakan takdir buruk", "Ilmu pengetahuan bertentangan dengan konsep qada ilahi"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Mengapa manusia harus memanfaatkan peluang?",
+    "options": ["Agar bisa memonopoli keuntungan", "Karena peluang belum tentu datang dua kali", "Karena peluang selalu membawa kekayaan", "Untuk menyingkirkan pesaing secara tidak sehat"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Mengapa manusia harus percaya diri?",
+    "options": ["Agar terlihat sombong di depan musuh", "Karena percaya diri membantu keberhasilan", "Karena percaya diri dapat menggantikan fungsi ibadah", "Untuk menipu orang lain agar percaya kepada kita"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Apa hubungan qada dan qadar dengan persahabatan?",
+    "options": ["Teman yang baik adalah takdir yang datang tanpa perlu dicari", "Teman baik membantu menuju kebaikan", "Persahabatan akan merusak fokus pada takdir individu", "Hanya berteman dengan orang kaya yang memiliki takdir bagus"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "Mengapa manusia harus menjaga ucapan?",
+    "options": ["Agar suaranya tidak cepat serak", "Karena ucapan dapat memengaruhi orang lain", "Karena diam seribu bahasa adalah ajaran utama", "Agar terlihat misterius dan elegan"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Apa manfaat berpikir optimis?",
+    "options": ["Membantu bangkit dari kegagalan", "Menghilangkan semua masalah dunia tanpa aksi nyata", "Membuat orang lain mematuhi semua keinginan kita", "Menutup mata dari realitas penderitaan orang lain"],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Apa manfaat membantu sesama?",
+    "options": ["Agar diundang ke acara-acara elit", "Mendapat pahala dan mempererat persaudaraan", "Untuk mendapatkan imbalan uang dari yang ditolong", "Agar nama kita ditulis dalam buku sejarah lokal"],
+    "answer": 1
+  },
+  {
+    "id": 69,
+    "question": "Mengapa manusia harus sabar saat gagal?",
+    "options": ["Karena marah akan menyebabkan denda finansial", "Karena kegagalan bukan akhir segalanya", "Agar kompetitor merasa iba dan memberikan kemenangannya", "Karena kegagalan berarti Tuhan tidak menyukai kita"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Apa hubungan qada dan qadar dengan rasa tanggung jawab?",
+    "options": ["Karena semua sudah ditakdirkan, tanggung jawab itu ilusi", "Manusia bertanggung jawab atas pilihannya", "Hanya orang dewasa yang dituntut tanggung jawab oleh takdir", "Takdir menghapus beban tanggung jawab atas dosa"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Mengapa manusia harus menghargai perbedaan?",
+    "options": ["Karena kita takut dipenjara oleh hukum negara", "Karena setiap manusia memiliki takdir berbeda", "Agar terlihat keren di mata dunia internasional", "Karena perbedaan selalu berujung pada pertumpahan darah"],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Apa manfaat hidup sederhana?",
+    "options": ["Membuat kita tidak perlu membayar zakat", "Membuat hidup lebih tenang", "Agar orang miskin merasa iri kepada kita", "Karena hidup mewah dilarang secara mutlak dalam agama"],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Mengapa manusia harus menjauhi putus asa?",
+    "options": ["Karena putus asa akan menyebabkan kebotakan", "Karena rahmat Allah sangat luas", "Agar dokter psikologi tidak memiliki pasien", "Karena putus asa diancam hukuman kurungan penjara"],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Apa hubungan qada dan qadar dengan kesuksesan?",
+    "options": ["Kesuksesan hanya diukur dari banyaknya uang di rekening", "Kesuksesan diraih melalui usaha dan izin Allah", "Sukses adalah takdir yang tidak perlu diusahakan", "Hanya orang-orang beruntung yang ditakdirkan sukses sejak bayi"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Mengapa manusia harus berbuat baik?",
+    "options": ["Agar dihormati dan dipuja sebagai dewa", "Karena kebaikan akan mendapat balasan baik", "Untuk menutupi kejahatan yang pernah dilakukan secara diam-diam", "Karena berbuat jahat memerlukan tenaga yang lebih besar"],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "Apa manfaat sabar dalam belajar?",
+    "options": ["Membantu memahami ilmu dengan baik", "Agar guru memberikan contekan jawaban saat ujian", "Membuat otak menjadi lebih besar secara fisik", "Menghapus kebutuhan untuk membaca buku teks"],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "question": "Mengapa manusia harus rajin berdoa?",
+    "options": ["Agar bisa terbang dan menembus tembok", "Karena doa adalah senjata orang beriman", "Untuk menggantikan kewajiban shalat dan puasa", "Karena doa akan langsung memunculkan uang dari bawah bantal"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Apa hubungan qada dan qadar dengan rasa syukur?",
+    "options": ["Syukur membatalkan ujian hidup di masa depan", "Membuat manusia menghargai nikmat Allah", "Orang bersyukur tidak akan pernah mengalami takdir buruk", "Syukur adalah takdir yang tidak bisa diusahakan"],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Mengapa manusia harus menghindari iri hati?",
+    "options": ["Karena iri hati akan menguras kuota internet", "Karena iri hati merusak ketenangan", "Agar orang yang kita iri mau membagi hartanya", "Karena iri hati hanya merugikan orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "Apa manfaat tawakal setelah ujian?",
+    "options": ["Agar hasil ujian tiba-tiba berubah menjadi A+", "Membuat hati lebih tenang menerima hasil", "Menggugurkan kewajiban remedial jika remedial itu ada", "Untuk menakut-nakuti guru agar tidak memberi nilai kecil"],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Mengapa manusia harus menjaga kesehatan mental?",
+    "options": ["Agar tidak perlu pergi ke psikiater yang mahal", "Agar mampu menghadapi ujian hidup", "Karena orang dengan kesehatan mental yang buruk akan dipenjara", "Untuk terlihat lebih unggul dari orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Apa hubungan qada dan qadar dengan harapan?",
+    "options": ["Harapan akan merusak kenyataan takdir", "Membuat manusia tetap optimis", "Harapan adalah ilusi yang bertentangan dengan qada", "Orang beriman tidak boleh memiliki harapan sama sekali"],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "Mengapa manusia harus bekerja halal?",
+    "options": ["Agar tidak ditangkap oleh komisi pemberantasan korupsi", "Karena rezeki halal membawa berkah", "Karena pekerjaan haram selalu menghasilkan uang yang lebih sedikit", "Agar perusahaan bisa mempublikasikan namanya di majalah"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Apa manfaat bersyukur saat mendapat nikmat?",
+    "options": ["Agar nikmat tersebut tidak dicuri oleh orang jahat", "Menambah keberkahan hidup", "Membuat seseorang kebal dari penyakit menular", "Sebagai syarat agar bisa mendapatkan pinjaman dari bank"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Mengapa manusia harus menghindari sombong?",
+    "options": ["Karena sombong akan membuat postur tubuh menjadi bungkuk", "Karena kesombongan dibenci Allah", "Agar lawan bisnis tidak merasa tertantang", "Karena kesombongan membutuhkan biaya perawatan diri yang mahal"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Apa hubungan qada dan qadar dengan ketenangan hati?",
+    "options": ["Membuat manusia bisa tertidur di sembarang tempat", "Membuat manusia lebih ikhlas", "Orang yang percaya qada tidak akan pernah merasakan sedih", "Ketenangan hati hanya didapat dari kekayaan material"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Mengapa manusia harus menjaga lingkungan?",
+    "options": ["Agar rumahnya bisa dijual dengan harga sangat tinggi", "Karena bumi adalah amanah Allah", "Karena merusak lingkungan akan menyebabkan rambut rontok", "Hanya sebagai syarat untuk memenangkan piala kebersihan"],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Apa manfaat membaca doa sebelum bekerja?",
+    "options": ["Agar bisa bekerja sambil tidur", "Memohon kemudahan kepada Allah", "Sebagai ganti presensi absensi harian", "Agar rekan kerja menaruh hormat berlebihan kepada kita"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Mengapa manusia harus menerima kritik?",
+    "options": ["Agar si pengkritik merasa puas dan segera diam", "Agar dapat memperbaiki diri", "Karena menolak kritik akan membuat kita dipenjara", "Untuk menunjukkan bahwa kita adalah pribadi yang lemah"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Apa hubungan qada dan qadar dengan kegigihan?",
+    "options": ["Kegigihan akan membatalkan semua ketetapan buruk", "Mendorong manusia terus berusaha", "Orang beriman dilarang gigih karena terkesan memaksa Tuhan", "Kegigihan hanya diperlukan oleh mereka yang miskin"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Mengapa manusia harus menghormati guru?",
+    "options": ["Agar diberi nilai bagus secara percuma", "Karena guru berjasa memberi ilmu", "Karena guru memiliki kemampuan menghukum fisik yang menyakitkan", "Untuk menghindari tugas-tugas berat di kelas"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Apa manfaat hidup disiplin?",
+    "options": ["Membantu mencapai tujuan", "Memastikan kita selalu dipuji atasan setiap hari", "Mencegah datangnya malaikat maut secara mendadak", "Agar terlihat seperti robot yang sempurna di mata teman"],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "Mengapa manusia harus percaya bahwa Allah Maha Bijaksana?",
+    "options": ["Agar Allah tidak lagi memberikan ujian hidup kepada kita", "Karena semua takdir Allah memiliki hikmah", "Karena manusia tidak memiliki kebijaksanaan sedikit pun", "Sebagai bentuk diplomasi agar doa cepat dikabulkan"],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "Apa hubungan qada dan qadar dengan rasa sabar?",
+    "options": ["Kesabaran adalah hukuman atas takdir yang buruk", "Takdir mengajarkan manusia bersabar", "Sabar berarti menolak berikhtiar mengubah nasib", "Sabar hanya diwajibkan ketika mendapat takdir baik"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Mengapa manusia harus rajin membantu orang lain?",
+    "options": ["Agar kelak mereka menjadi pengikut kita yang setia", "Karena tolong-menolong diperintahkan Allah", "Karena dengan menolong, kita otomatis menjadi kaya", "Agar dicatat sebagai dermawan oleh organisasi amal dunia"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Apa manfaat semangat pantang menyerah?",
+    "options": ["Membantu mencapai keberhasilan", "Menghapus takdir kekalahan secara mutlak", "Memaksa kompetitor untuk mundur dari persaingan", "Menunjukkan kepada Tuhan bahwa kita bisa mandiri tanpa bantuan-Nya"],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "Mengapa manusia harus menjaga hubungan dengan Allah?",
+    "options": ["Agar manusia bisa mengendalikan cuaca dan iklim", "Karena Allah sumber pertolongan", "Untuk mendapatkan keuntungan finansial dari lembaga agama", "Karena jika tidak dijaga, Allah akan menghancurkan bumi besok"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Apa hubungan qada dan qadar dengan keikhlasan?",
+    "options": ["Keikhlasan akan mengubah hasil akhir sesuai keinginan kita", "Membuat manusia menerima hasil usaha", "Ikhlas berarti tidak peduli lagi dengan apa pun yang terjadi", "Orang yang ikhlas tidak akan pernah mendapatkan ujian"],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "question": "Mengapa manusia harus selalu introspeksi diri?",
+    "options": ["Untuk mencari siapa yang bisa disalahkan", "Agar dapat memperbaiki kesalahan", "Agar terlihat sangat religius saat sedang menyendiri", "Karena introspeksi diri dapat menyembuhkan luka fisik"],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Apa kesimpulan penting tentang iman kepada qada dan qadar?",
+    "options": ["Iman kepada takdir membuat manusia harus menyerah pada keadaan tanpa perlu berikhtiar", "Iman kepada qada dan qadar membentuk manusia yang sabar, optimis, bertanggung jawab, dan selalu berusaha mendekatkan diri kepada Allah", "Konsep takdir diciptakan hanya untuk menenangkan orang miskin agar tidak menuntut haknya", "Iman kepada qada dan qadar membuktikan bahwa manusia tidak memiliki kebebasan memilih dalam hidupnya"],
+    "answer": 1
+  }
+]

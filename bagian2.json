@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Mengapa manusia wajib beriman kepada malaikat Allah meskipun tidak pernah melihatnya?",
+    "options": ["Karena malaikat menentukan surga atau neraka seseorang", "Karena iman kepada malaikat merupakan salah satu rukun iman", "Karena malaikat yang memberikan syafaat di hari kiamat", "Karena malaikat memiliki wujud fisik yang bisa dirasakan"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Ditinjau dari konsep pengawasan, bagaimana pengaruh utama iman kepada malaikat terhadap perilaku manusia di ruang tertutup?",
+    "options": ["Membuat manusia lebih berhati-hati dalam bertindak karena sadar diawasi", "Membuat manusia merasa bebas berbuat apa saja asal tidak merugikan orang lain", "Mendorong manusia untuk memperbanyak tidur agar terhindar dari dosa", "Menjadikan manusia pesimis dan takut untuk mencoba hal baru"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "Malaikat tidak pernah melanggar perintah Allah. Faktor teologis utama yang membedakan malaikat dengan manusia dalam ketaatan adalah...",
+    "options": ["Malaikat memiliki akal yang jauh lebih cerdas dari manusia", "Malaikat diciptakan dari cahaya yang membuat mereka kebal dosa", "Malaikat selalu diancam dengan hukuman berat jika melanggar", "Malaikat diciptakan tanpa hawa nafsu"],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "question": "Apa hikmah terbesar bagi seorang pelajar yang beriman kepada malaikat pencatat amal (Rakib dan Atid)?",
+    "options": ["Menjadi lebih berhati-hati dalam berbuat, baik saat ujian maupun di luar sekolah", "Menghindari pergaulan sosial karena takut terpengaruh dosa teman", "Hanya melakukan amal yang bisa dilihat dan dinilai oleh guru", "Merasa tidak perlu lagi meminta maaf karena semua sudah tercatat"],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "Keberadaan malaikat bersifat gaib. Secara epistemologi Islam, mengapa kita harus percaya pada hal gaib ini?",
+    "options": ["Karena keberadaan malaikat telah dibuktikan secara empiris oleh sains modern", "Karena tokoh-tokoh agama sering menceritakan pengalaman bertemu malaikat", "Karena keberadaan malaikat dijelaskan secara pasti dalam Al-Qur'an dan hadis", "Karena semua agama di dunia menyepakati wujud asli malaikat"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "Bagaimana kaitan logis antara iman kepada malaikat dengan peningkatan kedisiplinan seorang Muslim?",
+    "options": ["Kedisiplinan meningkat karena takut dicatat buruk dan dipertanggungjawabkan kelak", "Kedisiplinan meningkat karena malaikat akan langsung menegur saat itu juga", "Kedisiplinan diukur dari seberapa banyak kita menyebut nama malaikat", "Malaikat akan mengubah catatan dosa jika manusia akhirnya disiplin"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Mengapa malaikat tidak pernah berbuat dosa seperti halnya iblis dan manusia?",
+    "options": ["Karena malaikat tidak memiliki kekuatan fisik untuk berbuat kerusakan", "Karena malaikat diciptakan semata-mata untuk selalu menaati perintah Allah", "Karena alam malaikat tidak memiliki objek untuk dijadikan perbuatan dosa", "Karena malaikat selalu beribadah bersama-sama dalam kelompok besar"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Apa dampak positif secara psikologis jika seseorang percaya sepenuhnya kepada pengawasan malaikat Rakib dan Atid?",
+    "options": ["Ia akan merasa tertekan dan stres sepanjang waktu", "Ia terbiasa mandiri berbuat baik dan mampu menjauhi maksiat meski tanpa pengawasan manusia", "Ia menjadi tidak peduli dengan hukum negara karena merasa sudah diawasi malaikat", "Ia akan menghakimi setiap kesalahan kecil yang dilakukan orang lain"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Dalam narasi penciptaan, iblis menolak bersujud kepada Adam karena sombong. Mengapa manusia dilarang meniru sifat setan ini?",
+    "options": ["Karena sifat sombong adalah hak eksklusif para malaikat penjaga", "Karena setan selalu mengajak kepada keburukan dan menjauhkan dari rahmat Allah", "Karena manusia tercipta dari tanah yang derajatnya paling rendah", "Karena meniru setan akan membuat manusia memiliki wujud gaib"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Berbeda dengan rukun Islam yang bertumpu pada perbuatan fisik, bagaimana wujud implementasi nyata iman kepada malaikat dalam keseharian?",
+    "options": ["Dengan menyediakan ruangan khusus di rumah untuk berdoa kepada malaikat", "Dengan senantiasa meningkatkan kualitas dan kuantitas amal saleh", "Dengan menghafal silsilah dan nama-nama ribuan malaikat", "Dengan membayangkan wujud malaikat setiap kali melaksanakan shalat"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Malaikat Jibril memegang peran paling sentral dalam sejarah risalah kenabian karena...",
+    "options": ["Ia bertugas melindungi nabi secara fisik dari serangan musuh", "Ia adalah malaikat yang mengatur rezeki seluruh umat di masa kenabian", "Ia bertugas menyampaikan wahyu yang menjadi pedoman hidup umat manusia", "Ia meniup sangkakala yang menandai berakhirnya masa kenabian"],
+    "answer": 2
+  },
+  {
+    "id": 12,
+    "question": "Seorang pedagang menolak menipu timbangan meskipun tidak ada pembeli yang tahu. Apa hubungan sikap kejujurannya dengan iman kepada malaikat?",
+    "options": ["Ia sadar Allah dan malaikat mengetahui perbuatannya secara pasti", "Ia takut jika pembeli tersebut memiliki indera keenam", "Ia merasa malaikat akan langsung mengurangi rezekinya saat itu juga", "Ia berharap malaikat mempromosikan dagangannya kepada orang lain"],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Mengapa rasa malu berbuat dosa saat sendirian merupakan indikator tingginya kualitas keimanan seseorang?",
+    "options": ["Karena ia sadar malaikat tetap mencatat amalnya dan Allah melihat segalanya", "Karena kesendirian adalah waktu yang paling rawan untuk berbuat hal memalukan", "Karena dosa yang dilakukan sendirian sanksi sosialnya lebih berat jika ketahuan", "Karena ia merasa sedang diawasi oleh roh nenek moyangnya"],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "Bagaimana mekanisme iman kepada malaikat dalam membentuk akhlak yang mulia di lingkungan sosial?",
+    "options": ["Manusia akan bersikap baik hanya kepada sesama Muslim", "Manusia terdorong berbuat baik karena yakin kebaikan sekecil apa pun tidak akan luput dari catatan malaikat", "Manusia akan berlomba mencari popularitas agar dicatat sebagai tokoh masyarakat", "Manusia menjadi pendiam dan menghindari interaksi sosial sepenuhnya"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Status malaikat sebagai makhluk gaib bermakna bahwa...",
+    "options": ["Keberadaannya hanyalah metafora dari sifat baik manusia", "Mereka hanya bisa berinteraksi dengan orang-orang yang memiliki kekuatan supranatural", "Wujud asli mereka tidak dapat ditangkap oleh panca indera manusia biasa", "Mereka tidak memiliki bentuk atau eksistensi yang nyata di alam semesta"],
+    "answer": 2
+  },
+  {
+    "id": 16,
+    "question": "Memahami tugas malaikat Mikail dalam membagikan rezeki seharusnya memberikan hikmah berupa...",
+    "options": ["Keyakinan bahwa manusia tidak perlu bekerja keras karena rezeki sudah diatur", "Perasaan iri jika melihat orang lain mendapatkan rezeki lebih banyak", "Dorongan untuk memonopoli sumber daya alam agar rezeki bertambah", "Rasa syukur yang mendalam atas setiap rezeki dari Allah dan ikhtiar yang halal"],
+    "answer": 3
+  },
+  {
+    "id": 17,
+    "question": "Di era media sosial, kebiasaan menulis komentar negatif sangat marak. Mengapa menjaga ucapan (termasuk tulisan) sangat esensial berdasarkan iman kepada malaikat?",
+    "options": ["Karena malaikat hanya mencatat ucapan lisan, sedangkan tulisan dicatat belakangan", "Karena komentar negatif bisa dihapus sebelum malaikat sempat mencatatnya", "Karena malaikat mencatat setiap perkataan dan tulisan sebagai bagian dari amal perbuatan", "Karena komentar negatif dapat merusak citra diri di mata publik"],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Jika setiap individu dalam masyarakat mengimani pengawasan malaikat, bagaimana dampaknya terhadap hubungan sosial?",
+    "options": ["Masyarakat menjadi lebih sopan, menghargai orang lain, dan minim konflik", "Masyarakat akan saling mencurigai catatan amal satu sama lain", "Masyarakat menjadi pasif dan menolak kemajuan teknologi", "Hubungan sosial akan tergantikan oleh hubungan eksklusif dengan malaikat"],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "Akar dari rasa tanggung jawab seorang Muslim yang beriman kepada malaikat adalah keyakinan bahwa...",
+    "options": ["Tanggung jawab hanya dituntut oleh hukum dan norma negara", "Semua perbuatan yang dicatat malaikat pasti akan dipertanggungjawabkan di hadapan Allah", "Manusia bisa bernegosiasi dengan malaikat di hari kiamat kelak", "Pencatatan malaikat hanya berlaku untuk dosa-dosa besar saja"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Mengingkari keberadaan malaikat berimplikasi fatal bagi seorang Muslim, yaitu...",
+    "options": ["Hanya akan mengurangi pahala ibadah sunnahnya", "Ia tetap dianggap Mukmin selama masih percaya kepada Allah", "Imannya menjadi tidak sah karena menolak salah satu dari rukun iman", "Ia dilarang masuk ke dalam masjid atau tempat ibadah lainnya"],
+    "answer": 2
+  },
+  {
+    "id": 21,
+    "question": "Peran malaikat Israfil sangat sentral dalam eskatologi (ilmu akhirat) Islam karena...",
+    "options": ["Ia bertugas menimbang amal perbuatan seluruh manusia", "Ia bertugas meniup sangkakala yang menandai hancurnya alam semesta dan hari kebangkitan", "Ia adalah malaikat yang memimpin proses hisab di Padang Mahsyar", "Ia menjaga pintu surga dan menyeleksi roh yang akan masuk"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Cara paling rasional dan sesuai syariat untuk meningkatkan keyakinan kepada malaikat adalah...",
+    "options": ["Melakukan ritual meditasi di tempat sepi untuk memanggil mereka", "Menggunakan jimat pelindung yang bertuliskan nama-nama malaikat", "Mempelajari ajaran Islam (Al-Qur'an dan Hadis) secara mendalam terkait sifat dan tugas mereka", "Membuat ilustrasi atau lukisan tentang wujud malaikat"],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "Motivasi teologis bagi seorang Mukmin untuk terus memperbanyak amal baik tanpa kenal lelah adalah...",
+    "options": ["Karena amal baik dicatat malaikat dan akan menjadi bekal penolong di akhirat", "Agar namanya dikenang abadi dalam buku sejarah manusia", "Untuk menunjukkan superioritas spiritual dibandingkan orang lain", "Karena amal baik secara otomatis menolak datangnya malaikat Izrail"],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "question": "Sikap amanah (dapat dipercaya) dalam dunia profesional sangat terkait dengan iman kepada malaikat karena...",
+    "options": ["Orang beriman takut rahasia perusahaannya dibocorkan oleh malaikat", "Orang beriman akan menjaga kepercayaan sebab sadar ada \"auditor gaib\" yang selalu mengawasi", "Amanah adalah syarat utama untuk diangkat menjadi pemimpin oleh manusia", "Malaikat akan memberikan bonus rezeki langsung kepada pekerja yang amanah"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Kehadiran malaikat Munkar dan Nakir seringkali menjadi pengingat yang menakutkan bagi sebagian orang karena tugas mereka yaitu...",
+    "options": ["Mencabut nyawa manusia dengan cara yang sangat menyakitkan", "Menyiksa roh manusia di neraka Jahannam kelak", "Menanyai pertanggungjawaban keimanan manusia saat pertama kali berada di alam kubur", "Membawa catatan dosa manusia sejak lahir hingga remaja"],
+    "answer": 2
+  },
+  {
+    "id": 26,
+    "question": "Tindak pidana korupsi bisa ditekan secara moralistik dari dalam diri individu apabila...",
+    "options": ["Pelaku sadar bahwa semua tindakan curangnya dicatat secara detail oleh malaikat", "Ada ancaman hukuman penjara seumur hidup dari negara", "Sistem keamanan KPK menggunakan teknologi AI tingkat tinggi", "Gaji pegawai sudah dinaikkan hingga ratusan juta rupiah per bulan"],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "Secara ontologis, malaikat tidak membutuhkan makan, minum, atau istirahat karena...",
+    "options": ["Mereka mendapatkan asupan energi dari doa-doa manusia", "Mereka adalah entitas spiritual yang berbeda materi penciptaannya dengan manusia biologis", "Sistem pencernaan malaikat bekerja dengan memanfaatkan cahaya matahari", "Mereka sedang dihukum oleh Allah untuk berpuasa selamanya"],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Hikmah kontemplatif dari mengetahui keberadaan malaikat Malik sang penjaga neraka adalah...",
+    "options": ["Agar manusia bisa bernegosiasi dengannya kelak untuk mengurangi siksaan", "Mendorong manusia agar takut berbuat dosa yang berujung pada siksa neraka", "Membuat manusia berani mengambil risiko melakukan maksiat", "Menumbuhkan rasa pesimis bahwa manusia pasti masuk neraka"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Mengapa sekadar percaya keberadaan malaikat tidak cukup, melainkan harus diiringi kerajinan beribadah?",
+    "options": ["Karena malaikat hanya mau mendekat kepada orang yang beribadah 24 jam penuh", "Karena rajin beribadah adalah bukti nyata (amal) bahwa kita meyakini pencatatan amal oleh malaikat", "Karena ibadah kita dapat meringankan beban tugas para malaikat", "Agar malaikat tidak melaporkan kita sebagai makhluk yang pemalas"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Bagaimana internalisasi iman kepada malaikat dapat membentuk budaya disiplin waktu dalam kehidupan modern?",
+    "options": ["Manusia menyadari ketepatan waktu dalam ibadah dan pekerjaan adalah bagian dari ketaatan yang dicatat", "Manusia akan merasa waktu berjalan lebih lambat jika beribadah", "Manusia menggunakan jam alarm agar malaikat tidak mendahului jadwal mereka", "Kedisiplinan waktu hanya berlaku untuk pelaksanaan shalat lima waktu saja"],
+    "answer": 0
+  },
+  {
+    "id": 31,
+    "question": "Nama malaikat Ridwan sangat identik dengan keindahan dan kebahagiaan eskatologis karena tugasnya adalah...",
+    "options": ["Menaburkan bunga di jalur yang dilewati penghuni surga", "Membagikan mahkota kebesaran bagi para nabi", "Menjaga pintu surga dan menyambut orang-orang beriman dengan penuh penghormatan", "Membangun istana-istana megah di surga untuk umat Islam"],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Sikap rendah hati (tawadhu) memiliki korelasi yang sangat kuat dengan keimanan kepada malaikat. Korelasi tersebut muncul karena...",
+    "options": ["Manusia sadar sehebat apa pun dirinya, semua amal diketahui Allah dan dicatat malaikat tanpa bisa dimanipulasi", "Malaikat selalu merendahkan manusia yang bersikap sombong di depan publik", "Rendah hati akan membuat malaikat berhenti mencatat kesalahan kecil manusia", "Manusia merasa malu karena wujud fisiknya tidak sesempurna malaikat"],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Mengeluarkan kata-kata makian atau sumpah serapah sangat dilarang dalam Islam. Alasan teologis terkait hal ini adalah...",
+    "options": ["Kata-kata kasar dapat merusak pendengaran malaikat pelindung kita", "Setiap ucapan buruk, sekecil apa pun, tetap terekam dan dicatat oleh malaikat sebagai dosa", "Berbicara kasar akan memanggil jin jahat ke dalam rumah", "Hukum karma akan langsung membalas ucapan buruk tersebut keesokan harinya"],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Saat menghadapi provokasi emosional, iman kepada malaikat membantu seseorang mengendalikan diri dengan cara...",
+    "options": ["Mengingatkan bahwa emosi yang meledak-ledak adalah bentuk kehilangan kesadaran diawasi oleh pencatat amal", "Menyakinkan diri bahwa lawan yang memprovokasi akan diserang oleh malaikat", "Melarikan diri dari masalah dan mengunci diri di kamar sendirian", "Membaca mantra khusus untuk membekukan waktu"],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "question": "Pemahaman tentang tugas malaikat Izrail seringkali disalahartikan. Konsep yang benar tentang malaikat maut ini adalah...",
+    "options": ["Ia mencabut nyawa secara acak sesuai keinginannya sendiri", "Ia adalah representasi kejahatan yang memisahkan manusia dari keluarganya", "Ia hanya melaksanakan ketetapan waktu kematian dari Allah secara presisi tanpa bisa ditunda", "Ia bisa dinegosiasi jika manusia rajin bersedekah di saat kritis"],
+    "answer": 2
+  },
+  {
+    "id": 36,
+    "question": "Menyadari eksistensi malaikat penjaga manusia (Hafadzah) seharusnya membuahkan sikap spiritual berupa...",
+    "options": ["Sikap ceroboh dan sengaja menantang bahaya karena merasa dilindungi", "Menambah rasa syukur kepada Allah atas perlindungan-Nya melalui para malaikat", "Kecenderungan untuk menyembah malaikat pelindung tersebut sebagai tuhan kecil", "Mengurangi kewaspadaan diri terhadap ancaman kriminalitas"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Aspek preventif (pencegahan) dari iman kepada malaikat terlihat jelas ketika seorang Mukmin...",
+    "options": ["Lebih berhati-hati merencanakan tindakan kriminal agar tidak meninggalkan jejak materi", "Mengurungkan niat berbuat maksiat karena sadar CCTV gaib (malaikat) selalu merekam amalnya", "Menghindari berbuat jahat hanya ketika berada di keramaian", "Berbuat dosa lalu segera menghapus catatan malaikat dengan ritual tertentu"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Kualitas karakter sesungguhnya terlihat saat seseorang sedang sendirian. Pengaruh iman kepada malaikat pada situasi ini adalah...",
+    "options": ["Tetap konsisten menjaga perilaku baik seolah-olah berada di tengah banyak orang", "Merasa bebas bereksperimen dengan hal-hal yang dilarang agama karena sepi", "Mengisi waktu kesendirian dengan tidur tanpa batas", "Menjadi paranoid dan berhalusinasi melihat bayangan malaikat"],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Pembahasan mengenai jenis kelamin malaikat dalam Islam sangat jelas, yaitu...",
+    "options": ["Mereka berjenis kelamin laki-laki karena bertugas sebagai pelindung", "Mereka berjenis kelamin perempuan sebagaimana mitologi peradaban kuno", "Mereka tidak memiliki jenis kelamin (aseksual) karena entitas biologis berbeda dengan manusia", "Mereka memiliki kemampuan mengubah jenis kelamin sesuai situasi"],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Penerapan iman kepada malaikat dalam konteks akademik/belajar akan menghasilkan dampak kebiasaan berupa...",
+    "options": ["Membuat siswa mengabaikan tugas sekolah demi memperbanyak dzikir", "Siswa menjadi lebih jujur saat mengerjakan ujian dan disiplin mengumpulkan tugas", "Siswa akan memaksakan diri begadang setiap hari demi mendapat catatan amal ekstra", "Siswa hanya mau belajar mata pelajaran pendidikan agama saja"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Rantai logika antara iman kepada malaikat dengan kepastian Hari Pembalasan adalah...",
+    "options": ["Malaikat yang akan menghancurkan bumi pada hari kiamat kelak", "Keadilan di Hari Pembalasan membutuhkan bukti, dan amal tersebut telah dicatat secara valid oleh malaikat", "Malaikat bertugas menyortir manusia tanpa persetujuan Allah", "Malaikat akan memberikan syafaat bagi siapa saja yang menyebut namanya"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Meskipun manusia memiliki kodrat biologis yang berbeda, kita dituntut untuk meneladani sifat malaikat. Bagaimana cara yang paling aplikatif?",
+    "options": ["Dengan berusaha hidup tanpa makan dan minum dalam waktu yang lama", "Dengan taat menjalankan perintah Allah dan menjauhi maksiat semaksimal mungkin", "Dengan memisahkan diri dari keluarga dan menjadi petapa di gunung", "Dengan mengenakan pakaian serba putih setiap saat"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "Dalam beberapa ayat Al-Qur'an, malaikat dideskripsikan sebagai makhluk yang selalu bertasbih. Makna kontekstual dari sifat ini adalah...",
+    "options": ["Mereka selalu bernyanyi menggunakan instrumen musik langit", "Mereka senantiasa tunduk, patuh, dan beribadah kepada Allah tanpa henti", "Mereka berkomunikasi satu sama lain hanya dengan kata \"Subhanallah\"", "Mereka bertasbih untuk mencari perhatian dari manusia di bumi"],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "Budaya malu (haya') dalam Islam adalah sebagian dari iman. Hubungan antara rasa malu ini dengan malaikat adalah...",
+    "options": ["Membuat manusia merasa canggung berinteraksi dengan orang asing", "Membuat manusia merasa malu dan hina jika catatan amalnya dipenuhi dosa saat dibaca malaikat", "Malu menunjukkan wajah asli di depan umum", "Malu jika tidak memiliki jabatan di masyarakat"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Menjaga pandangan mata (gadhul bashar) dari hal yang diharamkan merupakan perintah agama. Mengapa orang beriman sangat konsisten melakukannya?",
+    "options": ["Karena semua tindakan, termasuk pandangan mata yang liar, pasti dicatat malaikat", "Karena menatap hal haram dapat langsung menyebabkan kebutaan fisik", "Agar terlihat seperti orang yang sangat religius dan alim di mata orang lain", "Karena takut terkena hukuman denda dari pihak berwajib"],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "Dalam konteks pergaulan (persahabatan), keyakinan bahwa ada malaikat pencatat di kanan dan kiri kita akan berfungsi sebagai...",
+    "options": ["Penghalang untuk memiliki banyak teman", "Filter (penyaring) agar kita menghindari perdebatan kotor dan tindakan menyakiti teman", "Alat untuk menakut-nakuti teman agar mereka mau menuruti keinginan kita", "Pendorong untuk terus-menerus memuji teman secara berlebihan"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Ketakwaan (ketaatan penuh) tumbuh subur di hati orang yang beriman kepada malaikat karena ia memiliki persepsi konstan bahwa...",
+    "options": ["Malaikat akan langsung mencabut nyawanya jika melakukan satu kesalahan kecil", "Kehidupan dunia ini penuh dengan ilusi dan tipu daya visual", "Ia tidak pernah sendirian; selalu ada pengawas ilahiah yang membersamainya di mana pun berada", "Malaikat selalu memberikan bisikan gaib ke telinganya secara langsung"],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Mengetahui secara definitif bahwa Al-Qur'an diturunkan melalui perantara Jibril as. memberikan hikmah sentral berupa...",
+    "options": ["Menambah keraguan karena tidak disampaikan langsung oleh Allah kepada Nabi", "Menambah keyakinan absolut terhadap keaslian dan kemurnian wahyu Al-Qur'an", "Membuat kita lebih mengagungkan Jibril daripada Nabi Muhammad", "Mendorong manusia untuk mencoba berkomunikasi langsung dengan Jibril"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Sikap proaktif dalam bertaubat (memperbaiki kesalahan) sangat didorong oleh pemahaman tentang pencatatan amal. Mengapa demikian?",
+    "options": ["Karena manusia berpacu dengan waktu agar dosa yang telah dicatat dapat dihapus oleh rahmat Allah sebelum ajal tiba", "Karena jika tidak segera diperbaiki, malaikat akan menghukum secara fisik di dunia", "Agar catatan amal terlihat tebal dengan banyaknya riwayat perbaikan dosa", "Karena malaikat tidak akan mencatat dosa jika kita merencanakan taubat sebelumnya"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Orang yang percaya pada malaikat pembawa rahmat cenderung memiliki kebiasaan positif dalam spiritualitasnya, yaitu...",
+    "options": ["Menjadikan doa sebagai kebiasaan rutin karena selalu berharap limpahan rahmat Allah", "Berhenti bekerja keras dan hanya menunggu datangnya mukjizat rahmat", "Memaksa orang lain untuk selalu mendoakannya setiap saat", "Membaca doa hanya pada saat malam pergantian tahun Islam"],
+    "answer": 0
+  },
+  {
+    "id": 51,
+    "question": "Berbeda dengan eksekusi tugas yang dilakukan manusia, malaikat senantiasa menjalankan tugasnya dengan presisi yang sempurna. Mengapa hal ini bisa terjadi?",
+    "options": ["Karena mereka menggunakan teknologi super canggih yang tidak dimiliki manusia", "Karena mereka taat sepenuhnya kepada perintah Allah dan tidak terdistraksi oleh hawa nafsu", "Karena mereka takut akan dipecat dari kedudukannya sebagai malaikat", "Karena mereka selalu meminta bantuan jin untuk menyelesaikan tugasnya"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Bagaimana manifestasi iman kepada malaikat dalam membentuk karakter sopan santun?",
+    "options": ["Sopan santun dilakukan semata-mata untuk menjaga reputasi kasta keluarga", "Sopan santun muncul sebagai bentuk pembiasaan perilaku baik yang disukai Allah dan dicatat malaikat", "Kesopanan ditunjukkan hanya kepada orang yang memiliki otoritas lebih tinggi", "Dengan bersikap sopan, seseorang berharap dipuja bak malaikat di bumi"],
+    "answer": 1
+  },
+  {
+    "id": 53,
+    "question": "Fitnah (menyebarkan berita bohong untuk merusak reputasi) diklasifikasikan sebagai dosa besar. Mengapa iman kepada malaikat mencegah kita dari tindakan ini?",
+    "options": ["Karena fitnah adalah dosa destruktif yang pasti dicatat oleh malaikat sebagai kejahatan lisan", "Karena fitnah bisa membuat kita dituntut secara hukum pencemaran nama baik oleh korban", "Karena korban fitnah bisa membalas dengan tindakan yang lebih agresif", "Karena fitnah akan membuat malaikat pembawa rezeki tersesat"],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Sindrom kemalasan akut dapat dikurangi secara signifikan melalui internalisasi iman kepada malaikat. Bagaimana logikanya?",
+    "options": ["Malas akan membuat fisik menjadi lemah dan mudah terserang penyakit gaib", "Manusia terdorong memperbanyak amal baik secara proaktif karena menyadari setiap detik waktunya dihitung", "Malaikat Mikail tidak akan menurunkan hujan jika manusia banyak yang malas", "Orang malas akan didatangi malaikat penagih utang"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Di tengah tekanan hidup (stres), mengapa percaya kepada malaikat penjaga (Hafadzah) membuat hati seseorang lebih tenang?",
+    "options": ["Karena ia yakin semua masalahnya akan diselesaikan secara magis malam itu juga", "Karena ia yakin Allah selalu mengerahkan para malaikat-Nya untuk menjaga manusia dari hal-hal di luar batas kemampuannya", "Karena malaikat penjaga akan menyingkirkan semua pesaing bisnisnya", "Karena ia tidak perlu lagi mengambil keputusan sulit apa pun"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Pemahaman komprehensif tentang peran malaikat Mikail sebagai pengatur rezeki akan melahirkan dua sikap mental sekaligus, yaitu...",
+    "options": ["Pesimis dan fatalis (menyerah pada keadaan)", "Sombong saat kaya dan putus asa saat miskin", "Menumbuhkan rasa syukur yang mendalam dan tawakal (berserah diri setelah berusaha maksimal)", "Oportunis (mencari celah keuntungan) dan manipulatif"],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "question": "Kleptomania atau kebiasaan mencuri, bahkan barang kecil sekalipun, sangat dijauhi oleh orang yang beriman kepada malaikat karena...",
+    "options": ["Takut ketahuan CCTV tersembunyi yang dipasang oleh pemilik toko", "Sadar bahwa perbuatan mencurinya pasti terekam jelas oleh malaikat pencatat amal", "Takut barang curian tersebut membawa kutukan kesialan", "Karena mencuri membutuhkan strategi yang sangat rumit dan melelahkan"],
+    "answer": 1
+  },
+  {
+    "id": 58,
+    "question": "Kebersihan hati (dari penyakit seperti riya, ujub, dan hasad) sangat dijaga dalam Islam. Apa korelasi menjaga kebersihan hati ini dengan keberadaan malaikat?",
+    "options": ["Karena hati yang kotor akan membuat warna tubuh berubah secara kasat mata", "Karena membiasakan niat baik dalam hati juga dicatat sebagai amal, dan malaikat mengetahui kecenderungan hati tersebut", "Karena malaikat hanya melindungi orang yang secara fisik selalu wangi dan rapi", "Hati yang bersih membuat manusia mampu terbang layaknya malaikat"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Sikap anti-otoritas terhadap nabi dan ajarannya bertentangan dengan rukun iman. Mengapa kita wajib menghormati ajaran para nabi dilihat dari kacamata iman kepada malaikat?",
+    "options": ["Karena nabi memiliki pasukan malaikat yang bisa menyerang kapan saja", "Karena semua nabi memiliki kemampuan berubah wujud menjadi malaikat", "Karena wahyu yang mereka bawa disampaikan langsung secara suci dan valid oleh malaikat Jibril as.", "Karena menghormati nabi adalah tradisi kuno yang harus dilestarikan budaya lokal"],
+    "answer": 2
+  },
+  {
+    "id": 60,
+    "question": "Dalam ekosistem sekolah, bagaimana iman kepada malaikat secara langsung meningkatkan indeks tanggung jawab siswa?",
+    "options": ["Siswa menjadi lebih takut kepada kepala sekolah daripada kepada aturan agama", "Membuat siswa lebih disiplin mengikuti pelajaran dan jujur mengerjakan tugas tanpa harus selalu diawasi guru", "Mendorong siswa untuk sering absen guna melakukan ibadah sunnah di rumah", "Membuat siswa rajin membersihkan kelas agar mendapat nilai tambahan dari wali kelas"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "Keyakinan bahwa setiap amal pasti dibalas merupakan pilar keadilan eskatologis. Fondasi dari kepastian balasan ini didasari oleh fakta bahwa...",
+    "options": ["Tuhan selalu memaafkan semua kesalahan pada akhirnya tanpa kecuali", "Catatan sejarah dunia sangat akurat mendokumentasikan amal manusia", "Semua amal manusia tanpa terkecuali telah dicatat dengan sempurna oleh malaikat", "Manusia akan menceritakan sendiri dosa-dosanya di hari kiamat tanpa malu"],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "question": "Jejak digital di internet konon abadi. Bagi seorang Muslim, konsep \"jejak digital\" ini memiliki makna spiritual yang lebih dalam, yaitu...",
+    "options": ["Membuat seseorang berhati-hati dalam menulis status atau berkomentar karena catatan malaikat jauh lebih abadi dari server internet", "Membuat seseorang menghapus semua akun media sosialnya agar terhindar dari dosa", "Hanya menggunakan media sosial dengan nama samaran anonim agar tidak dilacak", "Mendorong pembuatan banyak akun palsu untuk menyebarkan opini pribadi secara masif"],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "Berdusta, bahkan untuk tujuan bercanda (prank), dilarang keras dalam Islam. Evaluasi moral atas larangan ini berdasarkan rukun iman adalah...",
+    "options": ["Karena kebohongan akan menyebabkan hidung memanjang secara psikologis", "Karena candaan berlebih dapat merusak wibawa seseorang di masyarakat", "Karena setiap kebohongan, apa pun motifnya, akan dicatat sebagai dosa pembohongan publik oleh malaikat", "Karena bohong dapat mengganggu frekuensi komunikasi antar malaikat"],
+    "answer": 2
+  },
+  {
+    "id": 64,
+    "question": "Mengetahui secara definitif bahwa ada malaikat penjaga surga dan neraka memberikan stimulasi bagi seorang Mukmin berupa...",
+    "options": ["Dorongan rasa penasaran untuk mendeskripsikan arsitektur surga dan neraka secara rinci", "Menambah semangat berbuat baik (amal saleh) dan ketakutan mendalam untuk melakukan maksiat", "Menimbulkan pandangan apatis bahwa segala sesuatu sudah ditakdirkan sehingga usaha tidak berguna", "Menciptakan mitos-mitos baru tentang makhluk mitologi di alam gaib"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Iri (hasad) dan dengki merupakan penyakit kalbu yang paling mematikan. Mengapa hal ini sangat diwanti-wanti terkait iman kepada Allah dan malaikat?",
+    "options": ["Karena sifat iri hati dibenci Allah dan energi negatifnya menghanguskan pahala amal yang telah susah payah dicatat malaikat", "Karena orang yang iri akan mudah terserang penyakit darah tinggi secara medis", "Karena hasad hanya merugikan orang yang sedang kita iri", "Karena dengan bersikap iri, kita akan kehilangan semua harta benda secara ajaib"],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Integritas moral atau karakter jujur sangat sulit dibentuk hanya dengan regulasi manusia. Bagaimana iman kepada malaikat menawarkan solusinya?",
+    "options": ["Dengan ancaman denda uang yang besar dari pemuka agama setempat", "Karena individu sadar selalu diawasi secara melekat (embedded) oleh kekuatan gaib ilahiah", "Dengan memberikan penghargaan medali kejujuran setiap tahun", "Melalui sumpah jabatan yang diucapkan dengan suara keras di depan publik"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Manusia sering merasa bosan atau futur (lemah semangat) dalam beribadah. Mengapa malaikat tidak pernah mengalami sindrom kelelahan spiritual ini?",
+    "options": ["Karena malaikat meminum air zam-zam di langit setiap hari", "Karena mereka diciptakan dari elemen cahaya yang tidak memiliki batasan kelelahan fisik maupun nafsu kebosanan", "Karena mereka diberi hadiah surga setiap kali selesai berdzikir", "Karena jika mereka berhenti, mereka akan dihukum menjadi batu"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "Resiliensi (ketahanan mental) dan kesabaran saat menghadapi musibah sangat dipengaruhi oleh iman kepada malaikat, karena...",
+    "options": ["Sabar membantu manusia tetap taat dalam keadaan sulit sembari meyakini pahala kesabarannya dicatat sempurna", "Sabar akan membuat musibah tersebut seketika hilang dan kembali normal", "Kesabaran manusia akan membuat malaikat menangis haru dan menghentikan ujian", "Orang sabar cenderung tidak peduli dengan lingkungan sekitarnya"],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "Mekanisme pengampunan dosa sangat simpel (istighfar dan bertaubat), namun dampaknya masif. Mengapa kita harus segera meminta ampun setelah sadar berbuat salah?",
+    "options": ["Agar mendapat pujian dari orang yang pernah kita zalimi", "Agar riwayat dosa kita dihapuskan oleh Allah dari lembaran catatan amal malaikat sebelum hari penghisaban tiba", "Untuk menghindar dari denda finansial dan sanksi penjara dunia", "Karena meminta ampun adalah tren spiritual di era modern"],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Tekanan teman sebaya (peer pressure) seringkali menjerumuskan remaja ke pergaulan bebas. Bagaimana perisai \"iman kepada malaikat\" membentengi hal ini?",
+    "options": ["Remaja akan mengurung diri di rumah tanpa bersosialisasi sama sekali", "Remaja berani menolak pergaulan buruk karena ia lebih mementingkan menjaga integritas amal baiknya di hadapan malaikat daripada validasi teman", "Remaja akan mengikuti pergaulan tersebut asalkan tidak ketahuan orang tuanya", "Ia akan berteman dengan siapa saja asalkan mereka kaya dan populer"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Ketakwaan (rasa takut positif kepada Allah) berbanding lurus dengan iman kepada malaikat. Korelasi teologisnya adalah...",
+    "options": ["Malaikat memiliki wujud menyeramkan yang menakuti pendosa", "Kesadaran bahwa tidak ada satu pun detail perbuatan (amal) yang luput dari pencatatan harian malaikat", "Takut bahwa malaikat akan membocorkan aib kita kepada tetangga sekitar", "Takwa berarti kita harus memakai jimat penolak bala malaikat maut"],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Mengingat kematian (Dzikrul Maut) melalui refleksi tugas malaikat Izrail merupakan terapi mental dalam Islam yang bertujuan untuk...",
+    "options": ["Mengingatkan manusia bahwa hidup di dunia ini sangat fana (sementara) dan mendesaknya persiapan bekal akhirat", "Membuat manusia berputus asa dan berhenti mengejar cita-cita duniawi", "Menakut-nakuti anak kecil agar mereka mau segera tidur tepat waktu", "Mendorong manusia mencari dokter spesialis agar usianya bisa abadi"],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "Manajemen waktu (time management) yang efektif adalah buah dari keimanan eskatologis karena...",
+    "options": ["Waktu adalah uang yang bisa digunakan untuk membeli kebahagiaan", "Setiap detik yang terlewat akan diperhitungkan penggunaannya dalam laporan catatan malaikat", "Menghargai waktu akan membuat kita terlihat profesional di mata bos", "Bekerja tanpa henti adalah satu-satunya cara agar tidak miskin"],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Sikap optimis (Husnudzon) terhadap masa depan sangat erat kaitannya dengan iman kepada malaikat pembawa rahmat. Indikatornya adalah...",
+    "options": ["Percaya diri bahwa dirinya tidak akan pernah mengalami kegagalan bisnis", "Hanya berdoa tanpa perlu melakukan persiapan atau perencanaan yang matang", "Percaya bahwa Allah senantiasa memberikan balasan baik dan jalan keluar bagi hamba-Nya yang terus berikhtiar", "Sikap optimis bahwa malaikat akan mengerjakan ujian sekolah untuknya"],
+    "answer": 2
+  },
+  {
+    "id": 75,
+    "question": "Meremehkan dosa kecil (minor sins) ibarat menumpuk ranting kering yang akhirnya bisa membakar seluruh kota. Pemahaman ini sejalan dengan konsep...",
+    "options": ["Bahwa semua dosa kecil dan besar, sekecil dzarrah pun, tetap dicatat malaikat secara kumulatif", "Bahwa dosa kecil akan terhapus otomatis seiring berjalannya waktu tanpa taubat", "Dosa kecil hanya berlaku bagi anak-anak yang belum akil baligh", "Malaikat hanya fokus mencatat dosa besar seperti membunuh dan mencuri"],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "Interaksi rutin dengan wahyu (membaca Al-Qur'an) diyakini sebagai ibadah agung. Bagaimana kaitannya dengan malaikat Jibril?",
+    "options": ["Untuk meminta malaikat Jibril agar menurunkan wahyu baru kepada kita", "Membaca Al-Qur'an berarti kita mempelajari pesan suci yang dulu dibawa oleh Jibril as, sehingga membantu meningkatkan ketakwaan", "Karena malaikat Jibril menyukai lantunan suara yang merdu", "Membaca Al-Qur'an adalah syarat untuk bisa melihat wujud asli malaikat"],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Banyak pejabat publik yang jatuh karena korupsi atau penyalahgunaan amanah. Orang beriman akan menjaga integritas jabatannya karena...",
+    "options": ["Takut harta hasil korupsinya disita oleh lembaga antikorupsi negara", "Takut dicopot dari jabatannya dan diberhentikan secara tidak hormat", "Allah memerintahkan kejujuran dan malaikat mencatat setiap penyalahgunaan wewenang secara presisi", "Sadar bahwa korupsi akan membuat popularitas politiknya menurun drastis"],
+    "answer": 2
+  },
+  {
+    "id": 78,
+    "question": "Toleransi dan kedamaian sosial dapat dirawat jika setiap pemeluk Islam mengamalkan iman kepada malaikat melalui sikap...",
+    "options": ["Menghindari pertengkaran dan caci maki karena sadar emosi negatif merusak catatan pahala", "Memaksakan kehendak agar semua orang memiliki pendapat yang seragam", "Menutup mata terhadap kejahatan di sekitarnya dan membiarkannya saja", "Membangun tembok pembatas yang tinggi dengan tetangga berbeda agama"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Sikap egaliter (menghormati sesama manusia tanpa membedakan status sosial) sangat ditekankan karena...",
+    "options": ["Orang kaya lebih mudah memberikan donasi untuk pembangunan panti asuhan", "Hukum internasional tentang hak asasi manusia mewajibkan hal tersebut", "Islam mengajarkan akhlak mulia dan malaikat mencatat bagaimana kita memperlakukan hamba Allah yang lain", "Menghormati orang miskin akan membuat kita dipuji sebagai dermawan"],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "Eksistensi malaikat Rakib dan Atid bukan sekadar dogma teologis, melainkan instrumen mental yang berfungsi ganda, yaitu...",
+    "options": ["Menakut-nakuti dan memberikan rasa putus asa", "Menciptakan beban pikiran berlebih dan paranoid sosial", "Menumbuhkan rasa tanggung jawab internal dan kontrol diri (self-control) atas setiap tindakan harian", "Membuat manusia merasa cemas setiap kali berinteraksi dengan benda mati"],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "question": "Kedermawanan finansial (memperbanyak sedekah) sangat populer di kalangan umat beragama. Motif spiritual yang membedakan sedekahnya orang beriman adalah...",
+    "options": ["Berharap uangnya diganti berkali-kali lipat di dunia esok harinya", "Sedekah dilakukan sebagai transaksi investasi akhirat yang amalnya secara spesifik dicatat dengan pahala ganda", "Agar diakui sebagai penyumbang terbesar dan namanya diukir di prasasti", "Karena uang yang dimiliki terlalu banyak dan bingung menghabiskannya"],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Konsep Birrul Walidain (berbakti kepada orang tua) mendapatkan penekanan ekstra jika dikaitkan dengan malaikat, karena...",
+    "options": ["Anak yang patuh dan hormat amalnya mendapat prioritas pencatatan kebaikan tertinggi di sisi Allah", "Malaikat akan memberikan kekayaan instan kepada anak yang patuh", "Orang tua memiliki malaikat pelindung yang siap menghukum anak durhaka secara fisik", "Hanya anak yang berbakti yang diizinkan melihat malaikat"],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "Ghibah (membicarakan keburukan orang lain) disamakan dengan memakan daging bangkai saudaranya. Secara administratif langit, mengapa ghibah sangat merugikan?",
+    "options": ["Karena korban ghibah akan langsung membalas dendam secara kasar", "Karena dosa ghibah memindahkan pahala amal kebaikan kita ke dalam catatan amal orang yang kita bicarakan", "Karena obrolan tersebut menghabiskan banyak waktu produktif di kantor", "Karena ghibah menyebabkan masalah pita suara dan penyakit tenggorokan"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Syukur (appreciation) bukan hanya sebatas ucapan Alhamdulillah, melainkan gaya hidup. Iman kepada malaikat pembawa rezeki memperkuat ini dengan...",
+    "options": ["Membuat manusia sadar akan skenario indah nikmat Allah yang distribusinya terkelola secara gaib", "Menjamin bahwa orang yang bersyukur tidak akan pernah kekurangan uang", "Membuat manusia tidak perlu bekerja keras karena sudah dijamin rezekinya", "Mendorong perilaku boros karena rezeki akan terus menerus mengalir"],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "Angka kriminalitas (kejahatan) berakar dari hilangnya rasa takut akan konsekuensi. Bagi Mukmin, pencegahan utamanya adalah...",
+    "options": ["Rasa takut yang mendalam terhadap penjara dunia yang sempit dan pengap", "Rasa sadar yang intens bahwa ia selalu diawasi secara simultan oleh Allah dan malaikat pencatat", "Kekhawatiran wajahnya akan masuk ke siaran berita televisi nasional", "Takut kehilangan pekerjaan jika ketahuan memiliki catatan kriminal"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Produktivitas dan kedisiplinan kerja bukan hanya tentang KPI (Key Performance Indicator) perusahaan, tetapi juga karena...",
+    "options": ["Pekerja takut gajinya dipotong jika terlihat malas di jam kerja", "Orang beriman ingin memaksimalkan produktivitas hidupnya untuk memperbanyak rekam jejak amal baik", "Perusahaan memberikan bonus akhir tahun bagi karyawan yang tidak pernah absen", "Malas bekerja adalah bentuk protes terhadap kapitalisme modern"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Niat yang lurus dan tersembunyi jauh di dalam hati (ikhlas) memegang peranan vital dalam beramal. Mengapa demikan?",
+    "options": ["Karena amal yang besar tanpa niat ikhlas akan dipuji oleh orang banyak di dunia", "Karena niat yang lurus akan membuat fisik kita lebih ringan bergerak", "Karena Allah Maha Mengetahui isi hati manusia yang terdalam sebagai filter diterimanya sebuah catatan amal", "Karena malaikat hanya bisa melihat amal fisik dan tidak bisa melihat niat di dalam hati"],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "question": "Ketidakpastian waktu kedatangan malaikat pencabut nyawa (Izrail) mengandung pesan filosofis berupa...",
+    "options": ["Manusia bebas berfoya-foya selagi masih merasa sehat dan muda", "Mengingatkan manusia untuk senantiasa mempersiapkan bekal akhirat dan tidak menunda-nunda bertaubat", "Menciptakan teror mental agar manusia mengisolasi diri dari interaksi sosial", "Mendorong manusia mencari ramuan genetik penunda usia tua"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Doa bukan sekadar pelengkap, melainkan otak ibadah (mukhul ibadah). Substansi rajin berdoa terkait keimanan adalah...",
+    "options": ["Sebagai bentuk pamer kesalehan di tempat umum secara verbal", "Karena doa menunjukkan pengakuan ketergantungan mutlak seorang hamba kepada Sang Pencipta", "Agar doa tersebut segera dikabulkan dalam bentuk materi secara tunai esok harinya", "Karena dengan berdoa, kewajiban shalat fardhu bisa digantikan atau digugurkan"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Sifat narsistik (terlalu membanggakan diri sendiri) dapat diredam dengan kesadaran iman kepada malaikat, karena ia memahami bahwa...",
+    "options": ["Orang narsis akan dibenci oleh teman-temannya di media sosial", "Sadar semua kelebihan, bakat, dan kebaikan pada dasarnya berasal dari anugerah Allah, bukan kehebatannya semata", "Hukum alam akan memberikan kesialan bagi orang yang terlalu percaya diri", "Kesombongannya akan memicu orang lain melakukan kejahatan kepadanya"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Tindakan zalim (menindas orang lemah) sangat dilarang keras. Perpektif akhirat mengenai larangan ini adalah...",
+    "options": ["Orang yang dizalimi pasti akan membalas dendam dengan kekuatan fisik yang lebih besar", "Tindakan zalim dipastikan tercatat abadi dan akan mendapat balasan siksa (qishash) yang sangat buruk kelak", "Kezaliman akan merusak reputasi pelakunya di mata hukum pidana internasional", "Orang zalim biasanya akan kehilangan kekayaannya secara instan hari itu juga"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Ketakutan berbuat dosa (khauf) yang sehat adalah ciri Mukmin. Ketakutan ini muncul dari postulat iman berupa...",
+    "options": ["Keyakinan bahwa tidak ada satu dosa pun yang menguap; semuanya selalu terekam dan dicatat presisi", "Kekhawatiran bahwa dosanya akan diketahui oleh orang tua dan membuatnya diusir dari rumah", "Ketakutan akan digosipkan oleh masyarakat setempat yang suka menggunjing", "Takut bahwa dosa tersebut menyebabkan gangguan pencernaan dan penyakit fisik kronis"],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "Bagaimana iman kepada malaikat berfungsi sebagai penguat (amplifier) bagi keimanan utama kepada Allah Swt.?",
+    "options": ["Malaikat memiliki kekuatan independen yang setara dengan Allah", "Malaikat memegang kendali alam semesta sehingga kita wajib memuja mereka", "Karena eksistensi dan ketaatan total malaikat merepresentasikan bukti mutlak akan keagungan Sang Maha Pencipta", "Karena malaikat seringkali menampakkan diri untuk meyakinkan manusia purba"],
+    "answer": 2
+  },
+  {
+    "id": 94,
+    "question": "Dalam public speaking atau percakapan harian, mengapa seorang Muslim sangat berhati-hati memilih diksi kata?",
+    "options": ["Agar dianggap memiliki wawasan literatur bahasa yang sangat tinggi dan elegan", "Agar lawan bicaranya merasa terintimidasi dengan kosakata akademis", "Membuat seseorang menjaga sopan santun karena sadar setiap ucapannya menjadi saksi di hadapan malaikat pencatat", "Karena takut dilaporkan ke polisi atas dugaan pencemaran nama baik berbasis UU ITE"],
+    "answer": 2
+  },
+  {
+    "id": 95,
+    "question": "Istighfar berulang-ulang, meskipun tidak baru saja melakukan maksiat besar, merupakan rutinitas orang saleh karena...",
+    "options": ["Untuk mengisi kekosongan waktu saat sedang mengantri atau berjalan", "Sebagai tindakan preventif untuk memohon ampun atas dosa-dosa kecil yang mungkin luput dari kesadaran", "Agar diakui masyarakat sebagai orang suci (wali) yang doanya selalu makbul", "Sebagai mantra untuk memperlancar jalannya sirkulasi darah dan mencegah stroke"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Personifikasi malaikat penjaga neraka dengan sifat keras dan bengis dimaksudkan sebagai pedagogi (pendidikan) ilahi agar...",
+    "options": ["Manusia menjadi pesimis menjalani kehidupan dan depresi memikirkan akhirat", "Manusia menganggap neraka sebagai tempat fiksi yang tidak perlu ditakuti", "Menjadi efek jera (deterrent) agar manusia benar-benar takut dan berpikir seribu kali sebelum melakukan maksiat", "Mendorong manusia untuk mencari mantra penakluk malaikat neraka"],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "question": "Etika ekologis (menjaga kelestarian dan kebersihan alam) merupakan cabang keimanan karena...",
+    "options": ["Alam yang kotor akan membuat harga properti di sekitarnya turun drastis", "Kebersihan lingkungan diawasi langsung oleh petugas dinas kebersihan kota secara ketat", "Islam menjadikan kebersihan sebagai bagian integral (syarat) dari kesempurnaan iman dan ibadah", "Sampah yang berserakan menyulitkan pergerakan fisik manusia saat berolahraga"],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "question": "Budaya kerja keras (work ethic) sangat didukung oleh ajaran Islam, karena paradigma orang beriman adalah...",
+    "options": ["Bekerja keras adalah satu-satunya cara untuk mengumpulkan harta warisan tak terbatas bagi keturunan", "Bekerja banting tulang untuk mendapatkan pengakuan gelar sosial tertinggi dari masyarakat kelas atas", "Niat bekerja mencari rezeki halal adalah ladang subur untuk memperoleh tabungan amal baik di buku malaikat", "Kerja keras diwajibkan oleh pemerintah melalui regulasi pajak penghasilan progresif"],
+    "answer": 2
+  },
+  {
+    "id": 99,
+    "question": "Keyakinan kemahatahuan Allah (Al-Alim) membatalkan logika manusiawi untuk bisa \"bersembunyi\". Implikasi langsungnya adalah...",
+    "options": ["Karena tidak ada ruang, waktu, maupun perbuatan tersembunyi yang tidak terdeteksi oleh radar ilahiah", "Membuat manusia berani berbuat salah asalkan memakai pakaian penyamaran", "Memacu adrenalin manusia untuk mencoba mencari tempat persembunyian yang lebih canggih di bawah tanah", "Manusia mengira Allah hanya mengawasi saat berada di dalam rumah ibadah resmi"],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "Sebagai sintesa (kesimpulan), tujuan puncak mendidik diri dan generasi muda untuk beriman kepada malaikat Allah adalah...",
+    "options": ["Mencetak generasi penakut yang memisahkan diri dari kemajuan peradaban modern dan teknologi mutakhir", "Membentuk manusia menjadi pribadi berkarakter tangguh, taat syariat, disiplin tinggi, dan memancarkan akhlak mulia dalam segala situasi", "Hanya sebatas lulus ujian mata pelajaran pendidikan agama Islam dengan nilai sempurna di atas kertas", "Melahirkan kelompok manusia yang merasa paling suci dan berhak menghakimi dosa orang lain secara brutal"],
+    "answer": 1
+  }
+]

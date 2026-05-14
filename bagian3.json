@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Secara esensial, mengapa seorang Muslim diwajibkan beriman kepada kitab-kitab Allah?",
+    "options": ["Sebagai syarat mutlak agar doa-doanya di dunia selalu dikabulkan", "Karena kitab Allah berfungsi sebagai pedoman hidup komprehensif agar manusia tidak tersesat dalam kebebasan akalnya", "Untuk menghindari hukuman sosial dari komunitas keagamaan", "Karena mengimani kitab adalah jalan pintas untuk menghapus seluruh dosa masa lalu"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana manifestasi paling nyata dari pengaruh iman kepada kitab Allah terhadap perilaku sehari-hari?",
+    "options": ["Mampu menghafal seluruh isi kitab suci tanpa salah sedikit pun", "Sering membawa kitab suci ke mana pun sebagai bentuk perlindungan fisik", "Membentuk manusia menjadi lebih taat aturan dan mengaplikasikan akhlak mulia dalam setiap interaksi", "Hanya bergaul dengan orang-orang yang juga mempelajari kitab suci"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "Al-Qur'an sering disebut sebagai kitab penyempurna. Pemahaman HOTS yang benar mengenai status 'penyempurna' ini adalah...",
+    "options": ["Al-Qur'an menghapus semua sejarah nabi masa lalu agar umat fokus ke masa depan", "Karena ajarannya melengkapi, merevisi penyimpangan, dan menyempurnakan syariat dari wahyu-wahyu terdahulu", "Al-Qur'an adalah satu-satunya kitab yang diturunkan langsung tanpa perantara malaikat", "Karena Al-Qur'an menggunakan bahasa Arab yang merupakan bahasa tertua di dunia"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Apa hikmah paling fundamental dari beriman kepada kitab Allah dalam konteks pengambilan keputusan?",
+    "options": ["Membuat manusia bebas memutuskan apa saja asalkan tidak melanggar hukum negara", "Manusia mendapatkan petunjuk hidup yang benar dan standar moral yang absolut di tengah kebingungan nilai duniawi", "Menjamin seseorang pasti mendapatkan keuntungan finansial dari setiap keputusannya", "Membuat manusia kehilangan kebebasan berpendapat"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Akal manusia diciptakan sangat cerdas. Lalu mengapa manusia masih membutuhkan kitab Allah sebagai pedoman hidup?",
+    "options": ["Karena akal manusia memiliki keterbatasan dalam menjangkau kebenaran hakiki dan hal gaib sehingga butuh panduan agar tidak tersesat", "Karena akal manusia pada dasarnya selalu ingin berbuat jahat tanpa henti", "Agar manusia tidak perlu lagi berpikir keras dalam memecahkan masalah sains", "Karena kecerdasan manusia hanya berlaku untuk urusan teknologi saja"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Iman tidak cukup hanya dengan keyakinan hati. Bagaimana cara menunjukkan iman kepada kitab Allah secara kafah (menyeluruh)?",
+    "options": ["Menyimpannya di tempat paling tinggi di dalam rumah", "Hanya membacanya saat ada acara peringatan hari besar Islam", "Dengan membaca, memahami maknanya, serta mengamalkan nilai-nilainya secara nyata", "Menjadikannya sebagai jimat penolak bala di tempat kerja"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "Berbeda dengan kitab-kitab sebelumnya yang mengalami perubahan, mengapa Al-Qur'an dijaga langsung keasliannya oleh Allah?",
+    "options": ["Karena Al-Qur'an adalah wahyu terakhir yang harus relevan dan menjadi pedoman hingga akhir zaman", "Karena pada masa turunnya Al-Qur'an, manusia sudah menemukan teknologi percetakan", "Agar bangsa Arab memiliki kebanggaan literatur di mata dunia", "Karena umat Islam lebih pandai menjaga buku dibandingkan umat terdahulu"],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "question": "Apa korelasi psikologis antara iman kepada kitab Allah dengan terbentuknya karakter jujur (integritas)?",
+    "options": ["Orang jujur akan mudah diangkat menjadi pemimpin yang populer", "Karena kitab Allah secara tegas mengajarkan kejujuran dan janji balasan atas setiap kebohongan", "Kejujuran akan membuat seseorang terhindar dari denda hukum positif", "Kitab Allah membolehkan kebohongan demi keuntungan pribadi"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Sekadar membaca teks Al-Qur'an memang bernilai ibadah. Namun, mengapa manusia sangat dituntut untuk mempelajari isinya secara mendalam?",
+    "options": ["Agar bisa mendebat dan mencari kelemahan pemeluk agama lain", "Agar memahami instruksi dan petunjuk Allah sehingga dapat diterapkan sebagai solusi kehidupan", "Untuk memamerkan kecerdasan tafsir di depan masyarakat awam", "Agar mendapatkan gelar akademik di bidang studi agama"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Bagaimana mekanisme iman kepada kitab Allah dapat merekonstruksi akhlak masyarakat yang rusak?",
+    "options": ["Dengan memaksa semua orang menghafal kitab suci dalam waktu singkat", "Karena kitab Allah mengajarkan standar moral dan kebaikan universal yang mengikis kebiasaan buruk masyarakat", "Dengan memberikan hukuman mati bagi siapa saja yang tidak membaca kitab", "Karena kitab Allah memberikan mantra magis untuk mengubah hati orang jahat"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Mengapa wahyu/kitab Allah harus diturunkan kepada para nabi, bukan langsung kepada setiap individu manusia?",
+    "options": ["Karena nabi bertugas sebagai contoh model (uswatun hasanah) untuk membimbing umat dalam mempraktikkan wahyu tersebut", "Karena manusia biasa tidak memiliki waktu untuk mendengarkan wahyu", "Agar para nabi bisa memonopoli kebenaran dan menjadi penguasa", "Karena bahasa malaikat terlalu rumit untuk diterjemahkan oleh manusia biasa"],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "question": "Di tengah hiruk-pikuk kehidupan modern yang penuh tekanan, apa dampak positif psikologis dari membaca Al-Qur'an setiap hari?",
+    "options": ["Menghipnotis diri agar melupakan kewajiban duniawi", "Menambah referensi ilmiah untuk berdebat di media sosial", "Memberikan ketenangan hati (thumaninah) sekaligus asupan ilmu dari Sang Pencipta", "Menjamin seseorang pasti cepat kaya raya tanpa perlu bekerja keras"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Menghormati kitab suci adalah bentuk adab. Alasan teologis utama mengapa kita harus menghormatinya adalah...",
+    "options": ["Karena dicetak menggunakan kertas dan tinta yang sangat mahal", "Karena kitab suci tersebut memuat sejarah para raja dan penguasa masa lalu", "Karena ia bukan sekadar buku, melainkan kumpulan firman suci yang berasal langsung dari Allah", "Agar kita dipandang sebagai orang yang berbudaya tinggi"],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Bagaimana internalisasi iman kepada kitab Allah memengaruhi cara dan etika berbicara seseorang?",
+    "options": ["Ia akan menggunakan bahasa yang sulit dimengerti untuk menunjukkan kedalaman ilmunya", "Membuatnya selalu menjaga ucapan dengan baik karena Al-Qur'an melarang ghibah dan perkataan sia-sia", "Ia akan menjadi sangat pendiam dan menolak berbicara dengan orang lain", "Ia merasa berhak menghakimi orang lain dengan mengutip ayat sembarangan"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Al-Qur'an mengklaim dirinya sebagai 'Hudan' (petunjuk). Mengapa klaim ini sangat relevan bagi manusia lintas zaman?",
+    "options": ["Karena berisi aturan hidup yang absolut dan kebenaran yang tidak bisa diintervensi oleh bias hawa nafsu manusia", "Karena Al-Qur'an selalu berubah-ubah isinya menyesuaikan tren budaya masyarakat", "Karena berisi resep medis untuk menyembuhkan segala macam penyakit fisik", "Karena hanya Al-Qur'an yang menjelaskan letak harta karun tersembunyi"],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "Apa kaitan antara iman kepada kitab Allah dengan peningkatan budaya disiplin dalam sebuah komunitas?",
+    "options": ["Kitab Allah memberikan sanksi denda finansial langsung bagi yang tidak disiplin", "Kitab Allah mengajarkan manajemen waktu, ketertiban, dan tanggung jawab ibadah yang berimbas pada disiplin sosial", "Karena dengan membaca kitab, seseorang tidak perlu lagi tidur sehingga punya banyak waktu", "Orang beriman tidak butuh kedisiplinan karena semua sudah ditakdirkan"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Banyak larangan dalam Al-Qur'an yang terasa membatasi kebebasan manusia. Analisis HOTS untuk menyikapi larangan ini adalah...",
+    "options": ["Larangan tersebut adalah bukti bahwa Islam mengekang kreativitas manusia", "Karena larangan dari Allah sejatinya bertujuan menjaga manusia dari kerusakan dan keburukan yang lebih besar", "Larangan itu hanya berlaku untuk masyarakat Arab zaman dahulu", "Larangan dibuat agar manusia merasa hidupnya selalu dipersulit"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Upaya paling konkret untuk menaikkan level keimanan terhadap kitab Allah dari sekadar 'yakin' menjadi 'yakin dan paham' adalah...",
+    "options": ["Menyimpan Al-Qur'an terjemahan di perpustakaan tanpa pernah disentuh", "Dengan rajin membaca teksnya, mempelajari tafsirnya, dan berdiskusi dengan para ahli ilmu", "Berdebat keras dengan teman tentang perbedaan terjemahan", "Membeli mushaf Al-Qur'an dengan harga paling mahal sebagai koleksi"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Kitab Zabur secara spesifik diturunkan kepada Nabi Daud as. Fungsi utamanya pada masa itu adalah...",
+    "options": ["Sebagai pedoman hukum pidana yang sangat keras bagi Bani Israil", "Sebagai pedoman tauhid, zikir, dan nasihat bagi umat Nabi Daud", "Untuk menghapus syariat Nabi Musa secara keseluruhan", "Sebagai literatur sastra dan musik untuk hiburan semata"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Meskipun umat Islam hanya berpedoman pada Al-Qur'an, apa hikmah teologis mempercayai kitab-kitab Allah yang turun sebelumnya?",
+    "options": ["Menambah keyakinan bahwa Allah tidak pernah meninggalkan hamba-Nya dan selalu memberi petunjuk kepada setiap umat di masanya", "Agar umat Islam bisa mencampuradukkan syariat berbagai agama", "Sebagai syarat untuk bisa memprediksi datangnya kiamat", "Untuk membuktikan bahwa kitab terdahulu semuanya salah sejak awal diturunkan"],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "question": "Mengapa sekadar rajin bertilawah (membaca) Al-Qur'an dianggap belum cukup jika tidak diiringi dengan implementasi (mengamalkan)?",
+    "options": ["Karena membaca Al-Qur'an tidak menghasilkan pahala sama sekali", "Karena tujuan utama diturunkannya Al-Qur'an adalah menjadi pedoman operasional hidup (way of life), bukan sekadar bacaan ritual", "Karena membaca Al-Qur'an bisa merusak pita suara jika terlalu sering", "Karena mengamalkan Al-Qur'an akan mendatangkan pujian dari pemerintah"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Salah satu fungsi Al-Qur'an adalah sebagai Al-Furqan (pembeda). Bagaimana fungsinya ini dapat mengurangi perilaku buruk di masyarakat?",
+    "options": ["Dengan memisahkan masyarakat berdasarkan kelas sosial dan kekayaan", "Karena kitab Allah memberikan parameter yang sangat jelas antara akhlak baik dan buruk sehingga manusia punya rem moral", "Dengan memberikan hukuman penjara gaib bagi pelakunya", "Karena Al-Qur'an hanya berfokus menceritakan siksa neraka tanpa solusi"],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Al-Qur'an diklaim relevan sepanjang zaman (shalihun likulli zaman wa makan). Bukti rasional dari klaim ini adalah...",
+    "options": ["Karena Al-Qur'an membahas secara detail cara merakit perangkat elektronik modern", "Karena prinsip-prinsip universal dan ajarannya mampu merespon dan sesuai dengan dinamika kemanusiaan di segala era", "Karena teks Al-Qur'an selalu berubah sendirinya mengikuti tren", "Karena bahasa Arab digunakan oleh semua manusia di seluruh benua"],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Bagaimana korelasi kuat antara iman kepada kitab Allah dengan kesadaran akan tanggung jawab pribadi?",
+    "options": ["Kitab Allah menegaskan bahwa manusia bisa melempar kesalahannya kepada setan", "Kitab Allah mengajarkan bahwa setiap perbuatan manusia terikat oleh hukum sebab-akibat yang harus dipertanggungjawabkan di akhirat", "Kitab Allah menjamin semua dosa pasti dimaafkan tanpa syarat", "Tanggung jawab hanya dipikul oleh para ulama dan pemimpin agama"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Fakta bahwa Al-Qur'an adalah wahyu murni dari Allah, bukan karangan Nabi Muhammad saw, didasarkan pada keyakinan bahwa...",
+    "options": ["Nabi Muhammad sering menjiplak kitab-kitab peradaban Yunani Kuno", "Al-Qur'an diturunkan mutlak melalui perantara malaikat Jibril dan mengandung kebenaran tak tertandingi dari Sang Pencipta", "Al-Qur'an disusun oleh dewan cendekiawan Arab masa lalu", "Nabi Muhammad memimpikan semua ayat Al-Qur'an secara acak"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Banyak ayat Al-Qur'an yang membahas tentang ujian hidup. Bagaimana iman terhadap ayat-ayat ini membentuk sikap sabar yang aktif?",
+    "options": ["Membuat manusia pasrah total tanpa mau mencari solusi dari masalahnya", "Karena Al-Qur'an mengajarkan bahwa ujian adalah sarana kenaikan derajat, sehingga kesabaran memicu usaha mencari jalan keluar", "Sabar berarti memendam amarah dan merusak diri sendiri secara diam-diam", "Sabar diajarkan agar manusia tidak pernah menuntut haknya yang dirampas"],
+    "answer": 1
+  },
+  {
+    "id": 27,
+    "question": "Kedudukan Kitab Taurat dalam lintasan sejarah kenabian sangatlah penting karena...",
+    "options": ["Taurat adalah kitab pertama yang diturunkan kepada umat manusia sebelum banjir Nuh", "Taurat menjadi konstitusi dan pedoman hukum (syariat) yang komprehensif bagi Nabi Musa dan seluruh Bani Israil di masanya", "Taurat memuat tata cara ibadah haji yang digunakan hingga saat ini", "Taurat ditulis langsung oleh Nabi Musa menggunakan bahasa Mesir Kuno"],
+    "answer": 1
+  },
+  {
+    "id": 28,
+    "question": "Kebebasan manusia untuk mengabaikan petunjuk kitab Allah adalah sebuah fakta empiris. Namun, dampak negatif dari pengabaian ini adalah...",
+    "options": ["Manusia akan terhindar dari aturan yang mengikat dan hidup sangat bahagia", "Masyarakat akan menciptakan surga duniawinya sendiri tanpa campur tangan agama", "Manusia kehilangan kompas moral dan sangat mudah terjerumus dalam kesalahan serta kekacauan nilai", "Tuhan akan langsung mencabut nyawa semua orang yang menolak kitab-Nya"],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "question": "Mengapa aktivitas membaca (tilawah) Al-Qur'an, meskipun belum memahami artinya, tetap diklasifikasikan sebagai ibadah yang berpahala besar?",
+    "options": ["Karena membaca teks Arab dianggap sebagai bentuk latihan vokal yang sehat", "Karena setiap huruf yang dibaca dari firman Allah mengandung nilai pahala mutlak sebagai bentuk interaksi dengan Sang Pencipta", "Agar umat Islam terlihat sibuk dan tidak punya waktu luang untuk hal lain", "Karena membaca adalah satu-satunya syarat mutlak untuk masuk surga"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Algoritma media sosial memicu perdebatan panas dan ujaran kebencian. Bagaimana iman kepada kitab Allah menjadi filter bagi seorang Muslim di dunia maya?",
+    "options": ["Membuatnya ikut berdebat panas asalkan menggunakan dalil agama untuk menyerang", "Membuat seseorang lebih bijak, menjaga adab, dan sopan karena sadar larangan menyakiti hati sesama", "Membuatnya meretas akun orang yang tidak disukai dengan niat dakwah", "Menjauhkan diri dari media sosial karena menganggap teknologi itu haram"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Menjaga adab, kesucian (wudhu), dan tempat saat membaca Al-Qur'an adalah syariat. Apa landasan filosofis dari aturan adab ini?",
+    "options": ["Karena Al-Qur'an adalah representasi fisik dari kebesaran Tuhan yang harus diperlakukan dengan penuh penghormatan", "Agar terhindar dari kuman dan penyakit yang menempel pada buku", "Untuk mempersulit orang awam agar tidak sembarangan membaca", "Sebagai tradisi budaya Timur Tengah yang diadopsi ke dalam Islam"],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "Rasa bersyukur (qana'ah) seringkali luntur karena gaya hidup konsumtif. Bagaimana kitab Allah mengembalikan rasa syukur tersebut?",
+    "options": ["Dengan menanamkan pemahaman bahwa membandingkan rezeki dengan orang lain adalah kunci kesuksesan", "Kitab Allah memberikan rumus ekonomi untuk segera menjadi kaya", "Kitab Allah memetakan hakikat kehidupan dunia yang fana dan mengajarkan cara meresapi nikmat sekecil apa pun", "Dengan mewajibkan manusia memberikan seluruh hartanya kepada fakir miskin"],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Kitab Injil yang asli diturunkan kepada Nabi Isa as. dengan tujuan dan konteks sejarah berupa...",
+    "options": ["Membatalkan seluruh hukum yang ada di dalam Kitab Taurat secara total", "Sebagai petunjuk kebenaran bagi umat Nabi Isa dan meluruskan beberapa penyimpangan kaum Bani Israil saat itu", "Sebagai doktrin politik untuk melawan Kekaisaran Romawi", "Untuk disebarkan kepada seluruh umat manusia di penjuru dunia pada masa itu"],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Sombong (takabur) adalah penyakit hati yang berbahaya. Bagaimana iman kepada kitab Allah dapat mereduksi sifat ini menjadi kerendahan hati (tawadhu)?",
+    "options": ["Karena ia sadar bahwa semua ilmu, harta, dan kelebihan pada dasarnya adalah titipan yang diuraikan batasannya dalam kitab Allah", "Karena dengan membaca kitab, ia merasa jauh lebih pintar namun pura-pura merendah", "Karena sombong akan membuatnya ditolak bekerja di instansi pemerintahan", "Karena kitab Allah memberikan mantra pelemah ingatan agar manusia lupa kelebihannya"],
+    "answer": 0
+  },
+  {
+    "id": 35,
+    "question": "Al-Qur'an diakui sebagai mukjizat terbesar (Khatamul Mu'jizat) Nabi Muhammad saw. Sisi kemukjizatan utamanya terletak pada...",
+    "options": ["Kemampuannya mengubah benda mati menjadi emas murni", "Keindahan susunan sastra, kedalaman makna, dan ketiadaan kontradiksi ilmiah yang tidak mampu ditandingi oleh manusia mana pun", "Lembaran mushaf aslinya tidak bisa terbakar oleh api yang sangat besar", "Bentuk fisiknya yang bisa bercahaya di dalam kegelapan malam"],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Pendidikan Al-Qur'an sangat ditekankan sejak usia dini (golden age). Apa alasan psikologis dan teologis yang mendasarinya?",
+    "options": ["Agar anak bisa memenangkan perlombaan MTQ dan mendapatkan banyak hadiah", "Karena hafalan pada usia dini sangat kuat dan mampu membentuk karakter islami (worldview) sebelum terpengaruh lingkungan eksternal", "Untuk mengurangi waktu bermain anak yang tidak bermanfaat", "Agar orang tua bisa melepaskan tanggung jawab mendidik anak kepada guru ngaji"],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Paradigma menjadikan Al-Qur'an sebagai pedoman hidup seringkali bertabrakan dengan ideologi sekuler. Argumentasi paling rasional mengapa Muslim bertahan pada Al-Qur'an adalah...",
+    "options": ["Karena sekularisme selalu berujung pada kebangkrutan ekonomi negara", "Karena Al-Qur'an menyajikan desain kehidupan (way of life) dari Sang Pencipta yang paling memahami mekanisme kebahagiaan hamba-Nya", "Karena umat Islam dipaksa oleh doktrin sejarah masa lampau", "Karena Al-Qur'an menolak semua produk teknologi buatan Barat"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Polarisasi dan perpecahan sering terjadi akibat perbedaan pendapat. Bagaimana iman kepada kitab Allah menawar ego perpecahan dan menjaga persatuan?",
+    "options": ["Karena Al-Qur'an mewajibkan semua orang memiliki pemikiran yang identik tanpa perbedaan", "Dengan mengharuskan kelompok minoritas tunduk sepenuhnya tanpa syarat", "Karena Al-Qur'an mengajarkan ukhuwah (persaudaraan), toleransi, dan larangan bercerai-berai sebagai prinsip utama", "Karena kitab Allah memberikan hak bagi mayoritas untuk menindas kelompok yang berbeda"],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Membaca Al-Qur'an dengan tartil (perlahan dan sesuai tajwid) sangat diperintahkan, padahal membaca cepat bisa menyelesaikan banyak juz. Mengapa tartil lebih utama?",
+    "options": ["Karena membaca dengan cepat akan merusak pita suara pembacanya", "Agar bacaan tersebut memenuhi kaidah yang benar sehingga hati memiliki ruang untuk meresapi dan mentadaburi makna ayat", "Agar orang yang mendengar merasa kagum dengan suara sang qari", "Karena membaca cepat dianggap sebagai tradisi dari luar Islam"],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "Etos kejujuran dalam berbisnis semakin langka. Apa perisai utama bagi pedagang Muslim yang beriman kepada kitab Allah?",
+    "options": ["Rasa takut ketahuan oleh dinas perdagangan dan dikenakan pajak besar", "Kesadaran penuh bahwa Al-Qur'an secara eksplisit memerintahkan kejujuran dan mengancam keras para pengurang timbangan", "Menjadi jujur hanya saat berhadapan dengan konsumen kaya raya", "Kejujuran dilakukan semata-mata sebagai strategi marketing agar dagangan laris"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Sejarah mencatat Al-Qur'an tidak diturunkan sekaligus, melainkan berangsur-angsur (mutawatir) selama kurang lebih 23 tahun. Apa hikmah psikologis dari metode ini?",
+    "options": ["Karena malaikat Jibril membutuhkan waktu istirahat yang panjang", "Agar hukum dan ajaran dapat diinternalisasi, dipahami, dan diamalkan secara bertahap sesuai kesiapan mental masyarakat", "Agar kertas papirus yang digunakan untuk mencatat tidak cepat habis", "Untuk menunda-nunda kemenangan umat Islam pada masa itu"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Kecerdasan emosional (EQ) seperti kesabaran dan pengendalian diri sangat dibentuk oleh interaksi dengan Al-Qur'an. Proses ini terjadi karena...",
+    "options": ["Al-Qur'an memiliki frekuensi suara yang secara magis mematikan saraf amarah", "Al-Qur'an banyak menyajikan kisah inspiratif tentang kesabaran para nabi yang membentuk pola pikir tangguh saat menghadapi krisis", "Orang yang sedang marah akan seketika jatuh pingsan jika membaca Al-Qur'an", "Al-Qur'an memerintahkan manusia untuk menghindari semua masalah kehidupan"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "Mengapa rukun iman mengharuskan seorang Muslim untuk mempercayai eksistensi *semua* kitab Allah, bukan hanya Al-Qur'an?",
+    "options": ["Karena semuanya bersumber dari Dzat yang sama (Allah) sebagai rantai wahyu yang saling membenarkan asal-usul Ilahiahnya", "Karena umat Islam diwajibkan untuk mengamalkan seluruh syariat dari keempat kitab tersebut secara bersamaan", "Sebagai syarat untuk bisa berdialog dengan pemeluk agama samawi lainnya", "Karena sejarah Islam baru diakui jika digabungkan dengan sejarah agama lain"],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "Al-Qur'an memuat banyak porsi untuk kisah-kisah umat dan para nabi terdahulu (Qashashul Qur'an). Pendekatan HOTS dalam memaknai kisah ini adalah...",
+    "options": ["Sebagai buku dongeng pengantar tidur bagi anak-anak agar mereka cepat terlelap", "Sebagai hiburan sejarah untuk melupakan kerasnya realitas kehidupan", "Sebagai refleksi dan teladan (ibrah) untuk menganalisis pola kebangkitan dan keruntuhan peradaban akibat ketaatan atau keingkaran", "Hanya sebagai pelengkap agar halaman Al-Qur'an menjadi tebal dan panjang"],
+    "answer": 2
+  },
+  {
+    "id": 45,
+    "question": "Fitnah (hoaks/pembunuhan karakter) dilarang keras dalam Al-Qur'an bahkan disamakan kekejamannya dengan pembunuhan fisik. Mengapa demikian?",
+    "options": ["Karena fitnah hanya bisa dilakukan oleh orang-orang yang memiliki akses media massa", "Karena fitnah mencederai kehormatan, memicu eskalasi konflik berdarah, dan membawa kerusakan tatanan sosial yang masif", "Karena fitnah akan langsung membuat pelakunya menjadi miskin harta", "Karena pelaku fitnah biasanya tidak pernah merasa bersalah sama sekali"],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Sikap individualis semakin menguat di perkotaan. Bagaimana iman kepada kitab Allah menjadi antitesis (lawan) bagi fenomena sosial ini?",
+    "options": ["Karena kitab Allah secara intensif menanamkan nilai kepedulian, kewajiban zakat, dan tolong-menolong (ta'awun) antar sesama", "Karena Al-Qur'an memerintahkan umat Islam untuk membuat komunitas eksklusif di pinggiran kota", "Karena membaca kitab Allah memaksa orang untuk selalu berkumpul di jalan raya", "Al-Qur'an sebenarnya juga mendukung kehidupan individualis agar fokus ibadah pribadi"],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "question": "Gelar 'Rahmatan lil 'Alamin' (rahmat bagi seluruh alam) yang melekat pada ajaran Al-Qur'an bermakna bahwa...",
+    "options": ["Hanya umat Islam yang berhak menikmati kekayaan sumber daya alam di bumi", "Ajarannya membawa keseimbangan, kebaikan, dan perlindungan ekosistem yang bermanfaat bagi seluruh manusia, flora, dan fauna", "Al-Qur'an akan secara otomatis menghapus semua bencana alam di dunia", "Hanya bangsa Arab yang mendapatkan keistimewaan keselamatan di akhirat"],
+    "answer": 1
+  },
+  {
+    "id": 48,
+    "question": "Krisis kepercayaan (trust issue) melanda institusi modern akibat hilangnya sifat amanah. Bagaimana Al-Qur'an mendidik sifat amanah ini?",
+    "options": ["Dengan ancaman hukuman rajam bagi setiap pelanggar janji sekecil apa pun", "Dengan mengaitkan penjagaan kepercayaan (amanah) secara langsung terhadap validitas keimanan seseorang", "Dengan menyarankan pembuatan kontrak kerja beratus-ratus halaman yang rumit", "Karena orang yang tidak amanah akan dihukum oleh masyarakat secara main hakim sendiri"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Selain membaca terjemahan, umat Islam sangat dianjurkan mempelajari 'Tafsir' Al-Qur'an. Peran esensial ilmu tafsir adalah...",
+    "options": ["Untuk mencari celah agar hukum Islam bisa disesuaikan dengan keinginan hawa nafsu", "Agar mampu menyalahkan terjemahan yang dibuat oleh penerbit lain", "Untuk menggali asbabun nuzul (konteks turunnya ayat) dan memahami makna komprehensif yang sesuai dengan maksud Allah", "Sebagai syarat untuk bisa memimpin doa dalam acara-acara formal kenegaraan"],
+    "answer": 2
+  },
+  {
+    "id": 50,
+    "question": "Fluktuasi (naik-turunnya) iman adalah hal yang wajar. Namun, iman kepada kitab Allah diyakini mampu memperkuat fondasi keimanan karena...",
+    "options": ["Dengan membacanya, seseorang akan kebal terhadap semua penyakit fisik penurun imun", "Karena kitab Allah memberikan parameter yang rasional dan sentuhan emosional yang mengikat hati manusia lebih dekat dengan ajaran Tuhannya", "Karena Al-Qur'an mengandung rapalan ajaib yang langsung menghilangkan keraguan", "Seseorang yang memegang Al-Qur'an akan ditakuti oleh jin dan setan secara otomatis"],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Ilmu Tajwid mengatur makhraj (tempat keluar huruf) dan panjang-pendek bacaan Al-Qur'an. Mengapa kesalahan tajwid dianggap fatal secara substansial?",
+    "options": ["Karena suara pembaca menjadi tidak merdu saat didengarkan", "Karena bisa memicu perubahan drastis pada makna dan arti ayat yang berujung pada penyimpangan pesan Allah", "Karena menyalahi tradisi seni tarik suara masyarakat Timur Tengah", "Karena akan mengurangi nilai estetika jika direkam dalam kaset atau digital"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Sinkretisme (pencampuran agama) dilarang dalam Islam. Lalu apa batasan sikap umat Islam saat mengimani kitab Zabur, Taurat, dan Injil?",
+    "options": ["Hanya mengimani eksistensi historisnya sebagai wahyu Allah di masa lalu, namun syariat dan hukumnya telah dinasakh (dihapus/diganti) oleh Al-Qur'an", "Mengamalkan semua syariat yang ada di dalam keempat kitab tersebut secara bersamaan", "Menolak keberadaan kitab-kitab tersebut karena dianggap fiksi sejarah semata", "Mempelajari ritual ibadah kitab-kitab tersebut untuk dipraktikkan secara bergantian"],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Pemisahan antara hukum positif negara dan hukum agama sering diperdebatkan. Bagi seorang Muslim, mengapa Al-Qur'an tetap menjadi sumber hukum tertinggi (Supreme Law)?",
+    "options": ["Karena hukum buatan manusia selalu bertujuan untuk menindas rakyat kecil", "Karena Al-Qur'an berasal dari Dzat Yang Maha Mengetahui karakter ciptaan-Nya sehingga keadilannya bersifat mutlak", "Karena Al-Qur'an sudah mencakup seluruh undang-undang lalu lintas secara rinci", "Karena hukum peradilan Barat tidak pernah memberikan keadilan sama sekali"],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "Arogansi intelektual sering menimpa orang-orang berilmu tinggi. Bagaimana iman kepada kitab Allah mengeliminasi kecenderungan sombong ini?",
+    "options": ["Kitab Allah mengancam akan mencabut nyawa orang berilmu secara mendadak", "Kitab Allah mengingatkan bahwa 'di atas orang yang berilmu ada Yang Maha Mengetahui', menanamkan sikap rendah hati betapapun hebatnya akal manusia", "Karena orang sombong biasanya tidak bisa membaca tulisan berbahasa Arab", "Kitab Allah melarang manusia menempuh pendidikan yang terlalu tinggi"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Adab menghormati orang yang sedang melantunkan ayat Al-Qur'an (mendengarkan dan diam) didasarkan pada kesadaran ontologis bahwa...",
+    "options": ["Suara orang tersebut sedang dinilai untuk sebuah kompetisi berhadiah", "Hal tersebut merupakan etika dasar saat mendengarkan pertunjukan musik", "Yang sedang dibacakan adalah orasi firman penguasa alam semesta (Allah), sehingga menuntut konsentrasi dan pengagungan dari pendengarnya", "Berbicara saat orang mengaji akan langsung memicu penyakit tuli permanen"],
+    "answer": 2
+  },
+  {
+    "id": 56,
+    "question": "Stigma bahwa agama menghambat kemajuan sains berhasil dipatahkan oleh Al-Qur'an. Hubungan riil antara Al-Qur'an dengan etos/semangat belajar adalah...",
+    "options": ["Al-Qur'an melarang manusia mempelajari ilmu sains seperti astronomi dan kedokteran", "Al-Qur'an dipenuhi dengan ayat-ayat yang menantang akal manusia untuk melakukan riset, observasi alam, dan menggunakan daya pikir kritisnya", "Al-Qur'an telah menyediakan semua rumus matematika sehingga manusia tidak perlu belajar lagi", "Al-Qur'an hanya berfokus pada ritus ibadah shalat dan puasa tanpa menyinggung ilmu pengetahuan"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Pemilihan bahasa Arab sebagai bahasa pengantar Al-Qur'an sering dipertanyakan secara geopolitik. Jawaban historis dan teologisnya adalah...",
+    "options": ["Karena bahasa Arab memiliki struktur kosakata paling sedikit sehingga mudah dihafal", "Karena bahasa Arab tidak memiliki variasi dialek sama sekali di seluruh dunia", "Karena rasul yang menerimanya (Nabi Muhammad saw) berada di tengah bangsa Arab, dan bahasa ini memiliki presisi sastra yang luar biasa untuk menampung makna wahyu", "Agar seluruh manusia di bumi dipaksa menjadi warga negara jazirah Arab"],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "question": "Manajemen ibadah (seperti shalat lima waktu) membentuk karakter manusia. Bagaimana peran kitab Allah dalam mencetak kedisiplinan ibadah ini?",
+    "options": ["Al-Qur'an hanya memberikan anjuran umum tanpa mengikat waktu pelaksanaannya", "Al-Qur'an secara eksplisit menggarisbawahi bahwa shalat adalah kewajiban yang telah ditentukan waktu-waktunya secara ketat (mawquta)", "Al-Qur'an memberikan kebebasan untuk menggabungkan semua shalat di akhir pekan", "Kedisiplinan ibadah semata-mata diatur oleh konsensus ijtihad ulama modern"],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Mengapa kebersihan fisik dan kebersihan hati (niat yang lurus) dijadikan pra-syarat fundamental dalam berinteraksi dengan isi Al-Qur'an?",
+    "options": ["Agar fisik terlihat segar saat difoto sedang membaca Al-Qur'an", "Karena hati yang tertutup oleh niat buruk atau maksiat akan terhalang (hijab) dari kemampuan meresapi hidayah dan kedalaman makna ayat", "Untuk menghindari denda dari pengurus masjid jika memegang mushaf saat kotor", "Karena Al-Qur'an sangat sensitif terhadap debu dan kotoran udara"],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "Hafizh (penghafal Al-Qur'an) memiliki kedudukan istimewa. Esensi utama dan hikmah dari aktivitas menghafal (Hifdzul Qur'an) adalah...",
+    "options": ["Menjadikan teks Al-Qur'an menyatu dalam pikiran dan hati sebagai sistem operasi internal yang otomatis membimbing langkah hidup harian", "Agar bisa tampil di televisi nasional dan mendapatkan hadiah umroh gratis", "Sebagai syarat mutlak untuk bisa menjadi presiden atau menteri agama", "Untuk sekadar memecahkan rekor hafalan memori tanpa perlu memahami isinya"],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "Iri hati (hasad) diibaratkan seperti api yang memakan kayu bakar. Bagaimana Al-Qur'an mendekonstruksi penyakit psikologis ini?",
+    "options": ["Dengan melegalkan persaingan yang saling menjatuhkan dalam urusan harta benda", "Dengan mengajarkan bahwa rezeki telah dibagi secara adil oleh Allah sesuai kapasitas, sehingga iri hanya akan merusak persaudaraan dan keimanan", "Al-Qur'an menyarankan penderita iri hati untuk membalas dendam secara elegan", "Dengan menyuruh manusia untuk berhenti berinteraksi sosial selamanya"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Implementasi kitab Allah tidak hanya dalam ranah ritual, tapi juga disiplin sosial. Karakter disiplin ini terbentuk karena...",
+    "options": ["Kitab Allah mendikte jadwal harian secara kaku dari bangun tidur hingga tidur lagi", "Orang beriman takut didiskriminasi jika tidak mematuhi norma sosial masyarakat", "Kitab Allah memupuk rasa tanggung jawab yang tinggi (amanah) terhadap setiap peran dan tugas kemanusiaan yang diemban", "Disiplin akan mendatangkan penghargaan berupa sertifikat dan piala"],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "question": "Dikotomi antara 'teori' dan 'praktik' sangat ditentang dalam Islam. Mengapa mempraktikkan ajaran Al-Qur'an merupakan esensi tertinggi dari keimanan?",
+    "options": ["Karena teori hanya diperuntukkan bagi mahasiswa di kampus Islam", "Karena tanpa praktik nyata, klaim keimanan hanyalah ilusi; praktik adalah manifestasi bahwa hidupnya sejalan dengan kompas petunjuk Allah", "Agar orang lain dapat memuji kita sebagai aktivis agama yang sibuk", "Karena mempraktikkan Al-Qur'an akan membuat kita dihormati politisi"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Pesimisme dan gangguan kecemasan (anxiety) dapat diredam dengan internalisasi Al-Qur'an. Hubungan kausalitasnya terletak pada...",
+    "options": ["Al-Qur'an menyodorkan narasi harapan, konsep tawakal, dan jaminan rahmat Allah yang memantik optimisme di tengah kebuntuan krisis", "Al-Qur'an memberikan ramuan herbal penenang saraf yang bisa diracik sendiri", "Al-Qur'an menyarankan pengikutnya untuk lari dari kenyataan dan bersembunyi", "Orang pesimis tidak diizinkan untuk membaca Al-Qur'an sama sekali"],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "Intensitas membaca Al-Qur'an sering ditingkatkan pada momen tertentu, misalnya Ramadhan. Motivasi utamanya secara spiritual adalah...",
+    "options": ["Untuk menamatkan bacaan lebih cepat dari tetangga sebelah rumah", "Karena akumulasi pahala yang dijanjikan berlipat ganda serta memperkaya wawasan spiritual sebagai investasi akhirat", "Untuk memamerkan kualitas pita suara kepada jamaah masjid lainnya", "Karena pada bulan tersebut tidak ada aktivitas lain yang bisa dikerjakan"],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "question": "Kata-kata kasar (bullying verbal) semakin dinormalisasi. Bagaimana iman kepada kitab Allah bertindak sebagai 'filter lisan'?",
+    "options": ["Karena Al-Qur'an secara kategoris melarang perkataan buruk (kecuali bagi yang terzalimi) dan mengedepankan etika Qaulan Karima (ucapan mulia)", "Membuat seseorang hanya berbicara menggunakan bahasa isyarat untuk aman", "Karena berkata buruk akan membuat gigi cepat berlubang", "Al-Qur'an membolehkan bullying asalkan ditujukan untuk memotivasi korban"],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "question": "Sikap zalim (eksploitatif) sangat dibenci dalam tatanan sosial Islam. Alasan teologis mengapa Al-Qur'an memerangi kezaliman adalah...",
+    "options": ["Karena kezaliman hanya merugikan para bangsawan dan penguasa elit", "Karena kezaliman merusak pilar keadilan (Al-Adl) yang diperintahkan Allah dan memicu kerugian kolektif pada hakikat kemanusiaan", "Agar masyarakat tidak pernah melakukan demonstrasi jalanan", "Kezaliman diperbolehkan asalkan pelakunya bersedekah setelahnya"],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "Hukum syariat (Fikih) berhulu dari Al-Qur'an. Hikmah paling pragmatis mempelajari dimensi hukum dalam Al-Qur'an bagi Muslim awam adalah...",
+    "options": ["Agar mampu berdebat layaknya seorang pengacara di pengadilan agama", "Untuk menemukan celah hukum agar terbebas dari kewajiban berzakat", "Agar mampu menjalani navigasi kehidupan (ekonomi, sosial, keluarga) yang sah dan sesuai dengan kerangka ridha (syariat) Allah", "Untuk menghakimi dan menyalah-nyalahkan ibadah kelompok masyarakat lain"],
+    "answer": 2
+  },
+  {
+    "id": 69,
+    "question": "Gelar Al-Qur'an sebagai 'Lautan Ilmu Pengetahuan' dibuktikan oleh...",
+    "options": ["Ketebalan halamannya yang mengalahkan ensiklopedia terbesar di dunia", "Fakta bahwa ia memuat rumus-rumus fisika nuklir secara eksplisit", "Kandungan prinsip-prinsip sains, hikmah sejarah, regulasi sosial, dan pelajaran kehidupan yang terus terbukti seiring majunya peradaban akal", "Karena ia adalah satu-satunya buku yang dicetak menggunakan bahasa Arab"],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "Kepedulian sosial (filantropi Islam) bersumber dari perintah Al-Qur'an. Bagaimana proses internalisasi ini terjadi?",
+    "options": ["Dengan ancaman bahwa orang bakhil akan diubah menjadi batu bersinar", "Karena kitab Allah secara sistematis mendikte umatnya untuk membebaskan manusia lain dari belenggu kemiskinan dan ketidakadilan sebagai wujud ibadah nyata", "Dengan memaksa orang kaya menyerahkan seluruh properti pribadinya ke kas negara", "Karena kepedulian sosial adalah tren global yang disponsori PBB"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Memulai tilawah dengan Ta'awudz dan Basmalah adalah protap ibadah. Tujuan esoteris (kebatinan) dari rutinitas ini adalah...",
+    "options": ["Untuk memperpanjang durasi bacaan agar terlihat lebih lama", "Sebagai deklarasi permohonan perlindungan dari distraksi setan dan memohon keberkahan ilmu sebelum menyelami samudra firman Allah", "Agar suara menjadi lebih lantang dan bergema di dalam ruangan", "Karena Basmalah adalah syarat sah untuk menghindari denda finansial masjid"],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Miskonsepsi bahwa Islam tidak toleran sering kali dituduhkan. Praktik toleransi sejati yang diajarkan dalam kitab Allah adalah...",
+    "options": ["Mencampuradukkan ritual ibadah antar agama agar terlihat rukun", "Membiarkan semua aturan agama dilanggar demi menyenangkan kelompok minoritas", "Saling menghormati batasan akidah (lakum diinukum wa liya diin) tanpa paksaan, sambil tetap menjaga muamalah (hubungan sosial) yang harmonis", "Mengisolasi diri di hutan agar tidak bersinggungan dengan pemeluk agama lain"],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "question": "Fenomena 'penghafal yang tidak mengamalkan' adalah kritik sosial dalam keagamaan. Mengapa memperhatikan isi (kandungan) jauh lebih ditekankan daripada sekadar kuantitas hafalan?",
+    "options": ["Karena menghafal akan menyebabkan kelelahan otak secara klinis", "Karena tujuan akhir (ultimate goal) turunnya wahyu adalah transformasi perilaku dan karakter hidup, yang mana itu butuh pemahaman, bukan sekadar memori", "Karena hafalan tidak akan diakui dalam kompetisi tingkat internasional", "Karena orang yang hafal biasanya menjadi sangat sombong dan angkuh"],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "Circle pergaulan toxic (buruk) sangat merusak mental remaja. Bagaimana kompas kitab Allah membimbing untuk menghindari masalah ini?",
+    "options": ["Dengan melarang umat Islam berteman dengan siapa pun di luar anggota keluarganya", "Karena Al-Qur'an mendikte metodologi memilih lingkungan yang baik (biah shalihah) agar karakter keimanan tidak terkontaminasi", "Dengan memerintahkan pindah ke negara Arab bagi yang mencari pergaulan baik", "Dengan mengizinkan pergaulan bebas asalkan diimbangi shalat malam"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Skeptisisme terhadap keaslian Al-Qur'an sering muncul dari pihak orientalis. Keyakinan Muslim terhadap orisinalitas ini didasarkan pada...",
+    "options": ["Tulisan tangan asli Nabi Muhammad yang disimpan rapat di museum", "Dogma buta yang tidak boleh dipertanyakan sama sekali dengan logika", "Jaminan tekstual dari Allah sendiri (Inna nahnu nazzalna dzikra...) yang didukung metodologi periwayatan hafalan mutawatir lintas generasi", "Karena buku fisiknya terbuat dari material yang anti-peluru dan anti-air"],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "Ritual membaca Al-Qur'an sebelum tidur (seperti surah Al-Mulk) bukan sekadar rutinitas penutup hari, melainkan berfungsi sebagai...",
+    "options": ["Obat tidur alami (insomnia) yang diakui secara medis oleh dokter Barat", "Sarana detoksifikasi spiritual, pengingat hari akhir, dan memberikan ketenangan hati (tranquility) sebelum menyerahkan kesadaran kepada Allah", "Cara instan untuk bermimpi bertemu dengan pahlawan masa lalu", "Ritual mistis untuk menolak maling fisik yang mencoba masuk rumah"],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Penghormatan terhadap guru Al-Qur'an (ulama/ustadz) memiliki kedudukan sentral dalam transmisi keilmuan Islam, sebab...",
+    "options": ["Guru Al-Qur'an memiliki kekuatan supranatural yang bisa mengutuk muridnya", "Karena mereka adalah mata rantai penyambung (sanad) yang mengantarkan pemahaman agama (waratsatul anbiya) secara otentik", "Untuk menghindari kutukan kegagalan akademik di sekolah umum", "Karena penghormatan kepada guru diwajibkan oleh dinas pendidikan daerah"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Fatalisme (sikap pasrah tanpa usaha) sering disalahartikan sebagai takdir. Bagaimana kitab Allah meluruskan hal ini menjadi etos pekerja keras?",
+    "options": ["Karena Al-Qur'an menegaskan bahwa nasib suatu kaum tidak akan berubah kecuali mereka berikhtiar mengubahnya sendiri (Ar-Ra'd: 11)", "Dengan mengancam akan menghapus pahala shalat bagi orang yang menganggur", "Karena Al-Qur'an memerintahkan manusia bekerja 24 jam sehari tanpa istirahat", "Dengan menjanjikan harta karun turun dari langit bagi yang berdiam diri"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Dampak psikologis perkataan kasar bisa melukai seumur hidup. Relevansi iman terhadap larangan berkata kasar (qaulan sadida) adalah...",
+    "options": ["Untuk menjaga pita suara agar tidak cedera", "Karena menyakiti hati saudaranya sama dengan melanggar hak asasi dan merusak simpul persaudaraan yang dijaga ketat oleh agama", "Agar tidak terjadi tawuran fisik yang merusak fasilitas umum", "Karena berkata kasar akan dikenakan pajak dosa oleh pemerintah negara Islam"],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "Kesadaran akan hisab (perhitungan amal) sangat memengaruhi pola hidup Mukmin. Bagaimana kitab Allah memupuk rasa takut konstruktif (khauf) ini?",
+    "options": ["Dengan mendetailkan ancaman balasan atas amal buruk dan janji ganjaran atas kebaikan, menciptakan rem kesadaran untuk tidak bermaksiat", "Dengan menakut-nakuti bahwa bumi akan ditabrak meteor besok pagi", "Dengan menyatakan bahwa semua orang tanpa terkecuali akan disiksa terlebih dahulu", "Karena rasa takut adalah satu-satunya emosi yang disukai oleh Tuhan"],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "Konflik horizontal sering diakibatkan sentimen kesukuan. Bagaimana Al-Qur'an memandu resolusi konflik dan menjaga persaudaraan?",
+    "options": ["Dengan memisahkan pemukiman masyarakat berdasarkan warna kulit dan ras", "Karena Al-Qur'an menegaskan ikatan akidah (Innamal mu'minuna ikhwah) melampaui sekat biologis, menjadikan seluruh Muslim bersaudara sebangsa seiman", "Dengan memerintahkan satu suku untuk mendominasi dan menindas suku lain", "Karena perpecahan dianggap sebagai hiburan yang sah dalam dinamika sosial"],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Kedamaian jiwa (inner peace) bukan sekadar hilangnya masalah, tapi stabilitas emosi. Bagaimana iman kepada kitab Allah membangun kedamaian ini?",
+    "options": ["Karena Al-Qur'an mengajarkan filosofi kasih sayang, pemaafan, dan penyerahan hasil akhir (tawakal) yang mengeliminasi kecemasan berlebih", "Dengan membaca mantra tertentu dari Al-Qur'an untuk membekukan pikiran", "Karena dengan beriman, seseorang dijamin bebas dari masalah ekonomi seumur hidup", "Dengan mengisolasi pikiran dari semua bentuk empati dan kasih sayang kepada orang lain"],
+    "answer": 0
+  },
+  {
+    "id": 83,
+    "question": "Berdoa setelah membaca Al-Qur'an diyakini mustajab (mudah terkabul). Analisis spiritual dari momentum doa ini adalah...",
+    "options": ["Agar bacaan yang salah otomatis dikoreksi oleh malaikat secara gaib", "Karena hati sedang dalam kondisi paling lembut dan terkoneksi dengan rahmat Allah setelah membaca firman-Nya, sehingga keberkahan ilmu menyertai doa", "Sebagai formalitas untuk menutup acara pengajian di lingkungan warga", "Karena jika tidak berdoa, pahala membaca akan dibatalkan"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Syarat rukun iman adalah percaya pada *semua* kitab samawi. Hikmah toleran dari keyakinan ini terhadap sejarah peradaban adalah...",
+    "options": ["Mengharuskan Muslim merayakan semua hari raya dari agama terdahulu", "Menambah kelonggaran untuk mempraktikkan syariat Taurat di era modern", "Menambah keyakinan akan benang merah wahyu Ilahi dan menghargai sejarah perjuangan nabi-nabi terdahulu dalam membawa misi tauhid", "Untuk mereduksi status Al-Qur'an agar setara dengan literatur fiksi sejarah"],
+    "answer": 2
+  },
+  {
+    "id": 85,
+    "question": "Asbabun Nuzul (sejarah latar belakang turunnya ayat) adalah ilmu wajib bagi mufassir. Rasionalitas perlunya ilmu ini adalah...",
+    "options": ["Agar ayat bisa diubah maknanya sesuai kepentingan penguasa", "Untuk mengetahui siapa nama penulis asli dari ayat tersebut", "Agar umat memahami konteks, ruang, dan waktu suatu kejadian sehingga penerapan hukumnya tepat dan tidak melenceng tekstual buta", "Hanya untuk menjawab soal kuis di sekolah Madrasah"],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "Durhaka kepada orang tua (Uququl Walidain) diharamkan. Bagaimana doktrin kitab Allah memosisikan bakti kepada orang tua secara struktural?",
+    "options": ["Menjadikannya opsi sukarela jika orang tua memiliki harta warisan", "Memposisikan bakti (Birrul Walidain) sejajar tepat di bawah perintah tauhid (menyembah Allah), membuktikan betapa krusialnya akhlak ini", "Mengharuskan anak patuh bahkan jika disuruh melakukan kesyirikan murni", "Hanya berlaku jika orang tua memberikan dukungan finansial penuh hingga dewasa"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Mentalitas pemalas dan 'kaum rebahan' bertabrakan dengan spirit Al-Qur'an. Landasan ideologis Al-Qur'an melawan kemalasan adalah...",
+    "options": ["Islam memandang kerja keras dan ikhtiar memajukan bumi sebagai bagian dari fungsi kekhalifahan (tugas manusia) yang bernilai ibadah", "Karena orang malas akan dikenakan cambuk oleh polisi syariat", "Islam menginstruksikan manusia untuk mengumpulkan harta tanpa henti siang dan malam", "Karena kemalasan akan menyebabkan kebotakan dini pada laki-laki"],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "Ilmu adalah cahaya. Hubungan antara iman kepada kitab Allah dengan sikap syukur atas ilmu pengetahuan termanifestasi dalam bentuk...",
+    "options": ["Memonopoli ilmu dan mematenkannya untuk meraup keuntungan pribadi maksimal", "Menyadari bahwa segala spektrum ilmu bersumber dari nikmat Allah, sehingga ilmu tersebut digunakan untuk kebermanfaatan umat", "Bersyukur dengan cara menyimpan buku-buku ilmiah di gudang agar tidak rusak", "Menganggap akal pribadinya setara dengan wahyu Ilahi"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Perbaikan kualitas (tahsin) bacaan Al-Qur'an dituntut dari setiap Mukmin. Mengapa usaha berkelanjutan ini sangat dihargai (berpahala)?",
+    "options": ["Karena Allah menilai proses (mujahadah) dan kesungguhan hamba dalam memuliakan dan melafalkan firman-Nya dengan benar", "Agar dapat mengintimidasi jamaah lain yang bacaannya masih terbata-bata", "Karena membaca dengan benar adalah syarat administratif menjadi warga negara Arab", "Untuk direkam dan dijual dalam bentuk kaset atau piringan hitam komersial"],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "question": "Perpecahan umat (firqah) mengancam kekuatan komunal. Bagaimana fiksasi iman terhadap Al-Qur'an menjadi jangkar (perekat) persatuan umat?",
+    "options": ["Dengan memaksakan satu interpretasi tunggal tanpa toleransi perbedaan cabang fiqih", "Karena Al-Qur'an menyerukan umat berpegang teguh pada 'Tali Allah' dan meninggalkan fanatisme golongan sempit demi ukhuwah", "Dengan mengharuskan umat Islam menggunakan pakaian seragam yang sama setiap hari", "Al-Qur'an sebenarnya tidak terlalu peduli dengan isu persatuan sosial"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Krisis integritas ditandai dengan maraknya kebohongan publik. Mengapa Al-Qur'an sangat keras memvonis perilaku kebohongan (kadzib)?",
+    "options": ["Karena kebohongan adalah akar keruntuhan kepercayaan (trust) yang merusak fondasi keadilan dan dicatat sebagai dosa kemunafikan", "Karena berbohong akan membuat pelakunya langsung kehilangan ingatan", "Kebohongan dilarang karena hanya penguasa yang boleh memanipulasi informasi", "Karena kebohongan menghabiskan kalori dan menyebabkan kelelahan otak"],
+    "answer": 0
+  },
+  {
+    "id": 92,
+    "question": "Dakwah (menyebarkan ajaran) tidak hanya tugas ulama. Hikmah mengajarkan Al-Qur'an (walau satu ayat) bagi masyarakat awam adalah...",
+    "options": ["Agar dihormati dan dipanggil 'ustadz' oleh tetangga sekitar", "Sebagai bentuk transformasi kebaikan (amal jariyah) yang pahalanya terus mengalir dan menjaga estafet moral di masyarakat", "Untuk mendapatkan gaji tambahan dari lembaga pendidikan swasta", "Karena menyembunyikan ilmu akan membuat pelakunya berubah wujud"],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "Keyakinan absolut bahwa Al-Qur'an membawa kebenaran (Haq) bertumpu pada premis bahwa...",
+    "options": ["Kebenaran diukur dari seberapa banyak orang yang menyukainya di media sosial", "Berasal dari Dzat Yang Maha Sempurna (Allah), bebas dari distorsi sejarah, dan terbukti tidak memiliki kontradiksi logis di dalamnya", "Kitab ini sudah disahkan oleh konferensi persatuan bangsa-bangsa PBB", "Karena ia menggunakan kertas perkamen tertua yang tak tertandingi usianya"],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "Sifat bakhil (pelit) adalah penyakit kronis. Bagaimana kompas kitab Allah menstimulasi lahirnya karakter dermawan?",
+    "options": ["Dengan menjanjikan bahwa orang dermawan akan menjadi presiden negara", "Karena Al-Qur'an meyakinkan bahwa sedekah tidak mengurangi harta, melainkan membersihkan dan mengundang balasan investasi ganda dari Allah", "Dengan memaksa orang pelit membayar pajak ganda kepada negara", "Karena kedermawanan adalah syarat mutlak untuk membangun popularitas politik"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Depresi sering muncul saat motivasi hidup redup. Mengapa menjadikan Al-Qur'an sebagai sumber motivasi (basyiran) sangat relevan?",
+    "options": ["Karena ia memberikan rumus instan melipatgandakan aset investasi keuangan", "Karena Al-Qur'an meresonansi jiwa dengan janji masa depan (akhirat) yang adil, memompa semangat, dan merajut kembali harapan yang hancur", "Karena membaca Al-Qur'an memancarkan gelombang beta penenang syaraf langsung", "Karena Al-Qur'an memerintahkan manusia melarikan diri dari kenyataan dunia"],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Sindrom kegelisahan kronis marak terjadi. Hubungan empiris antara iman kepada kitab Allah dan ketenangan jiwa (healing) terletak pada...",
+    "options": ["Vibrasi frekuensi huruf Arab yang secara magis memperbaiki struktur DNA", "Keyakinan totalitas (tawakal) pada petunjuk-Nya, di mana membaca Al-Qur'an menjadi terapi zikir yang menyeimbangkan neuro-psikologis", "Konsumsi air putih yang dibacakan ayat tanpa perlu melakukan usaha hidup", "Rasa lega karena merasa beban hidup dipindahkan ke orang lain secara gaib"],
+    "answer": 1
+  },
+  {
+    "id": 97,
+    "question": "Eskatologi Islam menekankan pentingnya amal saleh berbasis Al-Qur'an, bukan amal yang dikarang sendiri. Korelasi teologisnya adalah...",
+    "options": ["Amal karangan sendiri akan dikenakan pajak hak cipta di akhirat", "Karena amal saleh yang sesuai koridor (syariat) kitab Allah memiliki garansi legalitas ilahiah untuk diterima (maqbul) dan berpahala", "Karena berkreasi dalam ibadah dianggap melanggar hukum fisika", "Agar umat Islam tidak terlihat lebih kreatif dari umat agama lain"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Kebijaksanaan (wisdom) berbeda dengan kecerdasan (intelligence). Bagaimana iman kepada kitab Allah memproses kecerdasan menjadi sebuah sikap bijaksana?",
+    "options": ["Karena Al-Qur'an mengajarkan landasan etika berpikir (tafakkur) yang menghubungkan rasio akal manusia dengan rambu-rambu kebenaran Ilahi", "Dengan menumpulkan fungsi logika matematis agar lebih mengandalkan perasaan insting", "Karena kebijaksanaan hanya bisa dicapai jika seseorang menguasai ilmu filsafat Yunani", "Dengan menyuruh manusia diam tidak berpendapat dalam forum publik"],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "Sakralitas fisik Al-Qur'an dijaga ketat oleh umat Islam. Landasan esensi mengapa kehormatan mushaf harus dilindungi adalah...",
+    "options": ["Karena harga pencetakannya yang membebani kas negara jika rusak", "Karena Al-Qur'an adalah representasi material dari kalamullah (firman suci), dan memuliakannya sejajar dengan memuliakan Dzat yang berfirman", "Sebagai tradisi berhala kuno yang masih dipertahankan hingga kini", "Agar buku tersebut bisa dijual dengan harga mahal saat langka di pasaran"],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Sebagai resolusi final, apa konklusi hikmah terbesar (the ultimate wisdom) dari beriman kepada kitab Allah bagi eksistensi manusia?",
+    "options": ["Menjadikan umat Islam mendominasi seluruh tatanan ekonomi dunia secara hegemonik", "Membebaskan manusia dari beban kewajiban sosial kemasyarakatan", "Menyelamatkan manusia dari disorientasi kehidupan, membekalinya dengan pedoman universal yang diridai Allah menuju keselamatan dunia-akhirat", "Mengubah manusia menjadi wujud setengah malaikat yang kebal dari dosa dan kematian"],
+    "answer": 2
+  }
+]

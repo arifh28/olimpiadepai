@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Mengapa syahadat menjadi rukun Islam yang pertama?",
+    "options": ["Karena syahadat adalah ibadah fisik yang paling berat pengorbanannya", "Karena syahadat merupakan dasar keimanan seorang muslim.", "Karena syahadat diucapkan paling sering dalam setiap ritual keagamaan", "Sebagai formalitas untuk dicatat dalam administrasi negara mayoritas muslim"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Apa makna kalimat \"Laa ilaaha illallah\"?",
+    "options": ["Tidak ada Tuhan selain Allah.", "Allah adalah salah satu dari sekian banyak tuhan yang mengatur alam", "Hanya Allah yang boleh disembah pada hari-hari tertentu saja", "Tidak ada pencipta selain alam semesta yang berevolusi dengan sendirinya"],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "Mengapa seorang muslim harus memahami makna syahadat?",
+    "options": ["Agar dapat mengamalkan isi syahadat dalam kehidupan.", "Untuk sekadar memenuhi syarat kelulusan mata pelajaran agama", "Agar mampu mendebat kepercayaan orang lain dengan dalil linguistik", "Agar diakui sebagai ulama besar di lingkungan tempat tinggalnya"],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "question": "Apa hubungan syahadat dengan keimanan kepada Allah?",
+    "options": ["Syahadat dapat menggugurkan kewajiban shalat lima waktu", "Syahadat menjadi bukti pengakuan terhadap keesaan Allah.", "Syahadat adalah doa untuk meminta kekayaan materi secara instan", "Syahadat membatasi manusia untuk berinteraksi dengan sesama"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Mengapa syahadat harus diucapkan dengan hati yang yakin?",
+    "options": ["Agar suara terdengar lantang dan berwibawa di depan umum", "Karena keyakinan akan mengubah syahadat menjadi mantra pelindung fisik", "Karena syahadat tanpa keyakinan tidak sempurna.", "Untuk menghindari pembayaran pajak di negara Islam"],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "Bagaimana cara menerapkan syahadat dalam kehidupan sehari-hari?",
+    "options": ["Dengan menaati perintah Allah dan menjauhi larangan-Nya.", "Membaca syahadat ribuan kali tanpa perlu bekerja mencari nafkah", "Menghukum setiap orang yang melakukan kesalahan di jalanan", "Mengisolasi diri dari masyarakat agar tidak terpengaruh dosa"],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Apa makna \"Muhammadur Rasulullah\"?",
+    "options": ["Nabi Muhammad adalah malaikat yang menjelma menjadi manusia", "Nabi Muhammad adalah tuhan kedua yang wajib disembah", "Nabi Muhammad adalah utusan Allah.", "Nabi Muhammad adalah pencipta tradisi dan budaya Arab kuno"],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "Mengapa umat Islam harus mengikuti ajaran Rasulullah?",
+    "options": ["Karena Rasulullah menjanjikan kekayaan bagi pengikut setianya", "Karena Rasulullah adalah teladan terbaik.", "Agar bangsa Arab mendominasi peradaban seluruh dunia", "Karena ajaran beliau membebaskan manusia dari semua hukuman hukum perdata"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Apa hubungan syahadat dengan ibadah?",
+    "options": ["Syahadat membatalkan semua bentuk ibadah fisik", "Semua ibadah dilakukan karena Allah sesuai tuntunan Rasul.", "Ibadah hanya sah jika dilakukan saat mengucapkan syahadat", "Syahadat adalah satu-satunya ibadah yang wajib, sisanya sunnah"],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "Mengapa syahadat menjadi pintu masuk Islam?",
+    "options": ["Karena syahadat adalah kata sandi gaib", "Karena seseorang resmi menjadi muslim setelah bersyahadat.", "Untuk mendapatkan sertifikat resmi dari lembaga keagamaan", "Karena syahadat adalah nama sebuah pintu fisik di Makkah"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Apa akibat jika seseorang tidak mengamalkan syahadat?",
+    "options": ["Ia akan langsung jatuh miskin", "Imannya tidak sempurna.", "Ia akan dihukum penjara oleh pemerintah", "Ia tidak akan pernah bisa berbicara lagi"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Mengapa syahadat harus diucapkan dengan jujur?",
+    "options": ["Karena Allah mengetahui isi hati manusia.", "Agar bisa masuk ke dalam komunitas elit sosial", "Karena syahadat yang bohong akan membuat bibir terluka", "Untuk mendapatkan bantuan dana dari donatur agama"],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Apa hubungan syahadat dengan akhlak?",
+    "options": ["Syahadat membentuk perilaku sesuai ajaran Islam.", "Syahadat mengizinkan akhlak buruk asalkan diucapkan setiap hari", "Akhlak tidak ada hubungannya dengan kalimat syahadat", "Syahadat menghapus kebutuhan manusia untuk bersikap sopan"],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "Mengapa syirik bertentangan dengan syahadat?",
+    "options": ["Karena syirik merupakan tradisi masyarakat modern", "Karena syirik menyekutukan Allah.", "Karena syirik membutuhkan biaya ibadah yang mahal", "Karena syirik hanya boleh dilakukan oleh orang-orang tertentu"],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Bagaimana cara menjaga keimanan setelah bersyahadat?",
+    "options": ["Dengan rajin beribadah dan berbuat baik.", "Mengunci diri di dalam rumah agar tidak melihat dunia", "Menghabiskan seluruh waktu untuk berdebat di media sosial", "Memakai pakaian serba putih setiap saat"],
+    "answer": 0
+  },
+  {
+    "id": 16,
+    "question": "Mengapa Rasulullah menjadi teladan umat Islam?",
+    "options": ["Karena beliau adalah raja yang paling kaya", "Karena beliau menguasai ilmu sihir tertinggi", "Karena beliau memiliki akhlak mulia.", "Karena beliau memiliki pasukan tentara yang tak terkalahkan"],
+    "answer": 2
+  },
+  {
+    "id": 17,
+    "question": "Apa manfaat memahami makna syahadat?",
+    "options": ["Membuat iman semakin kuat.", "Memastikan umur biologis bertambah panjang", "Mendapat popularitas dan pengakuan masyarakat luas", "Agar bisa memanipulasi orang lain dengan dalil agama"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "Mengapa seorang muslim harus mencintai Allah?",
+    "options": ["Karena Allah pencipta seluruh makhluk.", "Agar Allah segera memberikan harta kekayaan duniawi", "Karena itu adalah syarat untuk mendapatkan pekerjaan", "Untuk menghindari kutukan berupa penyakit fisik"],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "Apa hubungan syahadat dengan tauhid?",
+    "options": ["Syahadat menegaskan keesaan Allah.", "Syahadat adalah konsep tauhid yang menyatukan banyak tuhan", "Syahadat dan tauhid adalah dua hal yang saling bertolak belakang", "Tauhid hanya membahas alam, syahadat membahas nabi"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Mengapa seorang muslim harus menjauhi kemusyrikan?",
+    "options": ["Karena musyrik akan dikenakan denda oleh negara", "Karena musyrik adalah dosa besar.", "Agar tidak perlu membeli sesajen yang mahal", "Karena kemusyrikan adalah ilmu yang terlalu sulit dipelajari"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Bagaimana syahadat memengaruhi perilaku seseorang?",
+    "options": ["Membuat seseorang lebih taat kepada Allah.", "Membuat seseorang menjadi sangat individualis", "Membuatnya merasa lebih suci dan berhak merendahkan orang lain", "Mendorong seseorang untuk selalu mencari hiburan dunia"],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "Mengapa iman kepada Rasulullah penting?",
+    "options": ["Karena Rasulullah adalah manusia yang bisa memberikan rezeki", "Karena Rasulullah membawa ajaran Islam.", "Agar kita bisa membanggakan keturunannya", "Sebagai formalitas pelengkap rukun iman semata"],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Apa manfaat mengikuti sunnah Rasulullah?",
+    "options": ["Mendapat pahala dan petunjuk hidup.", "Membuat kita kebal terhadap segala jenis penyakit", "Agar dihormati sebagai penguasa daerah", "Menjamin kelulusan dalam setiap ujian sekolah"],
+    "answer": 0
+  },
+  {
+    "id": 24,
+    "question": "Mengapa syahadat harus diyakini dalam hati?",
+    "options": ["Agar jantung bekerja lebih cepat dan sehat", "Karena iman berasal dari keyakinan hati.", "Untuk mencegah orang lain mendengar bacaan kita", "Karena lisan manusia sering mengalami kelumpuhan"],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "question": "Apa hubungan syahadat dengan tanggung jawab?",
+    "options": ["Syahadat menghapus semua beban tanggung jawab dunia", "Muslim harus bertanggung jawab menjalankan ajaran Islam.", "Syahadat memberikan hak untuk melimpahkan dosa ke orang lain", "Hanya pemimpin yang memiliki tanggung jawab atas syahadat"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Mengapa orang beriman harus jujur?",
+    "options": ["Karena Rasulullah mencontohkan kejujuran.", "Agar masyarakat mau memberikan pinjaman uang", "Karena kebohongan selalu membutuhkan biaya tinggi", "Sebagai taktik untuk menipu musuh di kemudian hari"],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "Apa hikmah mengucapkan syahadat?",
+    "options": ["Meneguhkan iman kepada Allah.", "Menghipnotis lawan bicara agar menuruti kemauan kita", "Memperoleh sertifikat pendaftaran organisasi Islam", "Menghapus semua ingatan tentang kesalahan masa lalu"],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Mengapa syahadat penting dalam kehidupan muslim?",
+    "options": ["Karena menjadi dasar seluruh amal ibadah.", "Karena diwajibkan oleh undang-undang dasar negara", "Agar mempermudah urusan bisnis di Timur Tengah", "Sebagai mantra untuk mengusir binatang buas"],
+    "answer": 0
+  },
+  {
+    "id": 29,
+    "question": "Apa hubungan syahadat dengan rasa syukur?",
+    "options": ["Syahadat menghentikan rasa syukur karena manusia merasa cukup", "Syahadat mengingatkan nikmat Allah.", "Bersyukur hanya diperlukan saat syahadat dibacakan di masjid", "Syahadat menjamin kita tidak akan pernah diuji lagi"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Mengapa seorang muslim harus menghormati Rasulullah?",
+    "options": ["Karena beliau memiliki banyak harta peninggalan", "Karena beliau pembawa wahyu Allah.", "Agar kita bisa meminta jabatan di akhirat kelak", "Karena menghormati nabi adalah tren budaya masyarakat Arab"],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Apa manfaat mengingat Allah setiap hari?",
+    "options": ["Membuat hati tenang.", "Membuat kita kaya raya tanpa bekerja", "Menghentikan waktu agar kita tidak menua", "Menghapus kebutuhan untuk makan dan minum"],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "Mengapa syahadat harus diamalkan, bukan hanya diucapkan?",
+    "options": ["Karena Islam menuntut tindakan nyata.", "Karena mengucapkan syahadat bisa membuat suara serak", "Agar orang lain dapat memuji amal kita secara terbuka", "Karena amal lebih mudah dilakukan daripada sekadar berbicara"],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Apa hubungan syahadat dengan kedisiplinan ibadah?",
+    "options": ["Syahadat mendorong ketaatan beribadah.", "Syahadat menggantikan semua ibadah fisik yang disiplin", "Orang yang bersyahadat tidak perlu mematuhi waktu shalat", "Syahadat hanya mewajibkan ibadah pada bulan Ramadhan"],
+    "answer": 0
+  },
+  {
+    "id": 34,
+    "question": "Mengapa umat Islam harus menjaga lisan?",
+    "options": ["Agar tidak perlu membayar denda pencemaran nama baik", "Karena ucapan mencerminkan iman.", "Karena berbicara terlalu banyak merusak organ pernapasan", "Untuk menciptakan kesan misterius di masyarakat"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Apa manfaat bersikap amanah?",
+    "options": ["Mendapat kepercayaan orang lain.", "Memastikan kita selalu menang dalam pemilihan umum", "Agar bisa meminjam barang mewah tanpa jaminan", "Mendapatkan keuntungan finansial dari setiap kesepakatan"],
+    "answer": 0
+  },
+  {
+    "id": 36,
+    "question": "Mengapa Rasulullah disebut Al-Amin?",
+    "options": ["Karena beliau adalah ahli strategi perang", "Karena beliau berasal dari kabilah yang kaya", "Karena beliau terpercaya.", "Karena beliau memiliki kemampuan melihat masa depan"],
+    "answer": 2
+  },
+  {
+    "id": 37,
+    "question": "Apa hubungan syahadat dengan kesabaran?",
+    "options": ["Orang beriman sabar menghadapi ujian.", "Syahadat membebaskan manusia dari ujian hidup", "Sabar hanya diwajibkan bagi mereka yang tidak bersyahadat", "Sabar adalah cara untuk membalas dendam secara diam-diam"],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "Mengapa seorang muslim harus rendah hati?",
+    "options": ["Karena semua manusia sama di hadapan Allah.", "Agar orang miskin merasa iba dan memberikan bantuan", "Sebagai taktik psikologis untuk mengelabui kompetitor", "Karena rendah hati adalah syarat menjadi kepala daerah"],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Apa manfaat mencintai Rasulullah?",
+    "options": ["Menambah semangat mengikuti sunnah.", "Mendapatkan perlindungan magis dari bahaya fisik", "Agar diakui sebagai keturunan nabi", "Menjamin kelancaran bisnis perdagangan internasional"],
+    "answer": 0
+  },
+  {
+    "id": 40,
+    "question": "Mengapa syahadat menjadi dasar persaudaraan Islam?",
+    "options": ["Karena semua muslim dipaksa untuk hidup dalam satu negara", "Karena semua muslim bersaudara dalam iman.", "Agar terbentuk aliansi militer terkuat di dunia", "Karena syahadat menghapus garis keturunan biologis manusia"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Apa hubungan syahadat dengan keadilan?",
+    "options": ["Syahadat melegalkan ketidakadilan jika untuk umat Islam", "Islam mengajarkan berlaku adil.", "Keadilan hanya dituntut bagi mereka yang bukan muslim", "Syahadat menggantikan sistem peradilan negara sepenuhnya"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Mengapa muslim harus menjauhi kebohongan?",
+    "options": ["Karena kebohongan membutuhkan daya ingat yang kuat", "Karena bertentangan dengan ajaran Rasulullah.", "Agar tidak ketahuan oleh aparat penegak hukum", "Karena bohong dilarang oleh budaya lokal setempat"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "Apa manfaat membaca shalawat?",
+    "options": ["Mendapat rahmat dari Allah.", "Sebagai mantra untuk mengabulkan semua permintaan duniawi", "Untuk melatih kelenturan pita suara", "Agar dipuji sebagai ahli agama di masjid"],
+    "answer": 0
+  },
+  {
+    "id": 44,
+    "question": "Mengapa syahadat mengajarkan ketakwaan?",
+    "options": ["Karena syahadat mengingatkan manusia kepada Allah.", "Agar manusia merasa selalu dihantui rasa bersalah", "Karena ketakwaan adalah mata uang untuk membeli surga", "Untuk menciptakan kelompok masyarakat yang fanatik"],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "Apa hubungan syahadat dengan rasa tanggung jawab sosial?",
+    "options": ["Muslim harus peduli kepada sesama.", "Syahadat menghapus semua kewajiban membayar pajak", "Tanggung jawab sosial hanya diwajibkan bagi pemerintah", "Syahadat mewajibkan muslim mengisolasi diri dari masyarakat"],
+    "answer": 0
+  },
+  {
+    "id": 46,
+    "question": "Mengapa seorang muslim harus menolong orang lain?",
+    "options": ["Agar kelak mereka membalas kebaikan kita", "Karena Islam mengajarkan kepedulian.", "Sebagai bentuk investasi sosial untuk kampanye", "Karena menolong orang lain akan membuat kita populer"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Apa manfaat hidup sesuai syahadat?",
+    "options": ["Hidup menjadi lebih terarah.", "Menghindarkan diri dari kerugian bisnis", "Memastikan kita selalu dipuji oleh tetangga", "Menjamin kesehatan fisik secara mutlak"],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Mengapa Rasulullah dihormati oleh umat Islam?",
+    "options": ["Karena beliau membagikan banyak harta", "Karena beliau membawa ajaran kebenaran.", "Agar umat Islam dianggap memiliki pemimpin sejarah yang hebat", "Karena menghormati Rasulullah diwajibkan oleh tradisi Arab"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Apa hubungan syahadat dengan kejujuran?",
+    "options": ["Kejujuran merupakan bukti iman.", "Syahadat melegalkan kebohongan asalkan tujuannya baik", "Kejujuran hanya berlaku saat mengucapkan syahadat", "Orang jujur selalu ditakdirkan menjadi miskin"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Mengapa muslim harus menjaga persatuan?",
+    "options": ["Agar bisa menindas kelompok agama lain", "Karena Islam mengajarkan ukhuwah.", "Untuk menciptakan kekuatan politik absolut", "Karena perpecahan akan menyebabkan kebangkrutan ekonomi"],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Apa manfaat bersikap sabar?",
+    "options": ["Membuat kita ditakuti oleh lawan", "Mendapat pahala dari Allah.", "Sebagai cara elegan untuk menghindar dari masalah", "Agar orang lain merasa bersalah kepada kita"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Mengapa syahadat menolak penyembahan selain Allah?",
+    "options": ["Karena hanya Allah yang berhak disembah.", "Karena menyembah selain Allah membutuhkan biaya mahal", "Agar tidak terjadi persaingan antar dewa", "Sebagai bentuk protes terhadap ajaran pagan masa lalu"],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Apa hubungan syahadat dengan akhlak mulia?",
+    "options": ["Syahadat membimbing perilaku baik.", "Akhlak mulia tidak ada kaitannya dengan keyakinan hati", "Syahadat menghapus dosa akhlak yang buruk", "Hanya dengan bersyahadat, akhlak seseorang otomatis sempurna tanpa usaha"],
+    "answer": 0
+  },
+  {
+    "id": 54,
+    "question": "Mengapa seorang muslim harus rajin beribadah?",
+    "options": ["Agar mendapat pujian sebagai orang alim", "Karena ibadah adalah bukti keimanan.", "Untuk mengisi waktu luang yang tidak terpakai", "Sebagai syarat untuk bisa meminjam uang di bank syariah"],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Apa manfaat membaca Al-Qur'an?",
+    "options": ["Menambah ilmu dan keimanan.", "Sebagai syarat administratif pernikahan", "Agar bisa memenangkan perlombaan tingkat nasional", "Untuk melatih kekuatan pernapasan perut"],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "question": "Mengapa Rasulullah menjadi contoh terbaik?",
+    "options": ["Karena beliau tidak pernah mengalami kesulitan hidup", "Karena perilakunya sesuai ajaran Allah.", "Agar sejarah Arab tercatat sebagai yang paling unggul", "Karena beliau mewariskan harta yang melimpah bagi umatnya"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Apa hubungan syahadat dengan rasa syukur?",
+    "options": ["Membuat manusia sadar nikmat Allah.", "Syukur hanya relevan jika syahadat diucapkan dengan lantang", "Bersyukur akan menggantikan posisi syahadat sebagai rukun Islam", "Syahadat membuat manusia merasa tidak perlu lagi bersyukur"],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "Mengapa muslim harus menjauhi iri hati?",
+    "options": ["Karena iri hati merusak hati.", "Agar tidak dicap sebagai orang yang pendendam", "Karena iri hati menyebabkan penyakit lambung", "Sebagai strategi agar orang yang diirikan tidak semakin sombong"],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "Apa manfaat menjaga persahabatan?",
+    "options": ["Mempererat ukhuwah Islamiyah.", "Agar selalu ada yang mentraktir makan", "Untuk memperluas dominasi kekuasaan di lingkungan", "Sebagai taktik agar jika berbuat salah ada yang menutupi"],
+    "answer": 0
+  },
+  {
+    "id": 60,
+    "question": "Mengapa syahadat harus dipahami sejak kecil?",
+    "options": ["Agar bisa digunakan untuk menakut-nakuti teman sebaya", "Agar iman tertanam sejak dini.", "Sebagai prasyarat mendaftar sekolah dasar", "Agar anak bisa langsung menjadi penceramah agama"],
+    "answer": 1
+  },
+  {
+    "id": 61,
+    "question": "Apa hubungan syahadat dengan kedamaian?",
+    "options": ["Islam mengajarkan hidup damai.", "Syahadat digunakan sebagai mantra perdamaian mistis", "Kedamaian hanya berlaku bagi mereka yang seagama", "Syahadat melegalkan kekerasan jika tujuannya damai"],
+    "answer": 0
+  },
+  {
+    "id": 62,
+    "question": "Mengapa manusia harus berserah diri kepada Allah?",
+    "options": ["Karena Allah Maha Kuasa.", "Karena manusia pada dasarnya pemalas", "Agar tidak perlu lagi berusaha mencari nafkah", "Sebagai alasan rasional atas setiap kegagalan pribadi"],
+    "answer": 0
+  },
+  {
+    "id": 63,
+    "question": "Apa manfaat menghormati orang tua?",
+    "options": ["Mendapatkan harta warisan yang lebih banyak", "Mendapat ridha Allah.", "Agar dihormati kembali oleh anak-anak tetangga", "Menghindari kemarahan mereka yang bisa berujung kekerasan"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Mengapa muslim harus menjaga amanah?",
+    "options": ["Agar bisa dipercaya untuk memegang proyek besar", "Karena amanah adalah sifat Rasulullah.", "Untuk menghindari tuntutan hukum pidana", "Karena menjaga amanah akan membuat kita terkenal"],
+    "answer": 1
+  },
+  {
+    "id": 65,
+    "question": "Apa hubungan syahadat dengan rasa malu berbuat dosa?",
+    "options": ["Orang beriman takut kepada Allah.", "Syahadat menghapus rasa malu karena semua dosa dimaafkan", "Malu berbuat dosa hanya karena takut diekspos di media sosial", "Syahadat membuat manusia tidak pernah melakukan dosa sama sekali"],
+    "answer": 0
+  },
+  {
+    "id": 66,
+    "question": "Mengapa syahadat mengajarkan keikhlasan?",
+    "options": ["Karena ibadah hanya untuk Allah.", "Agar ibadah bisa dilakukan seadanya", "Karena ikhlas akan mendatangkan kekayaan ganda", "Sebagai kompensasi atas kurangnya jumlah ibadah wajib"],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "question": "Apa manfaat hidup sederhana?",
+    "options": ["Membuat hati lebih tenang.", "Membebaskan diri dari kewajiban berzakat", "Agar terlihat seperti ahli ibadah sejati", "Untuk menghindari incaran para perampok"],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Mengapa Rasulullah mengajarkan kasih sayang?",
+    "options": ["Agar manusia hidup harmonis.", "Sebagai strategi untuk menaklukkan musuh tanpa perang", "Karena kasih sayang adalah satu-satunya ajaran Islam", "Agar beliau dipuja sebagai pahlawan kelembutan"],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "Apa hubungan syahadat dengan disiplin waktu?",
+    "options": ["Muslim diajarkan tepat waktu dalam ibadah.", "Syahadat menghentikan putaran waktu secara spiritual", "Waktu hanya diatur oleh jam, bukan oleh keyakinan", "Syahadat memberikan kebebasan waktu yang tanpa batas"],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Mengapa seorang muslim harus menjaga kebersihan?",
+    "options": ["Agar selalu wangi dan dipuji teman", "Karena kebersihan bagian dari iman.", "Sebagai syarat untuk mengikuti kompetisi hidup sehat", "Karena kuman merupakan manifestasi dari setan fisik"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Apa manfaat berkata baik?",
+    "options": ["Menjaga hubungan sosial.", "Untuk memanipulasi emosi pendengar", "Agar terlihat intelek dan berpendidikan tinggi", "Memastikan agar suara pita suara tetap sehat"],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "question": "Mengapa syahadat membentuk karakter jujur?",
+    "options": ["Karena iman mendorong kejujuran.", "Agar masyarakat mau menitipkan hartanya", "Karena berbohong akan membuat syahadatnya batal permanen", "Sebagai taktik untuk mendapatkan simpati pimpinan"],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "Apa hubungan syahadat dengan rasa percaya diri?",
+    "options": ["Muslim yakin Allah selalu menolong.", "Syahadat menumbuhkan kesombongan yang terarah", "Membuat muslim merasa kebal peluru dan senjata", "Syahadat membuat muslim meremehkan masalah dunia"],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "Mengapa manusia harus berbuat adil?",
+    "options": ["Agar dihormati sebagai hakim yang netral", "Karena Allah mencintai keadilan.", "Karena keadilan akan mendatangkan investasi asing", "Untuk menghindari pemberontakan rakyat kecil"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Apa manfaat tolong-menolong?",
+    "options": ["Mempererat persaudaraan.", "Memastikan kita ditolong kembali saat butuh", "Mendapatkan penghargaan dari pemerintah", "Sebagai konten untuk dibagikan di media sosial"],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "Mengapa syahadat mengajarkan tanggung jawab?",
+    "options": ["Karena tanggung jawab adalah beban para nabi", "Karena setiap amal dipertanggungjawabkan.", "Agar manusia merasa tertekan setiap hari", "Tanggung jawab hanya dituntut bagi mereka yang kaya"],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Apa hubungan syahadat dengan semangat belajar?",
+    "options": ["Islam mendorong mencari ilmu.", "Syahadat menggantikan fungsi ijazah akademik", "Orang beriman tidak perlu belajar ilmu dunia", "Belajar hanya wajib bagi mereka yang ingin menjadi ulama"],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "question": "Mengapa muslim harus menjauhi sombong?",
+    "options": ["Agar tidak dimintai sumbangan sosial", "Karena sombong dibenci Allah.", "Karena sombong membutuhkan biaya perawatan mahal", "Sebagai trik agar lawan bisnis lengah"],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "Apa manfaat memaafkan?",
+    "options": ["Menunjukkan kepada orang lain bahwa kita superior", "Membuat hati damai.", "Agar orang yang dimaafkan merasa berhutang budi", "Sebagai alasan agar tidak dituntut secara hukum"],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "question": "Mengapa Rasulullah mengajarkan musyawarah?",
+    "options": ["Agar bisa melempar kesalahan kepada banyak orang", "Agar keputusan lebih baik.", "Untuk memperlama waktu pengambilan keputusan", "Karena tradisi Arab memang suka berdiskusi panjang"],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Apa hubungan syahadat dengan kesederhanaan hidup?",
+    "options": ["Islam melarang berlebihan.", "Syahadat mengharamkan semua jenis kekayaan materi", "Sederhana berarti harus miskin dan meminta-minta", "Kesederhanaan adalah cara untuk menghindari pajak"],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Mengapa manusia harus menjaga hati?",
+    "options": ["Agar jantung tidak cepat mengalami penyakit koroner", "Karena hati menentukan perilaku.", "Untuk menyembunyikan rencana jahat dari orang lain", "Karena hati adalah organ tubuh yang paling ringan"],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "Apa manfaat berteman dengan orang saleh?",
+    "options": ["Bisa memanfaatkan mereka untuk kepuasan pribadi", "Membantu dalam kebaikan.", "Agar selalu ditraktir saat makan di luar", "Memastikan kita masuk surga melalui syafaat mereka tanpa perlu beramal"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Mengapa syahadat mengajarkan optimisme?",
+    "options": ["Karena optimisme membatalkan takdir buruk", "Karena Allah selalu memberi harapan.", "Agar manusia tidak pernah merasa bersedih sekalipun kehilangan", "Untuk menipu pikiran sendiri agar tidak depresi"],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Apa hubungan syahadat dengan rasa cinta tanah air?",
+    "options": ["Muslim harus menjaga kedamaian negeri.", "Syahadat mengharuskan pembentukan khilafah tunggal internasional", "Cinta tanah air dilarang karena berbau fanatisme suku", "Muslim hanya boleh mencintai negara-negara Timur Tengah"],
+    "answer": 0
+  },
+  {
+    "id": 86,
+    "question": "Mengapa seorang muslim harus rajin berdoa?",
+    "options": ["Sebagai syarat untuk menggugurkan dosa besar", "Karena doa mendekatkan diri kepada Allah.", "Agar bisa meminta penderitaan untuk musuh-musuhnya", "Karena doa adalah mantra untuk mengubah qada absolut"],
+    "answer": 1
+  },
+  {
+    "id": 87,
+    "question": "Apa manfaat hidup rukun?",
+    "options": ["Tercipta kedamaian masyarakat.", "Memastikan tidak ada persaingan bisnis sama sekali", "Agar pemerintah mudah mengatur kebijakan pajak", "Menghilangkan kebebasan berpendapat secara total"],
+    "answer": 0
+  },
+  {
+    "id": 88,
+    "question": "Mengapa syahadat mengajarkan ketulusan?",
+    "options": ["Karena ibadah dilakukan hanya untuk Allah.", "Agar bisa dipercaya oleh para investor bisnis", "Ketulusan adalah kelemahan yang harus disembunyikan", "Untuk menunjukkan bahwa kita lebih bermoral dari orang lain"],
+    "answer": 0
+  },
+  {
+    "id": 89,
+    "question": "Apa hubungan syahadat dengan etika berbicara?",
+    "options": ["Muslim diajarkan berkata sopan.", "Muslim dilarang mengkritik penguasa sekalipun zalim", "Etika berbicara hanya berlaku saat berada di dalam masjid", "Syahadat mengizinkan kata-kata kasar asalkan tujuannya dakwah"],
+    "answer": 0
+  },
+  {
+    "id": 90,
+    "question": "Mengapa manusia harus menghargai perbedaan?",
+    "options": ["Karena perbedaan sering memicu kekerasan massal", "Karena Islam mengajarkan toleransi.", "Agar masyarakat barat memuji ajaran Islam", "Karena semua agama pada dasarnya menuju ke tuhan yang sama"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Apa manfaat menjaga silaturahmi?",
+    "options": ["Agar selalu mendapat pinjaman modal usaha", "Mempererat persaudaraan.", "Untuk memamerkan kesuksesan pribadi kepada kerabat", "Sebagai kewajiban sosial yang dipaksakan masyarakat"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Mengapa muslim harus bekerja halal?",
+    "options": ["Agar tidak dikejar-kejar oleh penagih utang", "Karena Allah menyukai rezeki halal.", "Karena pekerjaan halal lebih mudah dilakukan daripada yang haram", "Untuk mendapatkan pujian dari rekan sejawat"],
+    "answer": 1
+  },
+  {
+    "id": 93,
+    "question": "Apa hubungan syahadat dengan semangat berbuat baik?",
+    "options": ["Syahadat adalah satu-satunya kebaikan yang diterima", "Iman mendorong amal saleh.", "Berbuat baik akan membatalkan efek dari dosa syirik", "Semangat berbuat baik hanya wajib bagi yang sudah haji"],
+    "answer": 1
+  },
+  {
+    "id": 94,
+    "question": "Mengapa Rasulullah disebut rahmatan lil alamin?",
+    "options": ["Karena beliau membagikan rahmat kekayaan bagi sahabatnya", "Karena membawa rahmat bagi seluruh alam.", "Karena beliau menaklukkan banyak wilayah peradaban dunia", "Agar beliau disegani oleh raja-raja Romawi dan Persia"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Apa manfaat menghindari perbuatan dosa?",
+    "options": ["Hati menjadi lebih tenang.", "Menjamin seseorang kebal terhadap penyakit berbahaya", "Agar tidak digosipkan oleh tetangga sekitar", "Untuk mempermudah urusan birokrasi pemerintahan"],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "question": "Mengapa syahadat penting bagi kehidupan modern?",
+    "options": ["Menjadi pedoman moral dan spiritual.", "Karena modernitas menolak segala bentuk kebebasan berekspresi", "Agar manusia modern bisa kembali ke peradaban masa lalu", "Sebagai sarana untuk menghentikan perkembangan teknologi"],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "Apa hubungan syahadat dengan ketenangan hati?",
+    "options": ["Syahadat menenangkan hati karena efek suara saat melafalkannya", "Mengingat Allah membuat hati tenteram.", "Ketenangan hati hanya didapat jika disertai dengan ritual fisik yang berat", "Syahadat menghapus seluruh memori tentang trauma masa lalu"],
+    "answer": 1
+  },
+  {
+    "id": 98,
+    "question": "Mengapa manusia harus selalu introspeksi diri?",
+    "options": ["Untuk menyalahkan orang lain secara diam-diam", "Agar memperbaiki kesalahan.", "Agar terlihat seperti ahli spiritual yang sedang mencari pencerahan", "Karena introspeksi diri dapat membuka mata batin/indra keenam"],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "question": "Apa manfaat menjalankan ajaran Rasulullah?",
+    "options": ["Menjadi populer di kalangan umat beragama", "Mendapat kebahagiaan dunia dan akhirat.", "Mendapatkan kedudukan politik tertinggi di masyarakat", "Agar tidak perlu lagi mencari nafkah secara mandiri"],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Apa kesimpulan penting tentang syahadat?",
+    "options": ["Syahadat hanya sekadar kalimat pembuka yang tidak memiliki konsekuensi perilaku", "Syahadat adalah dasar keimanan dan pedoman hidup seorang muslim.", "Syahadat merupakan ritual mistis untuk menolak kejahatan jin", "Syahadat adalah syarat administratif untuk bisa menunaikan ibadah haji"],
+    "answer": 1
+  }
+]

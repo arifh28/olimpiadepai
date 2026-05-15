@@ -58,11 +58,34 @@
 </head>
 <body>
 
+    <div class="modal fade" id="nameModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title fw-bold"><i class="fa-solid fa-user-graduate me-2"></i> Identitas Siswa</h5>
+                </div>
+                <div class="modal-body">
+                    <p>Silakan masukkan nama lengkap Anda sebelum memulai latihan soal.</p>
+                    <input type="text" id="userNameInput" class="form-control form-control-lg" placeholder="Contoh: Ahmad Fulan..." required>
+                    <div class="text-danger small mt-2 d-none" id="nameError">Nama tidak boleh kosong!</div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary w-100 fw-bold" id="saveNameBtn">Simpan & Mulai</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="hero-section text-center">
         <div class="container">
             <i class="fa-solid fa-mosque mb-3" style="font-size: 4rem; color: #ffc107;"></i>
             <h1 class="fw-bold mb-2">Bank Soal Olimpiade PAI</h1>
-            <p class="lead mb-0 opacity-75">Latihan Persiapan MALKA Festival 2026</p>
+            <p class="lead mb-1 opacity-75">Latihan Persiapan MALKA Festival 2026</p>
+            <div class="mt-3">
+                <span class="badge bg-warning text-dark fs-6 rounded-pill px-4 py-2">
+                    <i class="fa-solid fa-user me-2"></i> Hai, <span id="display-name">Siswa</span>!
+                </span>
+            </div>
         </div>
     </div>
 
@@ -201,6 +224,44 @@
 
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script> 
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const userName = localStorage.getItem("userName");
+            const nameModalElement = document.getElementById('nameModal');
+            const nameModal = new bootstrap.Modal(nameModalElement);
+            
+            // Cek apakah nama sudah ada di localStorage
+            if (!userName) {
+                nameModal.show(); // Munculkan popup jika belum ada nama
+            } else {
+                document.getElementById('display-name').textContent = userName;
+            }
+
+            // Aksi saat tombol simpan nama diklik
+            document.getElementById('saveNameBtn').addEventListener('click', async () => {
+                const inputName = document.getElementById('userNameInput').value.trim();
+                const errorText = document.getElementById('nameError');
+                
+                if (inputName !== "") {
+                    errorText.classList.add('d-none');
+                    // Simpan ke localStorage
+                    localStorage.setItem("userName", inputName);
+                    // Tampilkan di layar
+                    document.getElementById('display-name').textContent = inputName;
+                    
+                    // Simpan ke Supabase (tabel peserta)
+                    await saveUserToSupabase(inputName);
+                    
+                    // Tutup modal
+                    nameModal.hide();
+                } else {
+                    errorText.classList.remove('d-none');
+                }
+            });
+        });
+    </script>
 </body>
 </html>

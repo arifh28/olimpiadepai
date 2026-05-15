@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bagian 4 - Latihan Soal Olimpiade PAI MALKA Festival 2026</title>
+    <title>Bagian 8 - Latihan Soal Olimpiade PAI MALKA Festival 2026</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
@@ -33,7 +33,7 @@
     <div class="quiz-container shadow">
         <div class="quiz-header">
             <h1><i class="fa-solid fa-book-quran me-2"></i> Latihan Soal Olimpiade PAI</h1>
-            <h5 class="fw-bold mt-2 text-info">Bagian 4: Iman Kepada Rasul Allah</h5> <p class="text-muted mb-0">Peserta: <span id="display-name" class="fw-bold text-dark"></span></p>
+            <h5 class="fw-bold mt-2 text-info">Bagian 8: Ibadah Sholat</h5> <p class="text-muted mb-0">Peserta: <span id="display-name" class="fw-bold text-dark"></span></p>
         </div>
 
         <div id="quiz-area">
@@ -76,7 +76,7 @@
     let score = 0;
     let hasAnswered = false;
 
-    const NAMA_BAGIAN = "Bagian 4: Iman Kepada Rasul Allah"; // Ganti string ini untuk bagian2.html dst.
+    const NAMA_BAGIAN = "Bagian 8: Ibadah Sholat"; // Ganti string ini untuk bagian2.html dst.
 
     const questionText = document.getElementById('question-text');
     const optionsContainer = document.getElementById('options-container');
@@ -99,7 +99,7 @@
         return array;
     }
 
-    fetch('bagian4.json') // Ganti json ini untuk bagian2.html dst.
+    fetch('bagian8.json') // Ganti json ini untuk bagian2.html dst.
         .then(response => response.json())
         .then(data => {
             questions = shuffleArray(data);

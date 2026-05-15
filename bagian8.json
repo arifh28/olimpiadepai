@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "Mengapa shalat disebut sebagai tiang agama?",
+    "options": ["Karena shalat adalah satu-satunya ibadah yang membutuhkan gerakan fisik tubuh", "Karena shalat menjadi dasar kuatnya keimanan dan pembeda antara orang yang taat dan tidak.", "Karena shalat menggugurkan semua dosa besar di masa lalu secara otomatis", "Karena dengan shalat, status sosial seseorang di masyarakat akan meningkat tajam"],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana shalat dapat membentuk karakter disiplin pada seseorang?",
+    "options": ["Shalat memaksa seseorang untuk mengurangi jam tidurnya secara ekstrem", "Orang yang shalat akan otomatis terhindar dari hukum dan denda pemerintah", "Shalat dilakukan pada waktu tertentu sehingga melatih seseorang menghargai waktu dan tanggung jawab.", "Karena shalat memberikan ancaman fisik langsung bagi yang meninggalkannya"],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "Mengapa seorang muslim harus menjaga shalat meskipun sibuk bekerja atau belajar?",
+    "options": ["Agar mendapatkan penilaian sebagai pegawai atau siswa yang religius", "Karena shalat adalah kewajiban utama yang tidak boleh dilalaikan oleh kesibukan dunia.", "Karena meninggalkan shalat akan langsung menyebabkan kebangkrutan finansial", "Sebagai alasan yang sah untuk menghindari tugas-tugas berat di tempat kerja"],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Apa hubungan antara shalat dan ketenangan hati?",
+    "options": ["Shalat membuat hati tenang karena manusia mengingat dan mendekatkan diri kepada Allah.", "Gerakan shalat memanipulasi gelombang otak untuk melupakan semua hutang", "Shalat menghapuskan semua masalah dunia tanpa perlu diselesaikan", "Karena selesai shalat biasanya seseorang mendapatkan rezeki berupa uang"],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "Bagaimana shalat dapat mencegah perbuatan keji dan mungkar?",
+    "options": ["Shalat yang khusyuk mengingatkan seseorang untuk selalu berbuat baik dan menjauhi dosa.", "Shalat menciptakan perisai gaib yang memantulkan niat jahat orang lain", "Karena orang yang shalat selalu diawasi ketat oleh aparat penegak hukum", "Shalat membuat fisik seseorang menjadi lemah sehingga tidak mampu berbuat jahat"],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Mengapa wudhu penting sebelum melaksanakan shalat?",
+    "options": ["Untuk menyejukkan tubuh saat suhu udara sedang panas", "Sebagai pengganti mandi wajib agar lebih hemat air", "Karena wudhu menyucikan diri lahir dan batin sebelum menghadap Allah.", "Agar wajah terlihat lebih bercahaya di depan jamaah lainnya"],
+    "answer": 2
+  },
+  {
+    "id": 7,
+    "question": "Apa hikmah shalat berjamaah bagi kehidupan sosial?",
+    "options": ["Membuka peluang untuk melakukan kampanye politik di dalam masjid", "Shalat berjamaah mempererat persaudaraan dan menumbuhkan rasa kebersamaan.", "Memastikan semua warga desa berkumpul untuk diabsen oleh kepala desa", "Agar bisa memamerkan pakaian baru kepada tetangga"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Mengapa niat menjadi bagian penting dalam shalat?",
+    "options": ["Karena niat menentukan tujuan ibadah dilakukan semata-mata karena Allah.", "Agar malaikat tidak salah mencatat nama orang yang sedang beribadah", "Karena niat adalah rukun yang harus diteriakkan dengan suara paling keras", "Sebagai syarat untuk mendapatkan makanan gratis setelah shalat selesai"],
+    "answer": 0
+  },
+  {
+    "id": 9,
+    "question": "Bagaimana cara menjaga kekhusyukan dalam shalat?",
+    "options": ["Mematikan semua lampu agar ruangan menjadi gelap gulita", "Membayangkan wajah tokoh-tokoh idola agar merasa termotivasi", "Dengan fokus pada bacaan dan gerakan shalat serta mengingat kebesaran Allah.", "Menutup telinga rapat-rapat agar tidak mendengar suara apa pun"],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Apa dampak buruk meninggalkan shalat secara sengaja?",
+    "options": ["Hati menjadi lalai, kurang disiplin, dan jauh dari Allah.", "Seseorang akan langsung terkena penyakit kronis yang tidak bisa disembuhkan", "Pemerintah akan mencabut hak kewarganegaraan orang tersebut", "Hutang-hutangnya di bank akan otomatis berlipat ganda"],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Mengapa shalat Subuh melatih kedisiplinan?",
+    "options": ["Karena udara yang dingin melatih ketahanan kulit terhadap cuaca ekstrem", "Karena mengajarkan bangun pagi dan memulai aktivitas dengan ibadah.", "Agar tidak perlu lagi melakukan olahraga di pagi hari", "Karena Subuh adalah satu-satunya waktu doa pasti langsung dikabulkan"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Bagaimana shalat dapat membentuk sikap jujur?",
+    "options": ["Karena orang yang shalat sadar bahwa Allah selalu mengawasi setiap perbuatannya.", "Karena jamaah lain akan tahu jika ia berbohong melalui gerakan shalatnya", "Agar mendapat gelar 'Al-Amin' dari masyarakat sekitar", "Karena berbohong akan membuat wudhunya batal secara langsung"],
+    "answer": 0
+  },
+  {
+    "id": 13,
+    "question": "Mengapa Islam memberi keringanan shalat bagi musafir?",
+    "options": ["Karena orang yang bepergian biasanya membawa banyak barang berharga", "Agar musafir memiliki waktu lebih untuk menikmati liburan", "Karena Islam adalah agama yang memberikan kemudahan bagi umatnya.", "Karena di perjalanan tidak ada malaikat yang mencatat amal"],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Apa makna gerakan rukuk dalam shalat?",
+    "options": ["Rukuk melambangkan kerendahan hati dan penghormatan kepada Allah.", "Sebagai latihan untuk memperkuat tulang punggung", "Menunjukkan kepatuhan kepada pemimpin negara", "Untuk beristirahat sejenak di tengah-tengah bacaan shalat"],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "Mengapa sujud disebut posisi paling dekat dengan Allah?",
+    "options": ["Karena saat sujud, otak manusia berada di bawah jantung secara medis", "Karena saat sujud manusia menunjukkan kepasrahan dan kerendahan diri sepenuhnya.", "Karena posisi tersebut merupakan posisi yang paling sulit dilakukan", "Agar doa yang diucapkan tidak terdengar oleh orang di sebelahnya"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Bagaimana shalat membantu seseorang mengendalikan emosi?",
+    "options": ["Karena gerakan shalat membuang energi amarah secara fisik", "Shalat melatih kesabaran dan ketenangan dalam menghadapi masalah.", "Dengan mengutuk orang yang dibenci di dalam bacaan shalat", "Karena shalat mengisolasi seseorang dari interaksi sosial sepenuhnya"],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": "Mengapa anak perlu dibiasakan shalat sejak kecil?",
+    "options": ["Agar mereka bisa mengikuti lomba shalat di sekolah", "Agar terbentuk kebiasaan baik dan tanggung jawab terhadap ibadah.", "Sebagai hukuman pengganti jika mereka nakal di rumah", "Agar orang tua terbebas dari dosa selamanya"],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Apa pengaruh shalat terhadap hubungan keluarga?",
+    "options": ["Memastikan semua harta warisan dibagi rata", "Shalat dapat menciptakan keluarga yang harmonis dan saling mengingatkan dalam kebaikan.", "Memaksa anggota keluarga untuk tidak pernah berbeda pendapat", "Menjadikan ayah sebagai penguasa mutlak yang tidak boleh dibantah"],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "Mengapa menjaga kebersihan menjadi syarat shalat?",
+    "options": ["Karena Allah menyukai kebersihan dan ibadah harus dilakukan dalam keadaan suci.", "Agar pakaian tidak cepat rusak saat sering digunakan", "Sebagai standar operasional yang ditetapkan oleh kementerian kesehatan", "Untuk membedakan umat Islam dari pemeluk agama lain secara kasat mata"],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Bagaimana shalat mengajarkan persamaan derajat?",
+    "options": ["Semua jamaah diwajibkan menyumbangkan harta yang sama jumlahnya", "Semua orang berdiri sejajar tanpa membedakan status sosial.", "Orang kaya dan miskin diwajibkan bertukar pakaian saat shalat", "Imam shalat selalu dipilih secara acak tanpa melihat ilmunya"],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Apa manfaat shalat tepat waktu bagi kehidupan sehari-hari?",
+    "options": ["Membuat seseorang bisa pulang kerja lebih awal", "Membentuk pribadi disiplin dan bertanggung jawab.", "Mendapatkan penghargaan dari lembaga kedisiplinan nasional", "Menjamin seseorang tidak akan pernah sakit fisik"],
+    "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "Mengapa orang yang rajin shalat harus tetap menjaga akhlak?",
+    "options": ["Karena shalat harus tercermin dalam perilaku yang baik.", "Agar ia diangkat menjadi tokoh agama di daerahnya", "Karena jika akhlaknya buruk, shalatnya akan dibatalkan oleh hakim", "Sebagai syarat agar doanya dikabulkan dalam waktu satu hari"],
+    "answer": 0
+  },
+  {
+    "id": 23,
+    "question": "Bagaimana cara meningkatkan kualitas shalat?",
+    "options": ["Dengan memperlama waktu sujud hingga tertidur", "Membaca Al-Qur'an dengan suara sangat keras agar orang lain mendengarnya", "Dengan memahami bacaan shalat dan menjaga kekhusyukan.", "Melakukan shalat di tempat yang sepi dari peradaban manusia"],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Apa hikmah membaca doa setelah shalat?",
+    "options": ["Untuk memohon ampunan dan mendekatkan diri kepada Allah.", "Sebagai tanda bahwa shalat telah benar-benar selesai", "Agar jamaah lain tidak segera meninggalkan masjid", "Untuk meminta balasan uang kontan dari Allah secara langsung"],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Mengapa masjid penting dalam kehidupan umat Islam?",
+    "options": ["Karena masjid adalah tempat yang paling aman dari bencana alam", "Karena masjid menjadi pusat ibadah dan persatuan umat.", "Sebagai tempat untuk membicarakan bisnis secara eksklusif", "Agar umat Islam memiliki bangunan yang lebih megah dari agama lain"],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "Bagaimana shalat dapat membentuk sikap tanggung jawab?",
+    "options": ["Karena shalat memberikan ancaman siksa yang instan", "Orang yang shalat akan otomatis dipilih menjadi pemimpin di masyarakat", "Karena shalat melatih seseorang melaksanakan kewajiban tepat waktu.", "Dengan memaksa seseorang menanggung beban hidup orang lain"],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "question": "Mengapa seseorang tidak boleh menunda-nunda shalat?",
+    "options": ["Karena dapat menimbulkan kebiasaan malas dan lalai.", "Karena waktu shalat sangat pendek dan cepat habis", "Agar sisa harinya bisa digunakan untuk bersantai tanpa beban", "Karena akan didenda oleh pengurus masjid setempat"],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Apa makna takbiratul ihram?",
+    "options": ["Tanda dimulainya bacaan ayat-ayat panjang", "Menyadari bahwa Allah Maha Besar dan meninggalkan urusan dunia sementara.", "Menghormati malaikat yang hadir di sisi kanan dan kiri", "Menyerahkan diri sepenuhnya kepada imam shalat"],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Bagaimana shalat berjamaah melatih kerja sama?",
+    "options": ["Dengan membagi tugas membaca ayat kepada setiap makmum", "Karena makmum harus mengikuti imam dengan tertib.", "Karena semua jamaah harus saling berpegangan tangan", "Membiasakan makmum menegur imam secara langsung jika terjadi salah bacaan"],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Mengapa orang sakit tetap diwajibkan shalat?",
+    "options": ["Karena shalat adalah satu-satunya obat penawar rasa sakit", "Agar mereka tidak terlihat lemah di mata orang sehat", "Karena shalat tetap wajib sesuai kemampuan.", "Untuk menebus dosa yang menyebabkan mereka jatuh sakit"],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "question": "Bagaimana shalat membantu seseorang menghadapi kesulitan hidup?",
+    "options": ["Menjadikan semua masalah hilang dengan sendirinya keesokan harinya", "Shalat memberikan ketenangan dan kekuatan batin.", "Membuat orang yang menyakiti kita terkena azab", "Shalat membuktikan bahwa kita tidak membutuhkan bantuan manusia lain"],
+    "answer": 1
+  },
+  {
+    "id": 32,
+    "question": "Mengapa membaca Al-Fatihah penting dalam shalat?",
+    "options": ["Karena Al-Fatihah merupakan surah terpanjang di Al-Qur'an", "Karena berisi sejarah peradaban Islam masa lalu", "Karena Al-Fatihah merupakan rukun shalat yang wajib dibaca.", "Agar shalat segera cepat selesai"],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Apa manfaat shalat berjamaah di sekolah?",
+    "options": ["Untuk mengisi jam istirahat agar siswa tidak bermain di luar", "Menanamkan disiplin, persatuan, dan kebiasaan ibadah.", "Sebagai ajang untuk memamerkan perlengkapan shalat yang mahal", "Menambah nilai akademik pada mata pelajaran umum"],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Mengapa shalat harus dilakukan dengan pakaian yang sopan?",
+    "options": ["Agar tidak kedinginan saat berada di dalam masjid", "Karena shalat adalah bentuk penghormatan kepada Allah.", "Sebagai aturan budaya masyarakat Timur Tengah", "Untuk menunjukkan tingkat kesejahteraan seseorang"],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "question": "Bagaimana shalat dapat mencegah pergaulan buruk?",
+    "options": ["Dengan memisahkan diri dari teman-teman secara total", "Karena shalat mengingatkan seseorang pada nilai kebaikan.", "Membuat seseorang dibenci oleh teman-temannya yang nakal", "Shalat memberikan alarm gaib ketika ada niat buruk muncul"],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Mengapa azan penting dalam pelaksanaan shalat?",
+    "options": ["Karena azan menjadi tanda masuknya waktu shalat.", "Sebagai hiburan bagi masyarakat yang sedang beraktivitas", "Untuk membangunkan orang yang sedang tidur siang", "Agar suara muazin dikenal oleh seluruh warga kampung"],
+    "answer": 0
+  },
+  {
+    "id": 37,
+    "question": "Bagaimana cara membiasakan diri shalat tepat waktu?",
+    "options": ["Menunggu ditegur oleh orang tua setiap hari", "Dengan membuat jadwal dan memiliki kesadaran ibadah.", "Memasang alarm yang tidak bisa dimatikan kecuali oleh orang lain", "Membayar seseorang untuk selalu mengingatkan waktu shalat"],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "question": "Apa pengaruh shalat terhadap kesehatan jiwa?",
+    "options": ["Menggantikan fungsi psikiater secara mutlak", "Shalat membantu mengurangi stres dan kegelisahan.", "Membuat jiwa menjadi kebal terhadap segala bentuk emosi", "Menciptakan ilusi kebahagiaan di tengah penderitaan"],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "Mengapa imam harus dipatuhi dalam shalat berjamaah?",
+    "options": ["Karena imam adalah orang yang paling kaya di jamaah tersebut", "Agar shalat berjalan tertib dan teratur.", "Agar imam merasa dihormati sebagai penguasa mutlak", "Karena imam memiliki tanggung jawab menebus dosa makmum"],
+    "answer": 1
+  },
+  {
+    "id": 40,
+    "question": "Bagaimana shalat mengajarkan rasa syukur?",
+    "options": ["Dengan mewajibkan seseorang menyumbang uang setiap kali shalat", "Shalat merupakan bentuk syukur atas nikmat Allah.", "Memaksa seseorang membandingkan dirinya dengan orang miskin saat rukuk", "Karena shalat adalah bayaran atas rezeki yang diterima hari itu"],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Apa dampak positif menjaga wudhu?",
+    "options": ["Membuat kulit menjadi kebal terhadap penyakit", "Menjaga kebersihan dan kesiapan beribadah.", "Agar tidak perlu mandi selama beberapa hari", "Membuat wajah bercahaya secara harfiah di malam hari"],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Mengapa orang yang shalat harus menjauhi sifat sombong?",
+    "options": ["Karena sombong membutuhkan biaya hidup yang mahal", "Karena shalat mengajarkan kerendahan hati.", "Agar tidak dimusuhi oleh tetangga sekitar", "Sombong akan membatalkan status kewarganegaraan di negara Islam"],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "Bagaimana shalat dapat meningkatkan kesabaran?",
+    "options": ["Karena shalat memakan waktu berjam-jam untuk diselesaikan", "Karena shalat melatih pengendalian diri dan ketenangan.", "Memaksa seseorang diam tidak bergerak saat orang lain mengganggu", "Dengan membiarkan diri ditindas oleh lingkungan sekitar"],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "Mengapa shalat Jumat penting bagi laki-laki muslim?",
+    "options": ["Sebagai hari libur dari pekerjaan kasar", "Karena menjadi sarana ibadah dan mempererat ukhuwah.", "Untuk mendengarkan berita politik terkini dari khotib", "Agar bisa memamerkan pakaian koko yang mewah"],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Bagaimana cara menasihati teman yang malas shalat?",
+    "options": ["Dengan mempermalukannya di depan orang banyak", "Meninggalkannya dan memutus tali pertemanan", "Dengan kata-kata baik dan memberi contoh positif.", "Mengancamnya dengan siksaan neraka yang pedih setiap hari"],
+    "answer": 2
+  },
+  {
+    "id": 46,
+    "question": "Apa hikmah menghadap kiblat saat shalat?",
+    "options": ["Untuk menyembah Ka'bah secara fisik", "Menunjukkan persatuan arah ibadah umat Islam.", "Karena kiblat adalah pusat magnetis bumi", "Agar tidak saling bertabrakan saat melakukan rukuk dan sujud"],
+    "answer": 1
+  },
+  {
+    "id": 47,
+    "question": "Mengapa membaca doa iftitah dianjurkan?",
+    "options": ["Untuk memperpanjang durasi shalat", "Sebagai syarat agar bacaan Al-Fatihah diterima", "Untuk memulai shalat dengan pujian kepada Allah.", "Agar suara imam terdengar lebih berwibawa"],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Bagaimana shalat membentuk rasa tanggung jawab kepada Allah?",
+    "options": ["Dengan memberikan ketakutan akan azab secara konstan", "Karena shalat merupakan kewajiban yang harus dijaga.", "Melalui ikatan sumpah setia yang diucapkan dengan lantang", "Dengan mewajibkan pembayaran zakat setiap selesai shalat"],
+    "answer": 1
+  },
+  {
+    "id": 49,
+    "question": "Apa akibat jika seseorang sering meninggalkan shalat Subuh?",
+    "options": ["Menjadi malas dan kehilangan keberkahan pagi hari.", "Tubuhnya akan langsung terserang penyakit rematik", "Akan dipecat dari pekerjaannya oleh atasan", "Menjadi sulit tidur di malam hari (insomnia)"],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Mengapa shalat harus dilakukan secara rutin?",
+    "options": ["Agar mendapat pujian sebagai orang yang istiqamah", "Agar hubungan dengan Allah tetap terjaga.", "Karena jika dihentikan, pahala yang lalu akan hangus", "Sebagai olahraga harian untuk menggerakkan otot tubuh"],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Bagaimana shalat membantu membangun sikap rendah hati?",
+    "options": ["Dengan membiarkan orang lain merendahkan diri kita", "Karena dalam shalat manusia bersujud di hadapan Allah.", "Karena shalat menghilangkan semua ilmu yang dimiliki", "Mewajibkan kita memakai pakaian yang usang dan robek"],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Mengapa bacaan shalat perlu dipahami artinya?",
+    "options": ["Agar shalat lebih khusyuk dan bermakna.", "Untuk membuktikan kemampuan berbahasa Arab", "Agar bisa menerjemahkannya kepada orang lain saat shalat berlangsung", "Sebagai syarat sahnya shalat yang ditetapkan ulama"],
+    "answer": 0
+  },
+  {
+    "id": 53,
+    "question": "Apa manfaat shalat bagi kehidupan pelajar?",
+    "options": ["Memberikan jawaban ujian secara gaib", "Membentuk disiplin, tanggung jawab, dan ketenangan belajar.", "Membebaskan mereka dari kewajiban mengerjakan PR", "Menjadikan mereka ditakuti oleh siswa dari sekolah lain"],
+    "answer": 1
+  },
+  {
+    "id": 54,
+    "question": "Bagaimana shalat mengajarkan keteraturan hidup?",
+    "options": ["Karena memiliki aturan waktu dan tata cara yang jelas.", "Karena shalat melarang manusia untuk bersantai sama sekali", "Dengan mendikte setiap aktivitas harian manusia", "Memaksa manusia untuk hidup seperti mesin yang tidak pernah lelah"],
+    "answer": 0
+  },
+  {
+    "id": 55,
+    "question": "Mengapa kebersihan masjid harus dijaga?",
+    "options": ["Agar terlihat bagus saat difoto dan masuk televisi", "Karena masjid adalah tempat ibadah umat Islam.", "Untuk memenangkan lomba kebersihan tingkat desa", "Karena jika kotor, masjid akan ditutup oleh pemerintah"],
+    "answer": 1
+  },
+  {
+    "id": 56,
+    "question": "Bagaimana shalat melatih kepatuhan?",
+    "options": ["Dengan menghukum cambuk mereka yang terlambat", "Karena umat Islam wajib mengikuti aturan shalat sesuai syariat.", "Membiasakan makmum meniru semua perbuatan imam di luar shalat", "Karena shalat menghapus kehendak bebas manusia"],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Apa hikmah membaca salam di akhir shalat?",
+    "options": ["Sebagai tanda kelegaan karena tugas berat telah usai", "Untuk memanggil malaikat maut", "Sebagai doa keselamatan bagi sesama.", "Memberi kode kepada makmum untuk segera keluar masjid"],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "question": "Mengapa orang tua perlu memberi teladan shalat?",
+    "options": ["Agar anak lebih mudah meniru kebiasaan baik.", "Untuk membuktikan bahwa orang tua tidak pernah berdosa", "Agar anak merasa terintimidasi dan takut kepada orang tua", "Sebagai ganti hukuman fisik jika anak berbuat salah"],
+    "answer": 0
+  },
+  {
+    "id": 59,
+    "question": "Bagaimana shalat dapat memperkuat iman?",
+    "options": ["Karena shalat memberikan kekayaan instan", "Karena shalat membuat seseorang selalu mengingat Allah.", "Dengan memperlihatkan wujud surga secara langsung", "Karena shalat menghapuskan kewajiban berzakat"],
+    "answer": 1
+  },
+  {
+    "id": 60,
+    "question": "Mengapa seseorang harus segera shalat ketika mendengar azan?",
+    "options": ["Karena azan adalah panggilan ibadah yang harus dipenuhi.", "Agar suara muazin cepat berhenti berbunyi", "Karena jika terlambat, masjid akan langsung dikunci", "Untuk berlomba menjadi yang pertama datang demi pujian"],
+    "answer": 0
+  },
+  {
+    "id": 61,
+    "question": "Apa dampak shalat terhadap kehidupan masyarakat?",
+    "options": ["Membuat masyarakat sering berkumpul untuk bergosip", "Membentuk masyarakat yang rukun dan saling menghormati.", "Masyarakat menjadi fanatik dan mengucilkan pendatang baru", "Menjadikan masjid sebagai tempat transaksi perdagangan"],
+    "answer": 1
+  },
+  {
+    "id": 62,
+    "question": "Mengapa shalat menjadi kewajiban utama setelah syahadat?",
+    "options": ["Karena shalat adalah ibadah yang paling mudah dilakukan", "Karena shalat adalah bukti ketaatan seorang muslim.", "Sebagai syarat untuk bisa memotong hewan kurban", "Agar seseorang bisa diakui kewarganegaraannya di negara Arab"],
+    "answer": 1
+  },
+  {
+    "id": 63,
+    "question": "Bagaimana shalat membantu menghindari perilaku buruk?",
+    "options": ["Dengan menciptakan rasa cemas paranoid setiap kali ingin maksiat", "Karena shalat mengingatkan pada perintah dan larangan Allah.", "Karena gerakan rukuk dan sujud melemaskan otot niat buruk", "Shalat memutus interaksi dengan orang-orang di luar Islam"],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Mengapa Islam menganjurkan shalat berjamaah?",
+    "options": ["Karena pahalanya lebih besar dan mempererat persaudaraan.", "Agar biaya perawatan masjid bisa ditanggung bersama", "Sebagai syarat untuk bisa mendirikan khilafah", "Untuk mengabsen warga yang tidak taat aturan desa"],
+    "answer": 0
+  },
+  {
+    "id": 65,
+    "question": "Bagaimana cara menjaga semangat shalat lima waktu?",
+    "options": ["Dengan memberikan hadiah uang kepada diri sendiri setiap usai shalat", "Mengingat ancaman neraka tanpa mempedulikan kasih sayang Allah", "Dengan memahami manfaat dan keutamaan shalat.", "Mengandalkan motivasi dari teman saja tanpa dorongan internal"],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "question": "Apa makna membaca tasbih saat rukuk dan sujud?",
+    "options": ["Menenangkan pikiran (relaksasi) seperti dalam meditasi yoga", "Memuji kesucian dan kebesaran Allah.", "Meminta agar urusan bisnis dilancarkan hari itu", "Menghitung jumlah rakaat agar tidak lupa"],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Mengapa shalat dapat menjadi penolong dalam hidup?",
+    "options": ["Karena shalat memberi ketenangan dan petunjuk dari Allah.", "Karena orang yang shalat akan dibantu oleh malaikat secara fisik", "Dengan shalat, hutang-hutang finansial akan otomatis lunas", "Shalat memberikan kekebalan terhadap semua penyakit mematikan"],
+    "answer": 0
+  },
+  {
+    "id": 68,
+    "question": "Bagaimana pengaruh shalat terhadap sikap disiplin waktu?",
+    "options": ["Shalat membiasakan seseorang mematuhi jadwal.", "Membiasakan seseorang untuk selalu begadang setiap malam", "Memaksa manusia menghentikan semua urusan duniawinya selamanya", "Seseorang menjadi tergesa-gesa dalam setiap pekerjaannya"],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "Mengapa seseorang harus menjaga kekhusyukan shalat?",
+    "options": ["Agar ibadah lebih bermakna dan diterima Allah.", "Untuk menghindari teguran dari imam masjid", "Sebagai bentuk pamer spiritualitas kepada jamaah lain", "Agar waktu terasa berjalan lebih cepat"],
+    "answer": 0
+  },
+  {
+    "id": 70,
+    "question": "Bagaimana shalat dapat menumbuhkan rasa ikhlas?",
+    "options": ["Karena shalat tidak menghasilkan uang", "Karena shalat dilakukan semata-mata untuk Allah.", "Dengan mengabaikan semua pujian dan cacian dari manusia sama sekali", "Karena shalat adalah ibadah yang membosankan sehingga melatih pasrah"],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Apa manfaat shalat berjamaah bagi anak muda?",
+    "options": ["Untuk mencari tempat berkumpul (nongkrong) secara gratis", "Menambah pertemanan baik dan membentuk karakter religius.", "Agar mereka bisa bermain ponsel di barisan belakang tanpa ketahuan", "Sebagai alasan untuk bisa keluar rumah di malam hari"],
+    "answer": 1
+  },
+  {
+    "id": 72,
+    "question": "Mengapa gerakan shalat harus dilakukan tertib?",
+    "options": ["Karena shalat memiliki aturan yang harus dipatuhi.", "Untuk membentuk koreografi yang indah dan rapi", "Agar tidak menabrak jamaah di sebelahnya secara fisik", "Sebagai pemanasan olahraga ringan sebelum beraktivitas"],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "Bagaimana shalat membantu seseorang lebih sabar?",
+    "options": ["Karena shalat melatih pengendalian emosi.", "Dengan memaksa seseorang diam tidak melawan saat disakiti", "Karena durasi shalat sangat lama sehingga melatih ketahanan", "Shalat mengajarkan untuk tidak peduli dengan masalah orang lain"],
+    "answer": 0
+  },
+  {
+    "id": 74,
+    "question": "Mengapa orang yang rajin shalat biasanya lebih tenang?",
+    "options": ["Karena mereka tidak memiliki ambisi hidup", "Karena selalu mengingat dan bergantung kepada Allah.", "Karena mereka selalu menghindari interaksi sosial", "Agar terlihat misterius dan berwibawa di mata orang awam"],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "Bagaimana shalat mengajarkan rasa persaudaraan?",
+    "options": ["Karena umat Islam berkumpul bersama tanpa membedakan status.", "Dengan mewajibkan jamaah membagi hartanya sehabis shalat", "Memaksa orang yang bermusuhan untuk saling berpelukan", "Karena hanya orang kaya yang diperbolehkan mengisi shaf terdepan"],
+    "answer": 0
+  },
+  {
+    "id": 76,
+    "question": "Mengapa shalat perlu diajarkan sejak dini?",
+    "options": ["Agar menjadi kebiasaan dan kebutuhan hidup.", "Sebagai jaminan agar anak tersebut menjadi ustaz kelak", "Agar orang tua bisa melepaskan tanggung jawab pengawasan", "Untuk memenuhi kurikulum pendidikan agama di sekolah dasar"],
+    "answer": 0
+  },
+  {
+    "id": 77,
+    "question": "Bagaimana cara memperbaiki shalat yang kurang khusyuk?",
+    "options": ["Dengan shalat secepat mungkin agar pikiran tidak kemana-mana", "Mengurangi gangguan dan memahami bacaan shalat.", "Meminum obat penenang sebelum masuk ke masjid", "Meminta orang lain menggantikan kewajiban shalat kita"],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Apa hikmah menjaga kesucian tempat shalat?",
+    "options": ["Agar ibadah dilakukan dengan nyaman dan sah.", "Untuk memamerkan sajadah mewah yang mahal", "Agar tidak perlu membersihkan lantai masjid setiap hari", "Sebagai syarat agar doa untuk memusnahkan musuh terkabul"],
+    "answer": 0
+  },
+  {
+    "id": 79,
+    "question": "Mengapa shalat menjadi sarana mendekatkan diri kepada Allah?",
+    "options": ["Karena dalam shalat manusia berdoa dan mengingat Allah.", "Karena masjid adalah satu-satunya tempat Allah berada", "Dengan shalat, manusia perlahan-lahan berubah menjadi malaikat", "Karena shalat menghentikan waktu secara gaib"],
+    "answer": 0
+  },
+  {
+    "id": 80,
+    "question": "Bagaimana shalat dapat memperbaiki perilaku seseorang?",
+    "options": ["Karena shalat mengajarkan nilai kebaikan dan tanggung jawab.", "Dengan memberikan ancaman penjara bagi yang berbuat salah", "Mencuci otak manusia agar tidak lagi memiliki hawa nafsu", "Karena shalat akan menghukum pelakunya secara langsung saat berdosa"],
+    "answer": 0
+  },
+  {
+    "id": 81,
+    "question": "Apa dampak positif shalat berjamaah di lingkungan masyarakat?",
+    "options": ["Memperkuat hubungan sosial dan kebersamaan.", "Menciptakan kelompok elit yang merasa paling suci di desa", "Memaksa semua warga untuk memiliki pendapat politik yang sama", "Menurunkan harga bahan pokok karena berkahnya shalat"],
+    "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "Mengapa seseorang harus menjaga bacaan shalat dengan benar?",
+    "options": ["Agar suaranya terdengar merdu bak penyanyi", "Karena bacaan yang benar menyempurnakan ibadah.", "Untuk menakut-nakuti jin dan setan di sekitarnya", "Sebagai bukti bahwa ia fasih berbahasa Arab"],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "Bagaimana shalat membantu seseorang lebih bersyukur?",
+    "options": ["Karena setelah shalat ia pasti akan diberikan makanan", "Karena shalat mengingatkan nikmat yang diberikan Allah.", "Dengan membandingkan dirinya dengan orang yang cacat", "Karena dengan shalat semua keinginannya langsung terpenuhi"],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "Mengapa orang yang shalat harus menjaga lisannya?",
+    "options": ["Karena shalat mengajarkan akhlak mulia.", "Agar suaranya tidak habis dan serak", "Karena berbicara banyak akan membatalkan puasanya", "Untuk menciptakan kesan misterius dan berwibawa"],
+    "answer": 0
+  },
+  {
+    "id": 85,
+    "question": "Bagaimana cara menumbuhkan kecintaan terhadap shalat?",
+    "options": ["Dengan memaksakan diri secara terus-menerus tanpa henti", "Dengan memahami manfaat dan keutamaannya.", "Membeli perlengkapan ibadah yang mahal dan bermerek", "Mengandalkan motivasi eksternal dari pujian teman"],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Apa hubungan shalat dengan rasa tanggung jawab?",
+    "options": ["Shalat melatih seseorang melaksanakan kewajiban tepat waktu.", "Shalat menghapuskan beban kerja di kantor", "Orang yang shalat bertanggung jawab atas dosa orang lain", "Shalat membatasi kreativitas manusia dalam bekerja"],
+    "answer": 0
+  },
+  {
+    "id": 87,
+    "question": "Mengapa orang yang shalat tidak boleh meremehkan orang lain?",
+    "options": ["Karena orang lain bisa saja membalas dendam secara kasar", "Karena shalat mengajarkan rendah hati dan persaudaraan.", "Agar ia dihormati sebagai orang yang berkuasa", "Karena meremehkan orang lain adalah hak eksklusif pimpinan"],
+    "answer": 1
+  },
+  {
+    "id": 88,
+    "question": "Bagaimana shalat membantu membangun karakter baik?",
+    "options": ["Dengan mengubah DNA seseorang secara perlahan", "Karena shalat melatih disiplin, jujur, dan sabar.", "Mencuci otak manusia dari segala bentuk ambisi pribadi", "Karena shalat menjanjikan imbalan materi secara langsung"],
+    "answer": 1
+  },
+  {
+    "id": 89,
+    "question": "Mengapa shalat harus dilakukan dengan pakaian bersih?",
+    "options": ["Agar terlihat rapi dan gaya saat difoto", "Karena kebersihan menjadi syarat sah shalat.", "Untuk membedakan kelas sosial antar jamaah", "Sebagai bentuk persaingan fashion antar umat Islam"],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "Bagaimana shalat mengingatkan manusia kepada akhirat?",
+    "options": ["Karena shalat adalah bentuk siksaan ringan di dunia", "Karena shalat membuat manusia sadar akan kehidupan setelah mati.", "Dengan memunculkan bayangan neraka secara visual", "Karena bacaan shalat hanya menceritakan kiamat"],
+    "answer": 1
+  },
+  {
+    "id": 91,
+    "question": "Apa hikmah membaca tahiyat dalam shalat?",
+    "options": ["Untuk beristirahat sejenak sebelum shalat selesai", "Sebagai penghormatan dan doa kepada Allah.", "Sebagai tanda bahwa shalat akan segera diulang", "Untuk memberi kode agar jamaah lain bersiap pulang"],
+    "answer": 1
+  },
+  {
+    "id": 92,
+    "question": "Mengapa shalat dapat memperkuat hubungan antarumat Islam?",
+    "options": ["Karena shalat berjamaah mempertemukan umat secara rutin.", "Karena semua jamaah diwajibkan menyumbangkan hartanya", "Mewajibkan jamaah untuk selalu memikirkan pendapat politik yang sama", "Karena masjid adalah satu-satunya tempat berkumpul yang gratis"],
+    "answer": 0
+  },
+  {
+    "id": 93,
+    "question": "Bagaimana cara menjaga istiqamah dalam shalat?",
+    "options": ["Dengan disiplin dan selalu mengingat kewajiban kepada Allah.", "Meninggalkan semua urusan dunia seperti pekerjaan dan keluarga", "Meminta orang lain untuk selalu memantau aktivitas kita 24 jam", "Dengan menggabungkan semua shalat di akhir hari sekaligus"],
+    "answer": 0
+  },
+  {
+    "id": 94,
+    "question": "Mengapa shalat menjadi amalan pertama yang dihisab?",
+    "options": ["Karena shalat paling mudah dicatat oleh malaikat", "Karena shalat adalah ibadah utama dalam Islam.", "Agar manusia cepat masuk ke dalam surga atau neraka", "Karena shalat adalah satu-satunya amal yang bernilai pahala"],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Bagaimana shalat mengajarkan rasa hormat kepada orang lain?",
+    "options": ["Karena shalat membentuk akhlak sopan dan rendah hati.", "Dengan memaksa jamaah menunduk saat orang miskin lewat", "Karena orang shalat dilarang berbicara selamanya dengan sesama", "Mengajarkan untuk diam ketika melihat kezaliman di depan mata"],
+    "answer": 0
+  },
+  {
+    "id": 96,
+    "question": "Apa manfaat shalat bagi kesehatan fisik?",
+    "options": ["Gerakan shalat membantu melatih kelenturan dan ketenangan tubuh.", "Shalat dapat menyembuhkan semua penyakit menular secara instan", "Menggantikan kebutuhan tubuh akan asupan gizi dan vitamin", "Membuat tubuh menjadi kebal dari senjata tajam"],
+    "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "Mengapa seseorang harus menjaga konsistensi shalat lima waktu?",
+    "options": ["Agar iman tetap kuat dan hubungan dengan Allah terjaga.", "Untuk memecahkan rekor ibadah terbanyak di lingkungannya", "Sebagai syarat administratif dalam mengurus surat-surat negara", "Agar ia terbebas dari kewajiban berpuasa di bulan Ramadhan"],
+    "answer": 0
+  },
+  {
+    "id": 98,
+    "question": "Bagaimana shalat membantu seseorang lebih optimis?",
+    "options": ["Karena shalat memberikan harapan dan ketenangan hati.", "Dengan menipu diri sendiri bahwa kenyataan pahit itu ilusi", "Karena setiap doa pasti langsung dikabulkan saat itu juga", "Shalat membuktikan bahwa ia lebih baik dari semua manusia di bumi"],
+    "answer": 0
+  },
+  {
+    "id": 99,
+    "question": "Mengapa orang yang rajin shalat harus menjadi teladan?",
+    "options": ["Agar ia mendapatkan posisi kepemimpinan di masyarakat", "Karena perilakunya dapat memberi contoh baik bagi orang lain.", "Untuk memamerkan tingkat kesalehannya yang tinggi", "Agar orang lain merasa rendah diri dan berdosa"],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Bagaimana cara menjadikan shalat sebagai kebutuhan hidup?",
+    "options": ["Dengan memahami makna shalat dan membiasakannya setiap hari.", "Dengan mengonsumsi obat-obatan yang memicu rasa rindu akan shalat", "Memaksa diri hingga jatuh sakit jika tidak melaksanakan ibadah sunnah", "Dengan mengubah shalat menjadi aktivitas hiburan semata"],
+    "answer": 0
+  }
+]

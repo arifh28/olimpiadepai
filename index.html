@@ -65,9 +65,13 @@
                     <h5 class="modal-title fw-bold"><i class="fa-solid fa-user-graduate me-2"></i> Identitas Siswa</h5>
                 </div>
                 <div class="modal-body">
-                    <p>Silakan masukkan nama lengkap Anda sebelum memulai latihan soal.</p>
-                    <input type="text" id="userNameInput" class="form-control form-control-lg" placeholder="Contoh: Ahmad Fulan..." required>
-                    <div class="text-danger small mt-2 d-none" id="nameError">Nama tidak boleh kosong!</div>
+                    <p>Silakan pilih nama Anda sebelum memulai latihan soal.</p>
+                    <select id="userNameInput" class="form-select form-select-lg" required>
+                        <option value="null" selected disabled>-- Pilih Nama Peserta --</option>
+                        <option value="MALIKHA AZZAHRA PUTRI">MALIKHA AZZAHRA PUTRI</option>
+                        <option value="NAUFAL FAIQ ARRAFI">NAUFAL FAIQ ARRAFI</option>
+                    </select>
+                    <div class="text-danger small mt-2 d-none" id="nameError">Silakan pilih nama peserta terlebih dahulu!</div>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary w-100 fw-bold" id="saveNameBtn">Simpan & Mulai</button>
